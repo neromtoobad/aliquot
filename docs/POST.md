@@ -1,6 +1,6 @@
 ---
 title: "Aliquot: the kit says 68 °C, the textbook says 72. An agent that knows which one is your bench"
-published: false
+published: true
 tags: devchallenge, sanitychallenge, sanity, ai
 cover_image: https://raw.githubusercontent.com/neromtoobad/aliquot/main/docs/img/landing.jpg
 ---
@@ -169,6 +169,6 @@ Honest notes: Aliquot's first full run was 11/12. The one failure was a connect 
 
 ## Agent Session
 
-<!-- AGENT SESSION EMBED GOES HERE -->
+{% agent_session nerom-session-5cikjl %}
 
 I built Aliquot with Claude Code in one sitting on the last day of the challenge. The session includes the part I'd normally cut. My first concept was a hackathon-rules agent, but a survey of the existing entries showed someone had already shipped one with the same name. So I pivoted to the domain I actually work in, and the research for the second idea is the dataset you can query above. It also shows the bugs: the AI Gateway free tier refusing Claude, a verdict schema that rejected OpenAI's `null`s, and a master-mix calculator that first treated template DNA as "fill to volume".

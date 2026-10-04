@@ -1,6 +1,6 @@
 ---
 title: "Bench Court: Case Western v. University of Washington, or how my lab protocols went on trial"
-published: false
+published: true
 tags: devchallenge, sanitychallenge, sanity, ai
 cover_image: https://raw.githubusercontent.com/neromtoobad/aliquot/main/docs/img/court-case.jpg
 ---
@@ -148,4 +148,4 @@ The first version named cases after page titles and produced *"Biological Spill 
 
 ## Agent Session
 
-<!-- AGENT SESSION EMBED GOES HERE (redact the Dashboard iframe token and your email) -->
+{% agent_session nerom-session-5cikjl %}
