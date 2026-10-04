@@ -1,0 +1,51 @@
+[
+  {
+    "id": "taq-program",
+    "kind": "computed",
+    "ok": false,
+    "hits": [
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read",
+      "pcr_program"
+    ],
+    "seconds": 34
+  },
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "caution",
+    "headline": "If someone just says “LB broth” here, make LB Miller (10 g/L NaCl); preparation depends on whether you’re using Sigma L3522 premix or mixing from scratch.",
+    "tools": [
+      "groq_query",
+      "scale_recipe",
+      "knowledge_base_read",
+      "verdict"
+    ],
+    "seconds": 37
+  },
+  {
+    "id": "heat-shock-conflict",
+    "kind": "conflict",
+    "ok": false,
+    "hits": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read"
+    ],
+    "seconds": 28
+  }
+]

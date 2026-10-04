@@ -1,0 +1,52 @@
+[
+  {
+    "id": "taq-program",
+    "kind": "computed",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "go",
+    "headline": "Use NEB Taq program: 95 °C initial, 25–35 cycles of 95 °C denaturation, 53 °C annealing, 68 °C extension (≈1:12), final 5 min at 68 °C.",
+    "tools": [
+      "groq_query",
+      "groq_query",
+      "pcr_program",
+      "verdict"
+    ],
+    "seconds": 48
+  },
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "go",
+    "headline": "Prepare LB Miller (default 'LB'): per litre dissolve tryptone 10 g, yeast extract 5 g, NaCl 10 g; autoclave (see sources/ruling).",
+    "tools": [
+      "groq_query",
+      "knowledge_base_read",
+      "verdict"
+    ],
+    "seconds": 37
+  },
+  {
+    "id": "heat-shock-conflict",
+    "kind": "conflict",
+    "ok": false,
+    "hits": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query"
+    ],
+    "seconds": 54
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "taq-program",
+    "kind": "computed",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "go",
+    "headline": "NEB Taq (M0273) PCR program for a 1,200 bp amplicon with primer Tms 58/61 °C: use 53 °C annealing and 1:12 extension at 68 °C.",
+    "tools": [
+      "groq_query",
+      "groq_query",
+      "groq_query",
+      "groq_query",
+      "pcr_program",
+      "groq_query",
+      "knowledge_base_read",
+      "verdict"
+    ],
+    "seconds": 66
+  }
+]

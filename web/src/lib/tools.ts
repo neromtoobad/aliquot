@@ -15,9 +15,9 @@ export const pcrProgram = tool({
   inputSchema: z.object({
     polymerase: z.string().describe('slug of the polymerase document, e.g. "neb-taq"'),
     ampliconBp: z.number().int().positive().describe('Product length in base pairs'),
-    primerTmC: z.array(z.number()).min(1).max(2).optional().describe('Primer melting temperatures in °C, if known'),
-    reactions: z.number().int().min(1).max(384).optional().describe('Number of reactions for the master mix'),
-    overagePct: z.number().min(0).max(50).optional().describe('Extra volume for pipetting loss, default 10%'),
+    primerTmC: z.array(z.number()).min(1).max(2).nullish().describe('Primer melting temperatures in °C, if known'),
+    reactions: z.number().int().min(1).max(384).nullish().describe('Number of reactions for the master mix'),
+    overagePct: z.number().min(0).max(50).nullish().describe('Extra volume for pipetting loss, default 10%'),
   }),
   execute: async ({polymerase, ampliconBp, primerTmC, reactions, overagePct}) => {
     const p = await client.fetch<PolymeraseDoc | null>(
@@ -25,7 +25,7 @@ export const pcrProgram = tool({
       {slug: polymerase},
     )
     if (!p) return {error: `No polymerase "${polymerase}" in the ledger. Query *[_type=="polymerase"]{name, "slug": slug.current} to find the right slug.`}
-    return computePcr(p, {ampliconBp, primerTmC, reactions, overagePct})
+    return computePcr(p, {ampliconBp, primerTmC: primerTmC ?? undefined, reactions: reactions ?? undefined, overagePct: overagePct ?? undefined})
   },
 })
 
@@ -63,9 +63,9 @@ export const dilute = tool({
 const claimRef = z.object({
   text: z.string().describe('What the source says, quoted or closely paraphrased'),
   source: z.string().describe('Source title'),
-  url: z.string().optional(),
-  authority: z.number().min(1).max(5).optional().describe('Source authority 1–5 from the ledger'),
-  appliesWhen: z.string().optional(),
+  url: z.string().nullish(),
+  authority: z.number().min(1).max(5).nullish().describe('Source authority 1–5 from the ledger'),
+  appliesWhen: z.string().nullish(),
 })
 
 export const verdict = tool({
@@ -76,25 +76,25 @@ export const verdict = tool({
       .enum(['go', 'caution', 'stop', 'info'])
       .describe('go = do it this way; caution = fine with a condition or the sources disagree; stop = unsafe or wrong, do not; info = a factual answer'),
     headline: z.string().describe('One plain sentence answering the question.'),
-    assumes: z.string().optional().describe('The context the answer assumes, e.g. "NEB Taq, 1.2 kb product, Tm 58/60 °C"'),
+    assumes: z.string().nullish().describe('The context the answer assumes, e.g. "NEB Taq, 1.2 kb product, Tm 58/60 °C"'),
     values: z
-      .array(z.object({label: z.string(), value: z.string(), note: z.string().optional()}))
-      .optional()
+      .array(z.object({label: z.string(), value: z.string(), note: z.string().nullish()}))
+      .nullish()
       .describe('The numbers to use (from calculator tools or the ledger)'),
     program: z
       .array(z.object({step: z.string(), tempC: z.string(), time: z.string(), repeat: z.string()}))
-      .optional()
+      .nullish()
       .describe('A thermal program, copied from pcr_program'),
     mix: z
       .array(z.object({component: z.string(), perReaction: z.string(), total: z.string()}))
-      .optional()
+      .nullish()
       .describe('A master mix or scaled recipe table, copied from the calculator'),
     conflicts: z
       .array(z.object({parameter: z.string(), claims: z.array(claimRef).min(2), ruling: z.string()}))
-      .optional(),
-    safety: z.array(z.object({hazard: z.string(), action: z.string(), source: z.string().optional()})).optional(),
-    labRules: z.array(z.string()).optional().describe('House SOP rules that changed the answer'),
-    sources: z.array(z.object({title: z.string(), url: z.string().optional()})),
+      .nullish(),
+    safety: z.array(z.object({hazard: z.string(), action: z.string(), source: z.string().nullish()})).nullish(),
+    labRules: z.array(z.string()).nullish().describe('House SOP rules that changed the answer'),
+    sources: z.array(z.object({title: z.string(), url: z.string().nullish()})),
   }),
   execute: async () => ({delivered: true}),
 })

@@ -46,3 +46,23 @@ export async function getDisputes(): Promise<Dispute[]> {
     return []
   }
 }
+
+// A compact index of every subject, inlined into the system prompt so the agent
+// can go straight to the claims instead of spending turns finding ids.
+export const CATALOG_QUERY = `{
+  "polymerases": *[_type == "polymerase"]{_id, name, manufacturer, catalog, "slug": slug.current},
+  "recipes": *[_type == "recipe"]{_id, name, aliases, "slug": slug.current},
+  "protocols": *[_type == "protocol"]{_id, title, appliesTo, "technique": technique->name},
+  "reagents": *[_type == "reagent"]{_id, name, aliases},
+  "labRules": *[_type == "labRule"]{_id, title, rule, severity, "appliesTo": appliesTo[]->_id}
+}`
+
+let catalogCache: {text: string; at: number} | null = null
+
+export async function getCatalog(): Promise<string> {
+  if (catalogCache && Date.now() - catalogCache.at < 5 * 60 * 1000) return catalogCache.text
+  const c = await client.fetch(CATALOG_QUERY, {}, {cache: 'no-store'})
+  const text = JSON.stringify(c)
+  catalogCache = {text, at: Date.now()}
+  return text
+}

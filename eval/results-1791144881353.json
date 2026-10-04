@@ -1,0 +1,50 @@
+[
+  {
+    "id": "taq-program",
+    "ok": false,
+    "error": "TypeError: terminated"
+  },
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": false,
+    "hits": [
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read"
+    ],
+    "seconds": 24
+  },
+  {
+    "id": "heat-shock-conflict",
+    "kind": "conflict",
+    "ok": false,
+    "hits": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read"
+    ],
+    "seconds": 33
+  },
+  {
+    "id": "autoclave-bleach",
+    "kind": "safety",
+    "ok": false,
+    "hits": [
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read"
+    ],
+    "seconds": 35
+  }
+]

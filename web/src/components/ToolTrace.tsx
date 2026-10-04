@@ -11,6 +11,7 @@ export type TraceStep = {
 
 const LABEL: Record<string, string> = {
   knowledge_base_read: 'Read Knowledge Base entries',
+  knowledge_base_search: 'Searched the Knowledge Base',
   groq_query: 'Queried the ledger (GROQ)',
   schema_explorer: 'Looked up the schema',
   array_field_reader: 'Read a long field',
@@ -22,6 +23,7 @@ const LABEL: Record<string, string> = {
 
 const SOURCE: Record<string, string> = {
   knowledge_base_read: 'Protocol KB',
+  knowledge_base_search: 'Protocol KB',
   groq_query: 'Ledger',
   schema_explorer: 'Ledger',
   array_field_reader: 'Ledger',
@@ -33,6 +35,7 @@ const SOURCE: Record<string, string> = {
 function summary(step: TraceStep): string {
   const input = (step.input ?? {}) as Record<string, unknown>
   if (step.name === 'knowledge_base_read' && Array.isArray(input.paths)) return (input.paths as string[]).join(' · ')
+  if (step.name === 'knowledge_base_search') return String(input.query ?? JSON.stringify(input))
   if (step.name === 'groq_query' && typeof input.query === 'string') return input.query
   if (step.name === 'schema_explorer') return String(input.type ?? '') + (input.path ? `.${input.path}` : '')
   if (step.name === 'pcr_program') return `${input.polymerase} · ${input.ampliconBp} bp${input.reactions ? ` · ${input.reactions} rxns` : ''}`
@@ -58,7 +61,7 @@ function resultCount(step: TraceStep): string | null {
 export function ToolTrace({steps, live}: {steps: TraceStep[]; live: boolean}) {
   const [open, setOpen] = useState(false)
   if (steps.length === 0) return null
-  const kb = steps.filter((s) => s.name === 'knowledge_base_read').length
+  const kb = steps.filter((s) => s.name.startsWith('knowledge_base')).length
   const groq = steps.filter((s) => s.name === 'groq_query').length
 
   return (
@@ -80,7 +83,7 @@ export function ToolTrace({steps, live}: {steps: TraceStep[]; live: boolean}) {
           <span>
             <span className="font-medium text-ink">How I checked</span>
             {' — '}
-            {kb > 0 && `${kb} Knowledge Base read${kb > 1 ? 's' : ''}`}
+            {kb > 0 && `${kb} Knowledge Base call${kb > 1 ? 's' : ''}`}
             {kb > 0 && groq > 0 && ', '}
             {groq > 0 && `${groq} GROQ quer${groq > 1 ? 'ies' : 'y'}`}
             {kb === 0 && groq === 0 && `${steps.length} step${steps.length > 1 ? 's' : ''}`}

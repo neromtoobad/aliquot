@@ -1,0 +1,38 @@
+[
+  {
+    "id": "taq-program",
+    "kind": "computed",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "go",
+    "headline": "NEB Taq program: 95°C 30 s; 25–35 cycles of (95°C 15–30 s, 53°C 15 s–1 min, 68°C 1 min 12 s); final extension 68°C 5 min.",
+    "tools": [
+      "groq_query",
+      "knowledge_base_read",
+      "pcr_program",
+      "verdict"
+    ],
+    "seconds": 39
+  },
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "go",
+    "headline": "Prepare LB Miller: for 1 L, dissolve 10 g tryptone, 5 g yeast extract and 10 g NaCl; autoclave and cool before adding antibiotics.",
+    "tools": [
+      "groq_query",
+      "knowledge_base_read",
+      "groq_query",
+      "verdict"
+    ],
+    "seconds": 72
+  }
+]

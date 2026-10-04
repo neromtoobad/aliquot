@@ -3,13 +3,15 @@
 import {readFileSync, writeFileSync} from 'node:fs'
 
 const base = process.argv[2] ?? 'http://localhost:3330'
-const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url)))
+const only = process.argv[3] && process.argv[3] !== 'all' ? process.argv[3].split(',') : null
+const model = process.argv[4]
+const questions = JSON.parse(readFileSync(new URL('./questions.json', import.meta.url))).filter((q) => !only || only.includes(q.id))
 
 async function ask(q) {
   const res = await fetch(`${base}/api/chat`, {
     method: 'POST',
     headers: {'content-type': 'application/json'},
-    body: JSON.stringify({messages: [{id: 'u1', role: 'user', parts: [{type: 'text', text: q}]}]}),
+    body: JSON.stringify({model, messages: [{id: 'u1', role: 'user', parts: [{type: 'text', text: q}]}]}),
   })
   if (!res.ok) throw new Error(`${res.status} ${await res.text()}`)
   // UI message stream: SSE lines "data: {...}"

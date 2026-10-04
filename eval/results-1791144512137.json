@@ -1,0 +1,68 @@
+[
+  {
+    "id": "taq-program",
+    "kind": "computed",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "go",
+    "headline": "Use NEB Taq with 53 °C annealing and 68 °C extension for a 1.2 kb product (1 min 12 s extension).",
+    "tools": [
+      "groq_query",
+      "groq_query",
+      "pcr_program",
+      "verdict"
+    ],
+    "seconds": 66
+  },
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": false,
+    "hits": [
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "groq_query",
+      "knowledge_base_read"
+    ],
+    "seconds": 69
+  },
+  {
+    "id": "heat-shock-conflict",
+    "kind": "conflict",
+    "ok": false,
+    "hits": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "groq_query",
+      "groq_query",
+      "groq_query"
+    ],
+    "seconds": 44
+  },
+  {
+    "id": "autoclave-bleach",
+    "kind": "safety",
+    "ok": true,
+    "hits": [
+      true
+    ],
+    "verdict": "stop",
+    "headline": "Do not autoclave liquid waste that has been treated with bleach.",
+    "tools": [
+      "groq_query",
+      "verdict"
+    ],
+    "seconds": 22
+  }
+]

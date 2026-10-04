@@ -1,0 +1,36 @@
+[
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "info",
+    "headline": "In this lab, “LB” defaults to LB broth (Miller): 10 g/L tryptone, 5 g/L yeast extract, 10 g/L NaCl, then sterilize on a liquid autoclave cycle.",
+    "tools": [
+      "groq_query",
+      "knowledge_base_read",
+      "scale_recipe",
+      "verdict"
+    ],
+    "seconds": 75
+  },
+  {
+    "id": "heat-shock-conflict",
+    "kind": "conflict",
+    "ok": false,
+    "hits": [
+      false,
+      false,
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read"
+    ],
+    "seconds": 40
+  }
+]

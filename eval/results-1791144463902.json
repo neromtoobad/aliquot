@@ -1,0 +1,35 @@
+[
+  {
+    "id": "taq-program",
+    "kind": "computed",
+    "ok": false,
+    "hits": [
+      false,
+      false
+    ],
+    "tools": [
+      "groq_query",
+      "knowledge_base_read",
+      "pcr_program"
+    ],
+    "seconds": 296
+  },
+  {
+    "id": "lb-ambiguous",
+    "kind": "disambiguation",
+    "ok": true,
+    "hits": [
+      true,
+      true
+    ],
+    "verdict": "info",
+    "headline": "In this lab, “LB broth” means LB Miller (10 g/L NaCl); for 1 L, dissolve tryptone 10 g + yeast extract 5 g + NaCl 10 g (or 25 g Sigma L3522 premix) in water and autoclave on a liquid cycle, then cool before adding antibiotics.",
+    "tools": [
+      "scale_recipe",
+      "knowledge_base_read",
+      "groq_query",
+      "verdict"
+    ],
+    "seconds": 53
+  }
+]
