@@ -2,7 +2,7 @@
 
 Everything below is configured in the Context app in the Sanity Dashboard.
 
-## Knowledge Base: "Aliquot protocols"
+## Knowledge Base: "Aliquot protocols" (`kbpYrfrMZRvi`)
 
 **Purpose:** Bench-side protocol reference for students and researchers in molecular biology and microbiology teaching labs. Covers PCR polymerases and cycling, agarose gels and running buffers, DNA extraction and quantification, LB media variants, Gram staining, bacterial transformation, autoclaving and bleach disinfection, and says which source applies when sources disagree.
 
@@ -19,15 +19,16 @@ Everything below is configured in the Context app in the Sanity Dashboard.
 }
 ```
 
-**Website sources** (the most specific URLs, all public):
-- https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273
-- https://www.neb.com/en/protocols/pcr-using-q5-high-fidelity-dna-polymerase-m0491
-- https://www.neb.com/en/protocols/high-efficiency-transformation-protocol-c2987
+**Website sources** (one page each: max depth 1, page limit 1):
 - https://www.addgene.org/protocols/gel-electrophoresis/
 - https://www.addgene.org/protocols/bacterial-transformation/
-- https://www.addgene.org/protocols/pouring-lb-agar-plates/
 - https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html
-- https://ehs.stanford.edu/manual/biosafety-manual/autoclaves
+
+NEB's protocol pages crawled to 0 documents (bot protection), so they were removed. NEB's values are still in the KB through the dataset source, quoted from those pages.
+
+**What the build produced.** 36 source documents became 13 entries: agarose gels and running buffers, autoclaving, transformation, common buffers, bleach disinfection, NanoDrop, spin-column extraction, gel stains, Gram staining, LB media variants, PCR contamination control and enzyme-specific PCR protocols. Each entry cites its sources.
+
+**The issue it raised.** The build raised one *Critical* conflict: LB broth autoclaved 15 min (Sigma L3522) vs a 30-minute minimum cycle (Virginia Tech EHS). That isn't a contradiction. One is sterilising a medium, the other is decontaminating biohazardous waste. A conflict has no third answer, so I dismissed it. Then I wrote a standing instruction anchored to both sources: *"Sterilising media and decontaminating biohazardous waste are different autoclave jobs, not conflicting values … Always name which job a time is for and never replace one with the other."* Saving it rebuilt the one entry that had blurred the two.
 
 ## MCP endpoints
 
