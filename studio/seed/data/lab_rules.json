@@ -1,0 +1,57 @@
+[
+ {
+  "lab": "Example teaching lab (demo SOP — replace with your own)",
+  "title": "No ethidium bromide",
+  "rule": "Ethidium bromide is not used in this lab. Stain agarose gels with SYBR Safe, and dispose of SYBR Safe gels as the manufacturer directs.",
+  "severity": "must",
+  "appliesTo": [
+   "ethidium-bromide",
+   "ethidium-bromide-1pct-solution",
+   "ethidium-bromide-invitrogen-15585011",
+   "sybr-safe",
+   "technique:gel"
+  ]
+ },
+ {
+  "lab": "Example teaching lab (demo SOP — replace with your own)",
+  "title": "LB means LB Miller here",
+  "rule": "When a protocol says \"LB\" without naming a variant, make LB Miller (10 g/L NaCl). Use Lennox or Luria only when a protocol names them.",
+  "severity": "should",
+  "appliesTo": [
+   "lb-miller",
+   "lb-lennox",
+   "lb-luria-low-salt",
+   "lb-agar-miller",
+   "addgene-lb-agar",
+   "technique:media"
+  ]
+ },
+ {
+  "lab": "Example teaching lab (demo SOP — replace with your own)",
+  "title": "Never autoclave bleach",
+  "rule": "Liquid waste that has been treated with bleach is never autoclaved. Once the contact time is over, pour it into the chemical waste carboy instead.",
+  "severity": "must",
+  "appliesTo": [
+   "technique:autoclave",
+   "technique:disinfection"
+  ]
+ },
+ {
+  "lab": "Example teaching lab (demo SOP — replace with your own)",
+  "title": "Pre-PCR and post-PCR stay apart",
+  "rule": "Set up PCR on ice at the pre-PCR bench. No amplified product, gel or used tips go into the pre-PCR area.",
+  "severity": "must",
+  "appliesTo": [
+   "technique:pcr"
+  ]
+ },
+ {
+  "lab": "Example teaching lab (demo SOP — replace with your own)",
+  "title": "Fill autoclave vessels two-thirds at most",
+  "rule": "Never fill a vessel more than two-thirds full for autoclaving, and loosen caps. Use the liquids cycle for media.",
+  "severity": "must",
+  "appliesTo": [
+   "technique:autoclave"
+  ]
+ }
+]

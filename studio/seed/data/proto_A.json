@@ -1,0 +1,1692 @@
+{
+ "sources": [
+  {
+   "key": "neb-taq-protocol",
+   "title": "PCR Protocol for Taq DNA Polymerase with Standard Taq Buffer (NEB #M0273)",
+   "url": "https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "New England Biolabs",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "Extension: The recommended extension temperature is 68°C. Extension times are generally 1 minute per kb. A final extension of 5 minutes at 68°C is recommended. Cycle number: Generally, 25–35 cycles yield sufficient product. Up to 45 cycles may be required to detect low-copy-number targets."
+  },
+  {
+   "key": "neb-onetaq-protocol",
+   "title": "PCR Using OneTaq® DNA Polymerase (NEB #M0480)",
+   "url": "https://www.neb.com/en/protocols/onetaqdnapolymerasem0480",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "New England Biolabs",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "Quickly transfer the reactions to a thermocycler preheated to the denaturation temperature (94°C) and begin thermocycling. ... Initial Denaturation 94°C 30 seconds; 30 Cycles 94°C 15-30 seconds, 45-68°C 15-60 seconds, 68°C 1 minute per kb; Final Extension 68°C 5 minutes; Hold 4-10°C"
+  },
+  {
+   "key": "neb-q5-protocol",
+   "title": "PCR Using Q5® High-Fidelity DNA Polymerase (NEB #M0491)",
+   "url": "https://www.neb.com/en/protocols/pcr-using-q5-high-fidelity-dna-polymerase-m0491",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "New England Biolabs",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "Annealing: Optimal annealing temperatures for Q5 High-Fidelity DNA Polymerase tend to be higher than for other PCR polymerases. The NEB Tm Calculator sshould be used to determine the annealing temperature when using this enzyme. Typically, use a 10–30 second annealing step at the recommended Ta. ... Extension: The recommended extension temperature is 72°C. Extension times are generally 20–30 seconds per kb for complex, genomic samples, but can be reduced to 10 seconds per kb for simple templates (plasmid, E. coli, etc.) or complex templates < 1 kb."
+  },
+  {
+   "key": "thermo-phusion-pis",
+   "title": "Phusion™ High–Fidelity DNA Polymerase Product Information Sheet (Cat. F530S, F530L)",
+   "url": "https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0012393_Phusion_HighFidelity_DNAPolymerase_UG.pdf",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Thermo Fisher Scientific",
+   "version": "Pub. No. MAN0012393 Rev. E.0",
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "Primer annealing: The optimal annealing temperature for Phusion High–Fidelity DNA Polymerase may differ significantly from that of Taq–based polymerases. Always use the Tm calculator and instructions on our website (www.thermofisher.com/tmcalculator) to determine the Tm values of primers and optimal annealing temperature. A 2-step protocol is recommended when primer Tm values are at least 69°C (> 20 nt) or 72°C (≤ 20 nt) when calculated with our Tm calculator."
+  },
+  {
+   "key": "thermo-dreamtaq-pis",
+   "title": "Thermo Scientific DreamTaq DNA Polymerase (Cat. EP0701–EP0705) product information",
+   "url": "https://assets.fishersci.com/TFS-Assets/LSG/manuals/MAN0012036_DreamTaqDNAPolymerase_500U_UG.pdf",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Thermo Fisher Scientific (hosted on assets.fishersci.com)",
+   "version": "Pub. No. MAN0012036 Rev. C.00 (©2022)",
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "Primer Annealing: The annealing temperature should be 5 °C lower than the melting temperature (Tm) of the primers. Annealing for 30 seconds is normally sufficient. ... Extension: The optimal extension temperature for DreamTaq DNA Polymerase is 70-75 °C. The recommended extension step is 1 min at 72 °C for PCR products up to 2 kb. For longer products, the extension time should be prolonged by 1 min/kb. For amplification of templates >6 kb a reduction of the extension temperature to 68 °C is recommended"
+  },
+  {
+   "key": "thermo-nanodrop-tn52646",
+   "title": "Assessment of Nucleic Acid Purity (Technical Note 52646)",
+   "url": "https://assets.thermofisher.com/TFS-Assets/CAD/Product-Bulletins/TN52646-E-0215M-NucleicAcid.pdf",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Thermo Fisher Scientific (B. Matlock)",
+   "version": "TN52646_E 02/15M",
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "A ratio of ~1.8 is generally accepted as \"pure\" for DNA; a ratio of ~2.0 is generally accepted as \"pure\" for RNA. Similarly, absorbance at 230 nm is accepted as being the result of other contamination; therefore the ratio of A260/A230 is frequently also calculated. The 260/230 values for \"pure\" nucleic acid are often higher than the respective 260/280 values. Expected 260/230 values are commonly in the range of 2.0–2.2."
+  },
+  {
+   "key": "qiagen-dneasy-handbook",
+   "title": "DNeasy® Blood & Tissue Handbook — Protocol: Purification of Total DNA from Animal Tissues (Spin-Column Protocol), pp. 33–36",
+   "url": "https://www.qiagen.com/en-US/resources/download/kitHandbookAndProtocol/hb-2061-004-hb-dny-blood-tissue-0623-ww",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "QIAGEN",
+   "version": "June 2023 (HB-2061-004)",
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "2. Add 20 µl Proteinase K. Mix thoroughly by vortexing, and incubate at 56°C until the tissue is completely lysed. ... Lysis is usually complete in 1–3 h or, for rodent tails, 6–8 h. If it is more convenient, samples can be lysed overnight; this will not affect them adversely. ... 3. Vortex for 15 s. Add 200 µl Buffer AL to the sample, and mix thoroughly by vortexing. Then add 200 µl ethanol (96–100%), and mix again thoroughly by vortexing."
+  },
+  {
+   "key": "neb-q5-kit-manual-e0555",
+   "title": "Q5® High-Fidelity PCR Kit Instruction Manual (NEB #E0555S/L)",
+   "url": "https://www.neb.com/en/-/media/nebus/files/manuals/manuale0555.pdf?rev=627d55764b62404e9bf1a0526034f173&hash=DFACB338D5D2B1F1799FABE40FFECBB5",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "New England Biolabs",
+   "version": "Version 5.0_7/25",
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "7. Annealing: Optimal annealing temperatures for Q5 High-Fidelity DNA Polymerase tend to be higher than for other PCR polymerases. The NEB Tm Calculator (www.neb.com/TmCalculator) should be used to determine the annealing temperature when this enzyme. Typically, use a 10–30 second annealing step at 3°C above the Tm of the lower Tm primer. ... 10. 2-step PCR: When primers with annealing temperatures ≤ 72°C are used, a 2-step thermocycling protocol (combining annealing and extension into one step) is possible."
+  },
+  {
+   "key": "thermo-gel-workflow",
+   "title": "Steps in Nucleic Acid Gel Electrophoresis (Invitrogen School of Molecular Biology)",
+   "url": "https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/na-electrophoresis-education/na-electrophoresis-workflow.html",
+   "kind": "manufacturerManual",
+   "authority": 4,
+   "publisher": "Thermo Fisher Scientific",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "Constant voltage is commonly employed in nucleic acid electrophoresis, with voltage typically set at 5–10 V/cm. Voltage to be applied (V) = distance between the electrodes (cm) x recommended V/cm ... Table 12. Run conditions based on fragment size: <1 kb 5–10 V/cm TBE; 1–5 kb 4–10 V/cm TAE or TBE; >5 kb 1–3 V/cm TAE; Up to 10 kb Up to 23 V/cm TAE"
+  },
+  {
+   "key": "thermo-ambion-gel-tables",
+   "title": "Gel Electrophoresis Tables (Ambion RNA Technical Resources)",
+   "url": "https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-electrophoresis-markers/general-articles/gel-electrophoresis-tables.html",
+   "kind": "manufacturerManual",
+   "authority": 4,
+   "publisher": "Thermo Fisher Scientific (Ambion)",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "Recommended agarose percentage for size separation: % Agarose / Size fragments separated (bp): 0.5 1,000 to 30,000; 0.7 800 to 12,000; 1.0 500 to 10,000; 1.2 400 to 7,000; 1.5 200 to 3,000; 3-4 (sieving agarose) 10 to 1,000. Adapted from Ausubel, F.M., et al. (1995) in \"Current Protocols in Molecular Biology.\""
+  },
+  {
+   "key": "addgene-gel-protocol",
+   "title": "Protocol – How to Run an Agarose Gel (Agarose Gel Electrophoresis)",
+   "url": "https://www.addgene.org/protocols/gel-electrophoresis/",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Addgene",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "Agarose gels are commonly used in concentrations of 0.7% to 2% depending on the size of bands needed to be separated ... TBE can be used instead of TAE, labs usually use one or the other, but there is very little difference between the two. ... Run the gel at 80-150 V until the dye line is approximately 75-80% of the way down the gel. A typical run time is about 1-1.5 hours, depending on the gel concentration and voltage."
+  },
+  {
+   "key": "addgene-tae-recipe",
+   "title": "One liter 50X stock of TAE (Addgene recipe PDF linked from the gel protocol)",
+   "url": "https://media.addgene.org/cms/files/TAERecipe.pdf",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Addgene",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "One liter 50X stock of TAE: Tris-base: 242 g; Acetate (100% acetic acid): 57.1 ml; EDTA: 100 ml 0.5M sodium EDTA; Add dH2O up to one litre. To make 1x TAE from 50X TAE stock, dilute 20ml of stock into 980 ml of DI water"
+  },
+  {
+   "key": "csh-tae-recipe",
+   "title": "TAE (Recipe), Cold Spring Harb Protoc 2006, doi:10.1101/pdb.rec8644",
+   "url": "https://cshprotocols.cshlp.org/content/2006/1/pdb.rec8644.full",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Cold Spring Harbor Laboratory Press",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "Prepare a 50X stock solution in 1 L of H2O: 242 g of Tris base; 57.1 mL of acetic acid (glacial); 100 mL of 0.5 M EDTA (pH 8.0). The 1X working solution is 40 mM Tris-acetate/1 mM EDTA."
+  },
+  {
+   "key": "csh-tbe-10x-recipe",
+   "title": "TBE electrophoresis buffer (10X) (Recipe), Cold Spring Harb Protoc 2010, doi:10.1101/pdb.rec12231",
+   "url": "https://cshprotocols.cshlp.org/content/2010/6/pdb.rec12231.full",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Cold Spring Harbor Laboratory Press",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "TBE electrophoresis buffer (10X): Reagent / Quantity (for 1 L) / Final concentration: Tris base 121.1 g 1 M; Boric acid 61.8 g 1 M; EDTA (disodium salt) 7.4 g 0.02 M. Prepare with RNase-free H2O. Dilute 100 mL to 1 L to make gel running buffer. Store for up to 6 mo at room temperature."
+  },
+  {
+   "key": "sigma-tae-tbe-recipe",
+   "title": "TAE and TBE Running Buffers Recipe & Video",
+   "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe",
+   "kind": "manufacturerManual",
+   "authority": 3,
+   "publisher": "MilliporeSigma (Sigma-Aldrich)",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:50:00Z",
+   "excerpt": "TBE Buffer 10x Stock Recipe: 108 g tris base; 55 g boric acid; 900 ml double-distilled H2O; 40 ml 0.5 M EDTA solution (pH 8.0). Adjust volume to 1 L. 1x TBE Preparation: Dilute 10x concentrated TBE buffer 10-fold with ultrapure water. The final solution should contain: 0.13 M tris (pH 7.6) 45 mM boric acid 2.5 mM EDTA"
+  }
+ ],
+ "polymerases": [
+  {
+   "key": "neb-taq",
+   "name": "Taq DNA Polymerase with Standard Taq Buffer",
+   "manufacturer": "NEB",
+   "catalog": "M0273",
+   "initialDenaturation": {
+    "tempC": 95,
+    "seconds": 30
+   },
+   "denaturation": {
+    "tempC": 95,
+    "seconds": 15,
+    "secondsMax": 30
+   },
+   "annealing": {
+    "rule": "Annealing temperature is based on the Tm of the primer pair and is typically 45–68°C. Annealing temperatures can be optimized by doing a temperature gradient PCR starting 5°C below the calculated Tm.",
+    "offsetC": -5,
+    "relativeTo": "Tm (start of gradient)",
+    "tempCMin": 45,
+    "tempCMax": 68,
+    "seconds": 15,
+    "secondsMax": 60
+   },
+   "extension": {
+    "tempC": 68,
+    "secondsPerKb": 60
+   },
+   "finalExtension": {
+    "tempC": 68,
+    "seconds": 300
+   },
+   "cycles": {
+    "min": 25,
+    "max": 35
+   },
+   "reaction": {
+    "volumeUl": 50,
+    "components": [
+     {
+      "name": "10X Standard Taq Reaction Buffer",
+      "volumeUl": 5,
+      "finalConc": "1X"
+     },
+     {
+      "name": "10 mM dNTPs",
+      "volumeUl": 1,
+      "finalConc": "200 µM"
+     },
+     {
+      "name": "10 µM Forward Primer",
+      "volumeUl": 1,
+      "finalConc": "0.2 µM (0.05–1 µM)"
+     },
+     {
+      "name": "10 µM Reverse Primer",
+      "volumeUl": 1,
+      "finalConc": "0.2 µM (0.05–1 µM)"
+     },
+     {
+      "name": "Template DNA",
+      "volumeUl": null,
+      "finalConc": "<1,000 ng (variable volume)"
+     },
+     {
+      "name": "Taq DNA Polymerase",
+      "volumeUl": 0.25,
+      "finalConc": "1.25 units/50 µl PCR"
+     },
+     {
+      "name": "Nuclease-free water",
+      "volumeUl": null,
+      "finalConc": "to 50 µl"
+     }
+    ],
+    "scale25Ul": "25 µl reaction: buffer 2.5 µl, dNTPs 0.5 µl, each primer 0.5 µl, Taq 0.125 µl, water to 25 µl"
+   },
+   "notes": "Thermocycler table header says '25-30 Cycles' while the General Guidelines text says 'Generally, 25–35 cycles yield sufficient product. Up to 45 cycles may be required to detect low-copy-number targets.' GC-rich templates: 2–4 min initial denaturation at 95°C; colony PCR: 5 min at 95°C. 1X Standard Taq buffer contains 1.5 mM Mg++. Template for 50 µl: genomic 1 ng–1 µg; plasmid/viral 1 pg–10 ng. 2-step PCR possible when primer Ta > 65°C (65–68°C combined step). Products carry 3' dA overhangs.",
+   "sourceKey": "neb-taq-protocol"
+  },
+  {
+   "key": "neb-onetaq",
+   "name": "OneTaq® DNA Polymerase",
+   "manufacturer": "NEB",
+   "catalog": "M0480",
+   "initialDenaturation": {
+    "tempC": 94,
+    "seconds": 30
+   },
+   "denaturation": {
+    "tempC": 94,
+    "seconds": 15,
+    "secondsMax": 30
+   },
+   "annealing": {
+    "rule": "The annealing temperature is based on the Tm of the primer pair and is typically 45–68°C. Annealing temperatures can be optimized by doing a temperature gradient PCR starting 5°C below the calculated Tm.",
+    "offsetC": -5,
+    "relativeTo": "Tm (start of gradient)",
+    "tempCMin": 45,
+    "tempCMax": 68,
+    "seconds": 15,
+    "secondsMax": 60
+   },
+   "extension": {
+    "tempC": 68,
+    "secondsPerKb": 60
+   },
+   "finalExtension": {
+    "tempC": 68,
+    "seconds": 300
+   },
+   "cycles": {
+    "min": 25,
+    "max": 35
+   },
+   "reaction": {
+    "volumeUl": 50,
+    "components": [
+     {
+      "name": "5X OneTaq Standard Reaction Buffer",
+      "volumeUl": 10,
+      "finalConc": "1X"
+     },
+     {
+      "name": "10 mM dNTPs (NEB #N0447)",
+      "volumeUl": 1,
+      "finalConc": "200 µM"
+     },
+     {
+      "name": "10 µM Forward Primer",
+      "volumeUl": 1,
+      "finalConc": "0.2 µM"
+     },
+     {
+      "name": "10 µM Reverse Primer",
+      "volumeUl": 1,
+      "finalConc": "0.2 µM"
+     },
+     {
+      "name": "OneTaq DNA Polymerase",
+      "volumeUl": 0.25,
+      "finalConc": "1.25 units/50 µl PCR (2.5–5 units/50 µl for 3–6 kb amplicons)"
+     },
+     {
+      "name": "Template DNA",
+      "volumeUl": null,
+      "finalConc": "< 1,000 ng (variable volume)"
+     },
+     {
+      "name": "Nuclease-free water",
+      "volumeUl": null,
+      "finalConc": "to 50 µl"
+     }
+    ],
+    "scale25Ul": "25 µl reaction: buffer 5 µl, dNTPs 0.5 µl, each primer 0.5 µl, OneTaq 0.125 µl, water to 25 µl"
+   },
+   "notes": "Routine table shows '30 Cycles'; guideline text says 25–35 cycles (up to 45 for low-copy targets). 1X OneTaq Standard buffer = 1.8 mM Mg++; 1X OneTaq GC buffer = 2.0 mM Mg++; 10–20% High GC Enhancer for >65% GC (with GC buffer only). GC-rich: 2–4 min initial denaturation at 94°C; colony PCR 5 min at 94°C. 2-step PCR possible when primer Ta > 68°C.",
+   "sourceKey": "neb-onetaq-protocol"
+  },
+  {
+   "key": "neb-q5",
+   "name": "Q5® High-Fidelity DNA Polymerase",
+   "manufacturer": "NEB",
+   "catalog": "M0491",
+   "initialDenaturation": {
+    "tempC": 98,
+    "seconds": 30,
+    "secondsMax": 180
+   },
+   "denaturation": {
+    "tempC": 98,
+    "seconds": 5,
+    "secondsMax": 10
+   },
+   "annealing": {
+    "rule": "Optimal annealing temperatures for Q5 High-Fidelity DNA Polymerase tend to be higher than for other PCR polymerases. The NEB Tm Calculator sshould be used to determine the annealing temperature when using this enzyme. Typically, use a 10–30 second annealing step at the recommended Ta.",
+    "offsetC": 3,
+    "relativeTo": "Tm of the lower-Tm primer (NEB Tm Calculator)",
+    "tempCMin": 50,
+    "tempCMax": 72,
+    "seconds": 10,
+    "secondsMax": 30,
+    "ruleKitManual": "Typically, use a 10–30 second annealing step at 3°C above the Tm of the lower Tm primer. (NEB E0555 Q5 PCR Kit manual, Version 5.0_7/25)"
+   },
+   "extension": {
+    "tempC": 72,
+    "secondsPerKb": 20,
+    "secondsPerKbMax": 30,
+    "byTemplate": {
+     "gDNA <=6 kb": "20-30 s/kb",
+     "gDNA >=6 kb": "30-50 s/kb",
+     "cDNA <=6 kb": "30-40 s/kb",
+     "cDNA >=6 kb": "40-50 s/kb",
+     "pDNA <=6 kb": "10-15 s/kb",
+     "pDNA >=6 kb": "20-30 s/kb"
+    }
+   },
+   "finalExtension": {
+    "tempC": 72,
+    "seconds": 120
+   },
+   "cycles": {
+    "min": 25,
+    "max": 35
+   },
+   "reaction": {
+    "volumeUl": 50,
+    "components": [
+     {
+      "name": "5X Q5 Reaction Buffer",
+      "volumeUl": 10,
+      "finalConc": "1X"
+     },
+     {
+      "name": "10 mM dNTPs",
+      "volumeUl": 1,
+      "finalConc": "200 µM"
+     },
+     {
+      "name": "10 µM Forward Primer",
+      "volumeUl": 2.5,
+      "finalConc": "0.5 µM"
+     },
+     {
+      "name": "10 µM Reverse Primer",
+      "volumeUl": 2.5,
+      "finalConc": "0.5 µM"
+     },
+     {
+      "name": "Template DNA",
+      "volumeUl": null,
+      "finalConc": "< 1,000 ng (variable volume)"
+     },
+     {
+      "name": "Q5 High-Fidelity DNA Polymerase",
+      "volumeUl": 0.5,
+      "finalConc": "0.02 U/µl"
+     },
+     {
+      "name": "5X Q5 High GC Enhancer (optional)",
+      "volumeUl": 10,
+      "finalConc": "1X (optional)"
+     },
+     {
+      "name": "Nuclease-Free Water",
+      "volumeUl": null,
+      "finalConc": "to 50 µl"
+     }
+    ],
+    "scale25Ul": "25 µl reaction: buffer 5 µl, dNTPs 0.5 µl, each primer 1.25 µl, Q5 0.25 µl, optional GC enhancer 5 µl, water to 25 µl"
+   },
+   "notes": "Thermocycler table: annealing 50–72°C* ('*Use of the NEB Tm Calculator is highly recommended'). For genomic amplicons 30–35 cycles recommended. 1X Q5 buffer contains 2.0 mM Mg++, detergent-free. Primer 0.5 µM each (0.2–0.3 µM may help ≥5 kb targets). 2-step PCR possible when primer Ta ≥ 72°C. Products are blunt-ended; Q5 cannot incorporate dUTP. Page typo 'sshould' preserved verbatim. The +3 °C offset comes from the NEB Q5 PCR Kit manual (E0555), which uses the same enzyme; the M0491 protocol page itself only says to use the NEB Tm Calculator. Troubleshooting (E0555): gradient 'starting at 5°C below the lower Tm of the primer pair'.",
+   "sourceKey": "neb-q5-protocol"
+  },
+  {
+   "key": "thermo-phusion",
+   "name": "Phusion™ High-Fidelity DNA Polymerase",
+   "manufacturer": "Thermo Fisher Scientific (Thermo Scientific)",
+   "catalog": "F530S / F530L",
+   "initialDenaturation": {
+    "tempC": 98,
+    "seconds": 30,
+    "secondsMax": 180
+   },
+   "denaturation": {
+    "tempC": 98,
+    "seconds": 5,
+    "secondsMax": 10
+   },
+   "annealing": {
+    "rule": "The optimal annealing temperature for Phusion High–Fidelity DNA Polymerase may differ significantly from that of Taq–based polymerases. Always use the Tm calculator and instructions on our website (www.thermofisher.com/tmcalculator) to determine the Tm values of primers and optimal annealing temperature.",
+    "offsetC": null,
+    "relativeTo": "Thermo Tm calculator (www.thermofisher.com/tmcalculator)",
+    "tempCMin": null,
+    "tempCMax": null,
+    "seconds": 10,
+    "secondsMax": 30,
+    "twoStep": "A 2-step protocol is recommended when primer Tm values are at least 69°C (> 20 nt) or 72°C (≤ 20 nt) when calculated with our Tm calculator. In the 2-step protocol the combined annealing/extension step should be performed at 72°C even when the primer Tm is > 72°C."
+   },
+   "extension": {
+    "tempC": 72,
+    "secondsPerKb": 15,
+    "secondsPerKbMax": 30,
+    "byTemplate": {
+     "low complexity (plasmid, lambda, BAC)": "15 s/kb",
+     "high complexity genomic": "30 s/kb",
+     "some cDNA": "up to 40 s/kb"
+    },
+    "limit": "Use 15–30 s/kb for extension. Do not exceed 1 min/kb"
+   },
+   "finalExtension": {
+    "tempC": 72,
+    "seconds": 300,
+    "secondsMax": 600
+   },
+   "cycles": {
+    "min": 25,
+    "max": 35
+   },
+   "reaction": {
+    "volumeUl": 50,
+    "components": [
+     {
+      "name": "H2O",
+      "volumeUl": null,
+      "finalConc": "add to 50 µL"
+     },
+     {
+      "name": "5X Phusion HF Buffer (or 5X GC Buffer)",
+      "volumeUl": 10,
+      "finalConc": "1X (1.5 mM MgCl2 final)"
+     },
+     {
+      "name": "10 mM dNTPs",
+      "volumeUl": 1,
+      "finalConc": "200 µM each"
+     },
+     {
+      "name": "Forward primer",
+      "volumeUl": null,
+      "finalConc": "0.5 µM (0.2–1.0 µM)"
+     },
+     {
+      "name": "Reverse primer",
+      "volumeUl": null,
+      "finalConc": "0.5 µM (0.2–1.0 µM)"
+     },
+     {
+      "name": "Template DNA",
+      "volumeUl": null,
+      "finalConc": "low complexity 1 pg–10 ng; genomic 50–250 ng per 50 µL"
+     },
+     {
+      "name": "DMSO (optional)",
+      "volumeUl": 1.5,
+      "finalConc": "3%"
+     },
+     {
+      "name": "Phusion High-Fidelity DNA Polymerase (2 U/µL)",
+      "volumeUl": 0.5,
+      "finalConc": "0.02 U/µL"
+     }
+    ],
+    "scale20Ul": "20 µL reaction: HF buffer 4 µL, dNTPs 0.4 µL, DMSO 0.6 µL (optional), Phusion 0.2 µL, water to 20 µL. The manual gives 20 µL and 50 µL columns, not 25 µL.",
+    "order": "It is critical that the Phusion High–Fidelity DNA Polymerase is the last component added to the PCR mixture, since the enzyme exhibits 3´→5´ exonuclease activity that can degrade primers in the absence of dNTPs."
+   },
+   "notes": "Rev. E.0 of the product sheet gives NO numeric annealing offset (no 'Tm +3 °C'); it defers to Thermo's online Tm calculator. Enzyme 0.5–2 U/50 µL, do not exceed 2 U/50 µL (0.04 U/µL). Do not use dUTP. 10% DMSO reportedly lowers annealing temperature by 5.5–6.0°C. Products are blunt-ended.",
+   "sourceKey": "thermo-phusion-pis"
+  },
+  {
+   "key": "thermo-dreamtaq",
+   "name": "DreamTaq DNA Polymerase",
+   "manufacturer": "Thermo Fisher Scientific (Thermo Scientific)",
+   "catalog": "EP0701",
+   "initialDenaturation": {
+    "tempC": 95,
+    "seconds": 60,
+    "secondsMax": 180
+   },
+   "denaturation": {
+    "tempC": 95,
+    "seconds": 30
+   },
+   "annealing": {
+    "rule": "The annealing temperature should be 5 °C lower than the melting temperature (Tm) of the primers. Annealing for 30 seconds is normally sufficient. If non-specific PCR products appear, the annealing temperature should be optimized stepwise in 1-2 °C increments.",
+    "offsetC": -5,
+    "relativeTo": "Tm",
+    "tempCMin": null,
+    "tempCMax": null,
+    "seconds": 30
+   },
+   "extension": {
+    "tempC": 72,
+    "secondsPerKb": 60,
+    "optimalRangeC": [
+     70,
+     75
+    ],
+    "rule": "The recommended extension step is 1 min at 72 °C for PCR products up to 2 kb. For longer products, the extension time should be prolonged by 1 min/kb. For amplification of templates >6 kb a reduction of the extension temperature to 68 °C is recommended"
+   },
+   "finalExtension": {
+    "tempC": 72,
+    "seconds": 300,
+    "secondsMax": 900
+   },
+   "cycles": {
+    "min": 25,
+    "max": 40
+   },
+   "reaction": {
+    "volumeUl": 50,
+    "components": [
+     {
+      "name": "10X DreamTaq Buffer (includes 20 mM MgCl2)",
+      "volumeUl": 5,
+      "finalConc": "1X (2 mM MgCl2)"
+     },
+     {
+      "name": "dNTP Mix, 2 mM each (#R0241)",
+      "volumeUl": 5,
+      "finalConc": "0.2 mM of each"
+     },
+     {
+      "name": "Forward primer",
+      "volumeUl": null,
+      "finalConc": "0.1-1.0 µM"
+     },
+     {
+      "name": "Reverse primer",
+      "volumeUl": null,
+      "finalConc": "0.1-1.0 µM"
+     },
+     {
+      "name": "Template DNA",
+      "volumeUl": null,
+      "finalConc": "10 pg - 1 µg"
+     },
+     {
+      "name": "DreamTaq DNA Polymerase (5 U/µL)",
+      "volumeUl": 0.25,
+      "finalConc": "1.25 U per 50 µL (volume derived: 1.25 U ÷ 5 U/µL)"
+     },
+     {
+      "name": "Water, nuclease-free (#R0581)",
+      "volumeUl": null,
+      "finalConc": "to 50 µL"
+     }
+    ]
+   },
+   "notes": "Cycle table: 25-40 cycles; text: ~40 cycles if <10 template copies, otherwise 25-35. Initial denaturation 1-3 min at 95 °C if GC ≤50 %, up to 10 min for GC-rich (add enzyme after initial denaturation if prolonged). Final extension 5-15 min (up to 30 min for TA cloning). Extension 1 min flat for products up to 2 kb, then +1 min/kb. Enzyme volume 0.25 µL is derived from '1.25 U' and the 5 U/µL stock, not printed. DreamTaq does not incorporate dUTP. Optimal MgCl2 2 mM, can raise to 4 mM.",
+   "sourceKey": "thermo-dreamtaq-pis"
+  }
+ ],
+ "protocols": [
+  {
+   "key": "nanodrop-purity-qc",
+   "title": "Nucleic acid purity assessment by A260/A280 and A260/A230 (NanoDrop)",
+   "technique": "quantification",
+   "appliesTo": "general (NanoDrop spectrophotometers)",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Blank with a solution of the same pH and similar ionic strength as the sample solution (e.g. TE if sample is in TE).",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Using water for the Blank measurement for samples dissolved in TE may result in low 260/230 ratios. A dirty pedestal during blanking can give a falsely high A260/A230."
+    },
+    {
+     "order": 2,
+     "action": "Measure sample and review the A260/A280 ratio.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "A260/A280 pure DNA",
+       "value": "~1.8",
+       "unit": "ratio"
+      },
+      {
+       "name": "A260/A280 pure RNA",
+       "value": "~2.0",
+       "unit": "ratio"
+      }
+     ],
+     "caution": "Low ratio may indicate residual phenol/other reagent or very low nucleic acid concentration. Acidic solutions under-represent 260/280 by 0.2–0.3; basic solutions over-represent by 0.2–0.3. Up to 0.4 difference between two spectrophotometers within 1 nm wavelength spec."
+    },
+    {
+     "order": 3,
+     "action": "Review the A260/A230 ratio.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "A260/A230 expected (pure nucleic acid)",
+       "value": "2.0–2.2",
+       "unit": "ratio"
+      }
+     ],
+     "caution": "Low A260/A230 may result from carbohydrate carryover, residual phenol, residual guanidine (column kits), or glycogen."
+    },
+    {
+     "order": 4,
+     "action": "Check spectral shape: trough at ~230 nm and peak at 260 nm; contaminants shift these.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Best indicator of quality is functionality in the downstream application."
+    }
+   ],
+   "sourceKey": "thermo-nanodrop-tn52646"
+  },
+  {
+   "key": "qiagen-dneasy-animal-tissue",
+   "title": "DNeasy Blood & Tissue Kit — total DNA from animal tissues (spin-column)",
+   "technique": "dna-extraction",
+   "appliesTo": "QIAGEN DNeasy Blood & Tissue Kit (cat. 69504/69506), animal tissue incl. rodent tails",
+   "steps": [
+    {
+     "order": 0,
+     "action": "Before starting: warm Buffer ATL/AL to 56°C if precipitates formed; add ethanol (96–100%) to AW1/AW2 concentrates as on bottle; preheat thermomixer/shaking water bath/rocking platform to 56°C; equilibrate frozen tissue to room temperature. All centrifugation at room temperature (15–25°C).",
+     "tempC": 56,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Avoid repeated freeze–thaw of samples (reduces DNA size)."
+    },
+    {
+     "order": 1,
+     "action": "Cut up to 25 mg tissue (up to 10 mg spleen) into small pieces in a 1.5 ml microcentrifuge tube (rodent tails: one rat or two mouse 0.4–0.6 cm lengths). Add 180 µl Buffer ATL.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "tissue max",
+       "value": "25",
+       "unit": "mg"
+      },
+      {
+       "name": "spleen max",
+       "value": "10",
+       "unit": "mg"
+      },
+      {
+       "name": "Buffer ATL",
+       "value": "180",
+       "unit": "µl"
+      }
+     ],
+     "caution": "Max tail: 1.2 cm (mouse) or 0.6 cm (rat); 0.4–0.6 cm recommended for adult animals."
+    },
+    {
+     "order": 2,
+     "action": "Add 20 µl Proteinase K, vortex thoroughly, incubate at 56°C until completely lysed, vortexing occasionally (or in thermomixer/shaking bath/rocking platform).",
+     "tempC": 56,
+     "seconds": 3600,
+     "parameters": [
+      {
+       "name": "Proteinase K",
+       "value": "20",
+       "unit": "µl"
+      },
+      {
+       "name": "lysis time tissue",
+       "value": "1–3",
+       "unit": "h"
+      },
+      {
+       "name": "lysis time rodent tail",
+       "value": "6–8",
+       "unit": "h"
+      },
+      {
+       "name": "overnight lysis",
+       "value": "acceptable",
+       "unit": ""
+      }
+     ],
+     "caution": "Lysate may be viscous but should not be gelatinous (can clog column). Optional: 4 µl RNase A (100 mg/ml), vortex, 2 min at room temperature before step 3."
+    },
+    {
+     "order": 3,
+     "action": "Vortex 15 s. Add 200 µl Buffer AL, vortex thoroughly; then add 200 µl ethanol (96–100%), vortex thoroughly.",
+     "tempC": null,
+     "seconds": 15,
+     "parameters": [
+      {
+       "name": "Buffer AL",
+       "value": "200",
+       "unit": "µl"
+      },
+      {
+       "name": "ethanol (96–100%)",
+       "value": "200",
+       "unit": "µl"
+      }
+     ],
+     "caution": "Mix immediately and thoroughly; AL and ethanol may be premixed. A white precipitate may form and does not interfere."
+    },
+    {
+     "order": 4,
+     "action": "Pipet mixture (including precipitate) into DNeasy Mini spin column in a 2 ml collection tube; centrifuge; discard flow-through and collection tube.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [
+      {
+       "name": "speed",
+       "value": "≥6000 x g (8000 rpm)",
+       "unit": "x g"
+      },
+      {
+       "name": "time",
+       "value": "1",
+       "unit": "min"
+      }
+     ],
+     "caution": "Flow-through contains Buffer AL — not compatible with bleach."
+    },
+    {
+     "order": 5,
+     "action": "New 2 ml collection tube; add 500 µl Buffer AW1; centrifuge; discard flow-through and tube.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [
+      {
+       "name": "Buffer AW1",
+       "value": "500",
+       "unit": "µl"
+      },
+      {
+       "name": "speed",
+       "value": "≥6000 x g (8000 rpm)",
+       "unit": "x g"
+      },
+      {
+       "name": "time",
+       "value": "1",
+       "unit": "min"
+      }
+     ],
+     "caution": "Flow-through contains AW1 — not compatible with bleach."
+    },
+    {
+     "order": 6,
+     "action": "New 2 ml collection tube; add 500 µl Buffer AW2; centrifuge to dry membrane; discard flow-through and tube.",
+     "tempC": null,
+     "seconds": 180,
+     "parameters": [
+      {
+       "name": "Buffer AW2",
+       "value": "500",
+       "unit": "µl"
+      },
+      {
+       "name": "speed",
+       "value": "20,000 x g (14,000 rpm)",
+       "unit": "x g"
+      },
+      {
+       "name": "time",
+       "value": "3",
+       "unit": "min"
+      }
+     ],
+     "caution": "Remove column without touching flow-through; if ethanol carryover occurs, spin again 1 min at 20,000 x g."
+    },
+    {
+     "order": 7,
+     "action": "Place column in clean 1.5/2 ml tube; pipet 200 µl Buffer AE onto membrane; incubate 1 min at room temperature; centrifuge to elute.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [
+      {
+       "name": "Buffer AE",
+       "value": "200",
+       "unit": "µl"
+      },
+      {
+       "name": "incubation",
+       "value": "1",
+       "unit": "min"
+      },
+      {
+       "name": "speed",
+       "value": "≥6000 x g (8000 rpm)",
+       "unit": "x g"
+      },
+      {
+       "name": "time",
+       "value": "1",
+       "unit": "min"
+      }
+     ],
+     "caution": "Eluting with 100 µl raises concentration but lowers total yield. Do not elute more than 200 µl into a 1.5 ml tube."
+    },
+    {
+     "order": 8,
+     "action": "Recommended: repeat elution once as in step 7 for maximum yield (new tube to avoid diluting first eluate, or reuse tube to combine).",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": null
+    }
+   ],
+   "sourceKey": "qiagen-dneasy-handbook"
+  },
+  {
+   "key": "agarose-gel-dna",
+   "title": "Agarose gel electrophoresis of DNA (standard 1% gel)",
+   "technique": "gel",
+   "appliesTo": "general",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Weigh agarose (1 g per 100 mL for a 1% gel) and mix with 100 mL 1X TAE in a microwavable flask; use the same buffer as in the gel box.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "agarose",
+       "value": "1",
+       "unit": "g per 100 mL (1%)"
+      },
+      {
+       "name": "typical range",
+       "value": "0.7–2",
+       "unit": "% w/v"
+      }
+     ],
+     "caution": "Do not mix different buffers and do not use water."
+    },
+    {
+     "order": 2,
+     "action": "Microwave until completely dissolved (Addgene: 1–3 min, in 30–45 s pulses with swirling).",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": "HOT! Eruptive boiling can occur; over-boiling evaporates buffer and changes the gel %."
+    },
+    {
+     "order": 3,
+     "action": "Cool to about 50 °C (~5 min). Optional: add ethidium bromide to ~0.2–0.5 µg/mL (about 2–3 µl of 10 mg/mL stock per 100 mL).",
+     "tempC": 50,
+     "seconds": 300,
+     "parameters": [
+      {
+       "name": "EtBr final",
+       "value": "0.2–0.5",
+       "unit": "µg/mL"
+      }
+     ],
+     "caution": "EtBr is a known mutagen; wear lab coat, eye protection and gloves. If EtBr is in the gel, add it to the running buffer too."
+    },
+    {
+     "order": 4,
+     "action": "Pour into tray with comb; let solidify 10–15 min at 4 °C or 20–30 min at room temperature.",
+     "tempC": null,
+     "seconds": 1200,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 5,
+     "action": "Place gel in box, cover with 1X TAE (or TBE). Add loading buffer to samples (Addgene: 5 µl per 25 µl sample); load ladder in first lane then samples.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "loading buffer",
+       "value": "5 per 25",
+       "unit": "µl per µl sample"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 6,
+     "action": "Run toward the positive (red) electrode. Thermo: constant voltage typically 5–10 V/cm (V = electrode distance in cm × V/cm); by fragment size <1 kb 5–10 V/cm (TBE), 1–5 kb 4–10 V/cm (TAE or TBE), >5 kb 1–3 V/cm (TAE). Addgene: 80–150 V until dye is ~75–80% down the gel (~1–1.5 h).",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "field strength (Thermo)",
+       "value": "5–10",
+       "unit": "V/cm"
+      },
+      {
+       "name": "absolute voltage (Addgene)",
+       "value": "80–150",
+       "unit": "V"
+      }
+     ],
+     "caution": "Too-high voltage causes smearing and 'smile' bands from overheating; too-low voltage lets small fragments diffuse."
+    },
+    {
+     "order": 7,
+     "action": "Image under UV; for gel purification use long-wavelength UV and minimal exposure.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Wear goggles/face shield, gloves and lab coat under UV."
+    }
+   ],
+   "agaroseRangeTables": {
+    "thermo-ambion-gel-tables (Ausubel 1995)": {
+     "0.5": "1,000–30,000",
+     "0.7": "800–12,000",
+     "1.0": "500–10,000",
+     "1.2": "400–7,000",
+     "1.5": "200–3,000",
+     "3-4 (sieving)": "10–1,000"
+    },
+    "thermo-gel-workflow Table 2": {
+     "0.5": "2,000–50,000",
+     "0.6": "1,000–20,000",
+     "0.7": "800–12,000",
+     "0.8": "800–10,000",
+     "0.9": "600–10,000",
+     "1.0": "400–8,000",
+     "1.2": "300–7,000",
+     "1.5": "200–3,000"
+    }
+   },
+   "sourceKey": "thermo-gel-workflow",
+   "secondarySourceKeys": [
+    "addgene-gel-protocol",
+    "thermo-ambion-gel-tables"
+   ]
+  }
+ ],
+ "recipes": [
+  {
+   "key": "tae-50x",
+   "name": "50X TAE buffer",
+   "aliases": [
+    "TAE",
+    "Tris-acetate-EDTA"
+   ],
+   "components": [
+    {
+     "name": "Tris base",
+     "amount": 242,
+     "unit": "g"
+    },
+    {
+     "name": "Acetic acid (glacial)",
+     "amount": 57.1,
+     "unit": "mL"
+    },
+    {
+     "name": "0.5 M EDTA (pH 8.0)",
+     "amount": 100,
+     "unit": "mL"
+    },
+    {
+     "name": "H2O",
+     "amount": null,
+     "unit": "to 1 L"
+    }
+   ],
+   "steps": "Prepare a 50X stock solution in 1 L of H2O: 242 g of Tris base, 57.1 mL of acetic acid (glacial), 100 mL of 0.5 M EDTA (pH 8.0). The 1X working solution is 40 mM Tris-acetate/1 mM EDTA. (Addgene: to make 1x TAE from 50X TAE stock, dilute 20ml of stock into 980 ml of DI water.)",
+   "sterilization": "Not specified by CSH or Addgene.",
+   "notes": "Identical quantities in CSH (pdb.rec8644), Addgene TAERecipe.pdf and Sigma-Aldrich. Addgene lists EDTA as '100 ml 0.5M sodium EDTA' without stating pH. Sigma states 1X TAE as '0.4 M tris acetate ... 0.01 M EDTA', which is 10× the CSH 1X value (see conflicts).",
+   "sourceKey": "csh-tae-recipe",
+   "corroboratingSourceKeys": [
+    "addgene-tae-recipe",
+    "sigma-tae-tbe-recipe"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   }
+  },
+  {
+   "key": "tbe-10x",
+   "name": "10X TBE electrophoresis buffer (CSH 2010 formulation)",
+   "aliases": [
+    "TBE",
+    "Tris-borate-EDTA"
+   ],
+   "components": [
+    {
+     "name": "Tris base",
+     "amount": 121.1,
+     "unit": "g",
+     "finalConc": "1 M"
+    },
+    {
+     "name": "Boric acid",
+     "amount": 61.8,
+     "unit": "g",
+     "finalConc": "1 M"
+    },
+    {
+     "name": "EDTA (disodium salt)",
+     "amount": 7.4,
+     "unit": "g",
+     "finalConc": "0.02 M"
+    },
+    {
+     "name": "RNase-free H2O",
+     "amount": null,
+     "unit": "to 1 L"
+    }
+   ],
+   "steps": "Prepare with RNase-free H2O. Dilute 100 mL to 1 L to make gel running buffer. Store for up to 6 mo at room temperature.",
+   "sterilization": "Not specified (RNase-free water specified).",
+   "notes": "This CSH recipe gives 1 M Tris / 1 M boric acid / 20 mM EDTA at 10X. It differs from the widely used 10X TBE in Sigma-Aldrich's recipe (108 g Tris, 55 g boric acid, 40 mL 0.5 M EDTA per L) — see recipe tbe-10x-classic and conflicts.",
+   "sourceKey": "csh-tbe-10x-recipe",
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   }
+  },
+  {
+   "key": "tbe-10x-classic",
+   "name": "10X TBE buffer (Sigma-Aldrich formulation)",
+   "aliases": [
+    "TBE"
+   ],
+   "components": [
+    {
+     "name": "Tris base",
+     "amount": 108,
+     "unit": "g"
+    },
+    {
+     "name": "Boric acid",
+     "amount": 55,
+     "unit": "g"
+    },
+    {
+     "name": "double-distilled H2O",
+     "amount": 900,
+     "unit": "mL"
+    },
+    {
+     "name": "0.5 M EDTA solution (pH 8.0)",
+     "amount": 40,
+     "unit": "mL"
+    }
+   ],
+   "steps": "108 g tris base, 55 g boric acid, 900 ml double-distilled H2O, 40 ml 0.5 M EDTA solution (pH 8.0). Adjust volume to 1 L. Dilute 10x concentrated TBE buffer 10-fold with ultrapure water. If precipitation is present, warm to 37 °C and mix until completely dissolved prior to dilution.",
+   "sterilization": "It is recommended 1x working solutions be filtered through a 0.2 mm filter before use. [sic — '0.2 mm' as printed; almost certainly means 0.2 µm]",
+   "notes": "Sigma's stated 1X composition ('0.13 M tris (pH 7.6), 45 mM boric acid, 2.5 mM EDTA') does not match its own 10X recipe: derived arithmetic (not printed) — 108 g/L ÷ 121.14 g/mol ≈ 0.89 M Tris at 10X → ≈ 89 mM at 1X; 55 g/L boric acid ÷ 61.83 ≈ 0.89 M → ≈ 89 mM; 40 mL 0.5 M EDTA/L = 20 mM → 2 mM at 1X. Treat the stated 1X composition as unreliable.",
+   "sourceKey": "sigma-tae-tbe-recipe",
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   }
+  }
+ ],
+ "reagents": [],
+ "claims": [
+  {
+   "subjectKey": "nanodrop-purity-qc",
+   "parameter": "A260/A280 pure DNA",
+   "statement": "A ratio of ~1.8 is generally accepted as \"pure\" for DNA",
+   "value": "~1.8",
+   "unit": "ratio",
+   "sourceKey": "thermo-nanodrop-tn52646",
+   "standing": "current",
+   "appliesWhen": "DNA measured on a spectrophotometer at neutral pH",
+   "ruling": "Manufacturer technical note; pH shifts the ratio by 0.2–0.3 so blank/sample buffer must match."
+  },
+  {
+   "subjectKey": "nanodrop-purity-qc",
+   "parameter": "A260/A280 pure RNA",
+   "statement": "a ratio of ~2.0 is generally accepted as \"pure\" for RNA",
+   "value": "~2.0",
+   "unit": "ratio",
+   "sourceKey": "thermo-nanodrop-tn52646",
+   "standing": "current",
+   "appliesWhen": "RNA measured on a spectrophotometer",
+   "ruling": "Manufacturer technical note."
+  },
+  {
+   "subjectKey": "nanodrop-purity-qc",
+   "parameter": "A260/A230 expected",
+   "statement": "Expected 260/230 values are commonly in the range of 2.0–2.2.",
+   "value": "2.0–2.2",
+   "unit": "ratio",
+   "sourceKey": "thermo-nanodrop-tn52646",
+   "standing": "current",
+   "appliesWhen": "pure nucleic acid (the note does not split DNA vs RNA for 260/230)",
+   "ruling": "The note gives a single range for 'pure nucleic acid'; it does not give separate DNA and RNA 260/230 targets."
+  },
+  {
+   "subjectKey": "nanodrop-purity-qc",
+   "parameter": "low-concentration effect on A260/A280",
+   "statement": "A low A260/A280 ratio may be caused by: ... A very low concentration (>10 ng/µL) of nucleic acid",
+   "value": ">10 ng/µL (as printed)",
+   "unit": "ng/µL",
+   "sourceKey": "thermo-nanodrop-tn52646",
+   "standing": "context",
+   "appliesWhen": "interpreting low ratios",
+   "ruling": "Printed as '>10 ng/µL' which contradicts 'very low'; likely a typo for '<10 ng/µL' — do not rely on the threshold without confirming."
+  },
+  {
+   "subjectKey": "qiagen-dneasy-animal-tissue",
+   "parameter": "proteinase K volume",
+   "statement": "Add 20 µl Proteinase K. Mix thoroughly by vortexing, and incubate at 56°C until the tissue is completely lysed.",
+   "value": "20",
+   "unit": "µl",
+   "sourceKey": "qiagen-dneasy-handbook",
+   "standing": "current",
+   "appliesWhen": "DNeasy spin-column, ≤25 mg animal tissue",
+   "ruling": "Manufacturer handbook (06/2023)."
+  },
+  {
+   "subjectKey": "qiagen-dneasy-animal-tissue",
+   "parameter": "lysis temperature/time",
+   "statement": "Lysis is usually complete in 1–3 h or, for rodent tails, 6–8 h. If it is more convenient, samples can be lysed overnight; this will not affect them adversely.",
+   "value": "56 °C; 1–3 h (tails 6–8 h)",
+   "unit": "°C / h",
+   "sourceKey": "qiagen-dneasy-handbook",
+   "standing": "current",
+   "appliesWhen": "DNeasy animal tissue lysis in Buffer ATL",
+   "ruling": "Manufacturer handbook; overnight explicitly allowed."
+  },
+  {
+   "subjectKey": "qiagen-dneasy-animal-tissue",
+   "parameter": "Buffer AL and ethanol volumes",
+   "statement": "Add 200 µl Buffer AL to the sample, and mix thoroughly by vortexing. Then add 200 µl ethanol (96–100%), and mix again thoroughly by vortexing.",
+   "value": "200 + 200",
+   "unit": "µl",
+   "sourceKey": "qiagen-dneasy-handbook",
+   "standing": "current",
+   "appliesWhen": "DNeasy spin-column tissue protocol",
+   "ruling": "Manufacturer handbook."
+  },
+  {
+   "subjectKey": "qiagen-dneasy-animal-tissue",
+   "parameter": "AW2 drying spin",
+   "statement": "add 500 µl Buffer AW2, and centrifuge for 3 min at 20,000 x g (14,000 rpm) to dry the DNeasy membrane.",
+   "value": "20,000 x g, 3 min",
+   "unit": "x g",
+   "sourceKey": "qiagen-dneasy-handbook",
+   "standing": "current",
+   "appliesWhen": "DNeasy spin-column wash 2",
+   "ruling": "Manufacturer handbook; loading/AW1/elution spins are ≥6000 x g for 1 min."
+  },
+  {
+   "subjectKey": "qiagen-dneasy-animal-tissue",
+   "parameter": "elution volume",
+   "statement": "pipet 200 µl Buffer AE directly onto the DNeasy membrane. Incubate at room temperature for 1 min, and then centrifuge for 1 min at ≥ 6000 x g (8000 rpm) to elute.",
+   "value": "200",
+   "unit": "µl",
+   "sourceKey": "qiagen-dneasy-handbook",
+   "standing": "current",
+   "appliesWhen": "DNeasy elution (100 µl optional for higher concentration)",
+   "ruling": "Manufacturer handbook; 100 µl increases concentration but decreases yield."
+  },
+  {
+   "subjectKey": "neb-taq",
+   "parameter": "extension temperature",
+   "statement": "The recommended extension temperature is 68°C. Extension times are generally 1 minute per kb. A final extension of 5 minutes at 68°C is recommended.",
+   "value": "68",
+   "unit": "°C",
+   "sourceKey": "neb-taq-protocol",
+   "standing": "disputed",
+   "appliesWhen": "using NEB Taq (M0273) with Standard Taq Buffer",
+   "ruling": "NEB specifies 68 °C; Thermo DreamTaq (an enhanced Taq) specifies 72 °C (optimum 70–75 °C, 68 °C only for >6 kb). Follow the manufacturer of the enzyme in use."
+  },
+  {
+   "subjectKey": "thermo-dreamtaq",
+   "parameter": "extension temperature",
+   "statement": "The optimal extension temperature for DreamTaq DNA Polymerase is 70-75 °C. The recommended extension step is 1 min at 72 °C for PCR products up to 2 kb.",
+   "value": "72",
+   "unit": "°C",
+   "sourceKey": "thermo-dreamtaq-pis",
+   "standing": "disputed",
+   "appliesWhen": "using Thermo DreamTaq, products ≤6 kb",
+   "ruling": "Conflicts with NEB's 68 °C for Taq; DreamTaq itself drops to 68 °C for templates >6 kb."
+  },
+  {
+   "subjectKey": "thermo-dreamtaq",
+   "parameter": "extension temperature (long templates)",
+   "statement": "For amplification of templates >6 kb a reduction of the extension temperature to 68 °C is recommended to avoid enzyme inactivation during prolonged extension times.",
+   "value": "68",
+   "unit": "°C",
+   "sourceKey": "thermo-dreamtaq-pis",
+   "standing": "context",
+   "appliesWhen": "DreamTaq, templates >6 kb",
+   "ruling": "Applies only to >6 kb amplicons."
+  },
+  {
+   "subjectKey": "thermo-dreamtaq",
+   "parameter": "extension time",
+   "statement": "The recommended extension step is 1 min at 72 °C for PCR products up to 2 kb. For longer products, the extension time should be prolonged by 1 min/kb.",
+   "value": "60 s flat ≤2 kb, then +60 s/kb",
+   "unit": "s",
+   "sourceKey": "thermo-dreamtaq-pis",
+   "standing": "disputed",
+   "appliesWhen": "DreamTaq",
+   "ruling": "NEB Taq uses a straight 1 min/kb (2 min for 2 kb); DreamTaq uses 1 min flat up to 2 kb."
+  },
+  {
+   "subjectKey": "neb-taq",
+   "parameter": "initial denaturation",
+   "statement": "An initial denaturation of 30 seconds at 95°C is sufficient for most amplicons from pure DNA templates. For difficult templates such as GC-rich sequences, a longer initial denaturation of 2–4 minutes at 95°C is recommended",
+   "value": "95 °C, 30 s",
+   "unit": "°C / s",
+   "sourceKey": "neb-taq-protocol",
+   "standing": "disputed",
+   "appliesWhen": "NEB Taq, pure templates",
+   "ruling": "DreamTaq recommends 1–3 min at 95 °C (up to 10 min GC-rich); NEB OneTaq uses 94 °C. Each applies to its own enzyme."
+  },
+  {
+   "subjectKey": "thermo-dreamtaq",
+   "parameter": "initial denaturation",
+   "statement": "If the GC content of the template is 50 % or less, an initial 1-3 min denaturation at 95 °C is sufficient. For GC-rich templates this step should be prolonged up to 10 min.",
+   "value": "95 °C, 60–180 s",
+   "unit": "°C / s",
+   "sourceKey": "thermo-dreamtaq-pis",
+   "standing": "disputed",
+   "appliesWhen": "DreamTaq, GC ≤50 %",
+   "ruling": "Longer than NEB Taq's 30 s; manufacturer-specific."
+  },
+  {
+   "subjectKey": "neb-onetaq",
+   "parameter": "denaturation temperature",
+   "statement": "Quickly transfer the reactions to a thermocycler preheated to the denaturation temperature (94°C) and begin thermocycling.",
+   "value": "94",
+   "unit": "°C",
+   "sourceKey": "neb-onetaq-protocol",
+   "standing": "current",
+   "appliesWhen": "NEB OneTaq",
+   "ruling": "OneTaq uses 94 °C whereas NEB Taq uses 95 °C; both are NEB's own product-specific values."
+  },
+  {
+   "subjectKey": "neb-taq",
+   "parameter": "annealing rule",
+   "statement": "Annealing temperature is based on the Tm of the primer pair and is typically 45–68°C. Annealing temperatures can be optimized by doing a temperature gradient PCR starting 5°C below the calculated Tm.",
+   "value": "45–68 (gradient from Tm−5)",
+   "unit": "°C",
+   "sourceKey": "neb-taq-protocol",
+   "standing": "current",
+   "appliesWhen": "NEB Taq",
+   "ruling": "NEB frames −5 °C as a gradient starting point, while DreamTaq states Ta = Tm −5 °C as the setting."
+  },
+  {
+   "subjectKey": "thermo-dreamtaq",
+   "parameter": "annealing rule",
+   "statement": "The annealing temperature should be 5 °C lower than the melting temperature (Tm) of the primers. Annealing for 30 seconds is normally sufficient.",
+   "value": "Tm − 5",
+   "unit": "°C",
+   "sourceKey": "thermo-dreamtaq-pis",
+   "standing": "current",
+   "appliesWhen": "DreamTaq; Tm estimated by manual's 4(G+C)+2(A+T) for <25 nt",
+   "ruling": "Manufacturer rule; note the Tm method used differs from NEB's calculator, so 'Tm−5' values are not interchangeable across tools."
+  },
+  {
+   "subjectKey": "neb-q5",
+   "parameter": "annealing rule",
+   "statement": "Typically, use a 10–30 second annealing step at 3°C above the Tm of the lower Tm primer.",
+   "value": "Tm(lower primer) + 3",
+   "unit": "°C",
+   "sourceKey": "neb-q5-kit-manual-e0555",
+   "standing": "current",
+   "appliesWhen": "Q5 High-Fidelity, Tm from NEB Tm Calculator",
+   "ruling": "From NEB's Q5 kit manual; the M0491 web protocol omits the number and defers to the NEB Tm Calculator. Opposite sign to Taq rules (Tm −5)."
+  },
+  {
+   "subjectKey": "thermo-phusion",
+   "parameter": "annealing rule",
+   "statement": "Always use the Tm calculator and instructions on our website (www.thermofisher.com/tmcalculator) to determine the Tm values of primers and optimal annealing temperature.",
+   "value": "calculator-determined (no fixed offset printed)",
+   "unit": "°C",
+   "sourceKey": "thermo-phusion-pis",
+   "standing": "context",
+   "appliesWhen": "Phusion F530, Rev. E.0 sheet",
+   "ruling": "Current sheet prints no numeric offset; do not assume Q5's Tm+3 applies — use Thermo's calculator."
+  },
+  {
+   "subjectKey": "neb-q5",
+   "parameter": "extension rate",
+   "statement": "Extension times are generally 20–30 seconds per kb for complex, genomic samples, but can be reduced to 10 seconds per kb for simple templates (plasmid, E. coli, etc.) or complex templates < 1 kb.",
+   "value": "20–30 (10 for simple)",
+   "unit": "s/kb",
+   "sourceKey": "neb-q5-protocol",
+   "standing": "current",
+   "appliesWhen": "Q5, amplicons ≤6 kb",
+   "ruling": ">6 kb: 40–50 s/kb. Phusion recommends 15 s/kb low-complexity and 30 s/kb genomic."
+  },
+  {
+   "subjectKey": "thermo-phusion",
+   "parameter": "extension rate",
+   "statement": "For low complexity DNA (e.g. plasmid, lambda or BAC DNA) use an extension time of 15 seconds per 1 kb. For high complexity genomic DNA 30 seconds per 1 kb is recommended.",
+   "value": "15–30",
+   "unit": "s/kb",
+   "sourceKey": "thermo-phusion-pis",
+   "standing": "current",
+   "appliesWhen": "Phusion F530",
+   "ruling": "Also: 'Do not exceed 1 min/kb'."
+  },
+  {
+   "subjectKey": "neb-q5",
+   "parameter": "final extension",
+   "statement": "A final extension of 2 minutes at 72°C is recommended.",
+   "value": "120",
+   "unit": "s",
+   "sourceKey": "neb-q5-protocol",
+   "standing": "disputed",
+   "appliesWhen": "Q5",
+   "ruling": "Phusion (similar high-fidelity enzyme) recommends 5–10 min at 72 °C; each applies to its own enzyme."
+  },
+  {
+   "subjectKey": "thermo-phusion",
+   "parameter": "final extension",
+   "statement": "Final extension 72°C 5–10 min",
+   "value": "300–600",
+   "unit": "s",
+   "sourceKey": "thermo-phusion-pis",
+   "standing": "disputed",
+   "appliesWhen": "Phusion F530",
+   "ruling": "Longer than Q5's 2 min."
+  },
+  {
+   "subjectKey": "neb-q5",
+   "parameter": "2-step PCR threshold",
+   "statement": "When primers with annealing temperatures ≥ 72°C are used, a 2-step thermocycling protocol (combining annealing and extension into one step) is possible.",
+   "value": "≥ 72",
+   "unit": "°C",
+   "sourceKey": "neb-q5-protocol",
+   "standing": "disputed",
+   "appliesWhen": "Q5",
+   "ruling": "NEB's E0555 kit manual prints '≤ 72°C' for the same rule; '≥' is consistent with the logic of 2-step PCR, so the manual's '≤' is likely a typo."
+  },
+  {
+   "subjectKey": "neb-taq",
+   "parameter": "cycle number",
+   "statement": "Generally, 25–35 cycles yield sufficient product. Up to 45 cycles may be required to detect low-copy-number targets.",
+   "value": "25–35",
+   "unit": "cycles",
+   "sourceKey": "neb-taq-protocol",
+   "standing": "disputed",
+   "appliesWhen": "NEB Taq",
+   "ruling": "Same page's thermocycler table header says '25-30 Cycles'; text range 25–35 is the broader guideline."
+  },
+  {
+   "subjectKey": "thermo-dreamtaq",
+   "parameter": "cycle number",
+   "statement": "If less than 10 copies of the template are present in the reaction, about 40 cycles are required. For higher template amounts, 25-35 cycles are sufficient.",
+   "value": "25–35 (≈40 if <10 copies)",
+   "unit": "cycles",
+   "sourceKey": "thermo-dreamtaq-pis",
+   "standing": "current",
+   "appliesWhen": "DreamTaq",
+   "ruling": "Cycle table shows 25-40."
+  },
+  {
+   "subjectKey": "neb-taq",
+   "parameter": "Mg2+ in buffer",
+   "statement": "The final Mg++ concentration in 1X Standard Taq Reaction Buffer is 1.5 mM.",
+   "value": "1.5",
+   "unit": "mM",
+   "sourceKey": "neb-taq-protocol",
+   "standing": "context",
+   "appliesWhen": "NEB Standard Taq buffer",
+   "ruling": "DreamTaq buffer gives 2 mM, OneTaq Standard 1.8 mM, Q5 2.0 mM, Phusion HF/GC 1.5 mM — buffer-specific, not a conflict."
+  },
+  {
+   "subjectKey": "thermo-phusion",
+   "parameter": "enzyme maximum",
+   "statement": "It is not recommended to exceed 2 U/50 µL (0.04 U/µL), especially for amplicons that are > 5kb.",
+   "value": "2",
+   "unit": "U per 50 µL",
+   "sourceKey": "thermo-phusion-pis",
+   "standing": "current",
+   "appliesWhen": "Phusion F530",
+   "ruling": "Manufacturer limit."
+  },
+  {
+   "subjectKey": "agarose-gel-dna",
+   "parameter": "1.0% agarose separation range",
+   "statement": "Table 2 ... 1.0 400–8,000",
+   "value": "400–8,000",
+   "unit": "bp",
+   "sourceKey": "thermo-gel-workflow",
+   "standing": "disputed",
+   "appliesWhen": "1.0% agarose, linear dsDNA",
+   "ruling": "Thermo's Ambion table (Ausubel 1995) gives 500–10,000 bp for 1.0%. Ranges are approximate guides; buffer (TAE vs TBE) also shifts them."
+  },
+  {
+   "subjectKey": "agarose-gel-dna",
+   "parameter": "1.0% agarose separation range",
+   "statement": "1.0 500 to 10,000",
+   "value": "500–10,000",
+   "unit": "bp",
+   "sourceKey": "thermo-ambion-gel-tables",
+   "standing": "disputed",
+   "appliesWhen": "1.0% agarose",
+   "ruling": "Disagrees with Thermo workflow Table 2 (400–8,000 bp)."
+  },
+  {
+   "subjectKey": "agarose-gel-dna",
+   "parameter": "0.5% agarose separation range",
+   "statement": "0.5 1,000 to 30,000 (Ambion table) vs 0.5 2,000–50,000 (workflow Table 2)",
+   "value": "1,000–30,000 vs 2,000–50,000",
+   "unit": "bp",
+   "sourceKey": "thermo-ambion-gel-tables",
+   "standing": "disputed",
+   "appliesWhen": "0.5% agarose",
+   "ruling": "Two Thermo pages disagree; low-% ranges are especially sensitive to voltage and buffer."
+  },
+  {
+   "subjectKey": "agarose-gel-dna",
+   "parameter": "voltage",
+   "statement": "Constant voltage is commonly employed in nucleic acid electrophoresis, with voltage typically set at 5–10 V/cm.",
+   "value": "5–10",
+   "unit": "V/cm",
+   "sourceKey": "thermo-gel-workflow",
+   "standing": "current",
+   "appliesWhen": "standard runs; >5 kb fragments use 1–3 V/cm in TAE",
+   "ruling": "Sigma recommends <5 V/cm in TAE for maximum resolution; Addgene gives 80–150 V absolute (not normalised to electrode distance)."
+  },
+  {
+   "subjectKey": "agarose-gel-dna",
+   "parameter": "voltage",
+   "statement": "Run the gel at 80-150 V until the dye line is approximately 75-80% of the way down the gel.",
+   "value": "80–150",
+   "unit": "V",
+   "sourceKey": "addgene-gel-protocol",
+   "standing": "context",
+   "appliesWhen": "a typical mini-gel box",
+   "ruling": "Absolute voltage; convert using electrode distance before comparing with V/cm guidance."
+  },
+  {
+   "subjectKey": "agarose-gel-dna",
+   "parameter": "buffer choice by fragment size",
+   "statement": "TAE ... Better separation of large fragments ... >1,000 bp; TBE ... Better for shorter fragments ... <5,000 bp",
+   "value": "TAE for large, TBE for short",
+   "unit": "",
+   "sourceKey": "thermo-gel-workflow",
+   "standing": "disputed",
+   "appliesWhen": "choosing TAE vs TBE",
+   "ruling": "Sigma's comparison chart states the opposite (TBE: high resolution of >2 kb; TAE: <2 kb). Thermo's version matches its own Table 12 (>5 kb → TAE)."
+  },
+  {
+   "subjectKey": "tae-50x",
+   "parameter": "50X TAE composition",
+   "statement": "Prepare a 50X stock solution in 1 L of H2O: 242 g of Tris base 57.1 mL of acetic acid (glacial) 100 mL of 0.5 M EDTA (pH 8.0) The 1X working solution is 40 mM Tris-acetate/1 mM EDTA.",
+   "value": "242 g / 57.1 mL / 100 mL",
+   "unit": "per L",
+   "sourceKey": "csh-tae-recipe",
+   "standing": "current",
+   "appliesWhen": "making 50X TAE",
+   "ruling": "Addgene and Sigma give identical quantities."
+  },
+  {
+   "subjectKey": "tbe-10x",
+   "parameter": "10X TBE composition",
+   "statement": "Tris base 121.1 g 1 M; Boric acid 61.8 g 1 M; EDTA (disodium salt) 7.4 g 0.02 M",
+   "value": "121.1 g / 61.8 g / 7.4 g",
+   "unit": "per L",
+   "sourceKey": "csh-tbe-10x-recipe",
+   "standing": "disputed",
+   "appliesWhen": "CSH 2010 recipe (RNase-free context)",
+   "ruling": "Sigma's 10X TBE uses 108 g Tris, 55 g boric acid, 40 mL 0.5 M EDTA per L; the two give different 1X strengths. Pick one and use it for both gel and running buffer."
+  },
+  {
+   "subjectKey": "tbe-10x-classic",
+   "parameter": "10X TBE composition",
+   "statement": "108 g tris base 55 g boric acid 900 ml double-distilled H2O 40 ml 0.5 M EDTA solution (pH 8.0) Adjust volume to 1 L.",
+   "value": "108 g / 55 g / 40 mL",
+   "unit": "per L",
+   "sourceKey": "sigma-tae-tbe-recipe",
+   "standing": "disputed",
+   "appliesWhen": "Sigma 10X TBE",
+   "ruling": "Differs from CSH 2010; Sigma's stated 1X composition (0.13 M Tris, 45 mM boric acid, 2.5 mM EDTA) is inconsistent with its own recipe."
+  }
+ ],
+ "conflicts": [
+  {
+   "parameter": "Taq-family extension temperature",
+   "a": {
+    "quote": "The recommended extension temperature is 68°C.",
+    "url": "https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273"
+   },
+   "b": {
+    "quote": "The optimal extension temperature for DreamTaq DNA Polymerase is 70-75 °C. The recommended extension step is 1 min at 72 °C for PCR products up to 2 kb.",
+    "url": "https://assets.fishersci.com/TFS-Assets/LSG/manuals/MAN0012036_DreamTaqDNAPolymerase_500U_UG.pdf"
+   },
+   "note": "NEB Taq/OneTaq: 68 °C. Thermo DreamTaq: 72 °C (68 °C only for >6 kb). Product-specific; use the enzyme manufacturer's value."
+  },
+  {
+   "parameter": "Taq-family extension time",
+   "a": {
+    "quote": "Extension times are generally 1 minute per kb.",
+    "url": "https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273"
+   },
+   "b": {
+    "quote": "The recommended extension step is 1 min at 72 °C for PCR products up to 2 kb. For longer products, the extension time should be prolonged by 1 min/kb.",
+    "url": "https://assets.fishersci.com/TFS-Assets/LSG/manuals/MAN0012036_DreamTaqDNAPolymerase_500U_UG.pdf"
+   },
+   "note": "For a 2 kb product: NEB → 2 min, DreamTaq → 1 min."
+  },
+  {
+   "parameter": "Taq-family initial denaturation",
+   "a": {
+    "quote": "An initial denaturation of 30 seconds at 95°C is sufficient for most amplicons from pure DNA templates.",
+    "url": "https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273"
+   },
+   "b": {
+    "quote": "If the GC content of the template is 50 % or less, an initial 1-3 min denaturation at 95 °C is sufficient. For GC-rich templates this step should be prolonged up to 10 min.",
+    "url": "https://assets.fishersci.com/TFS-Assets/LSG/manuals/MAN0012036_DreamTaqDNAPolymerase_500U_UG.pdf"
+   },
+   "note": "30 s (NEB) vs 1–3 min (DreamTaq). NEB OneTaq additionally uses 94 °C rather than 95 °C."
+  },
+  {
+   "parameter": "Annealing rule: Taq vs high-fidelity",
+   "a": {
+    "quote": "The annealing temperature should be 5 °C lower than the melting temperature (Tm) of the primers.",
+    "url": "https://assets.fishersci.com/TFS-Assets/LSG/manuals/MAN0012036_DreamTaqDNAPolymerase_500U_UG.pdf"
+   },
+   "b": {
+    "quote": "Typically, use a 10–30 second annealing step at 3°C above the Tm of the lower Tm primer.",
+    "url": "https://www.neb.com/en/-/media/nebus/files/manuals/manuale0555.pdf?rev=627d55764b62404e9bf1a0526034f173&hash=DFACB338D5D2B1F1799FABE40FFECBB5"
+   },
+   "note": "Opposite-sign offsets for different enzyme classes (Taq Tm−5 vs Q5 Tm+3). Phusion Rev. E.0 prints no numeric offset and only says to use Thermo's Tm calculator. Tm values from different calculators/formulas are not interchangeable."
+  },
+  {
+   "parameter": "Q5 2-step PCR threshold (NEB internal)",
+   "a": {
+    "quote": "When primers with annealing temperatures ≥ 72°C are used, a 2-step thermocycling protocol (combining annealing and extension into one step) is possible.",
+    "url": "https://www.neb.com/en/protocols/pcr-using-q5-high-fidelity-dna-polymerase-m0491"
+   },
+   "b": {
+    "quote": "When primers with annealing temperatures ≤ 72°C are used, a 2-step thermocycling protocol (combining annealing and extension into one step) is possible.",
+    "url": "https://www.neb.com/en/-/media/nebus/files/manuals/manuale0555.pdf?rev=627d55764b62404e9bf1a0526034f173&hash=DFACB338D5D2B1F1799FABE40FFECBB5"
+   },
+   "note": "Same rule, opposite inequality. '≥ 72 °C' is consistent with 2-step logic (and with Phusion's ≥69/72 °C rule); the kit manual's '≤' is probably a typo."
+  },
+  {
+   "parameter": "High-fidelity final extension",
+   "a": {
+    "quote": "A final extension of 2 minutes at 72°C is recommended.",
+    "url": "https://www.neb.com/en/protocols/pcr-using-q5-high-fidelity-dna-polymerase-m0491"
+   },
+   "b": {
+    "quote": "Final extension 72°C 5–10 min",
+    "url": "https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0012393_Phusion_HighFidelity_DNAPolymerase_UG.pdf"
+   },
+   "note": "Q5 2 min vs Phusion 5–10 min, both at 72 °C."
+  },
+  {
+   "parameter": "High-fidelity extension rate for simple templates",
+   "a": {
+    "quote": "can be reduced to 10 seconds per kb for simple templates (plasmid, E. coli, etc.) or complex templates < 1 kb.",
+    "url": "https://www.neb.com/en/protocols/pcr-using-q5-high-fidelity-dna-polymerase-m0491"
+   },
+   "b": {
+    "quote": "For low complexity DNA (e.g. plasmid, lambda or BAC DNA) use an extension time of 15 seconds per 1 kb.",
+    "url": "https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0012393_Phusion_HighFidelity_DNAPolymerase_UG.pdf"
+   },
+   "note": "Q5 10 s/kb vs Phusion 15 s/kb for plasmid-type templates; both 30 s/kb for genomic (Q5 20–30)."
+  },
+  {
+   "parameter": "NEB Taq cycle number (internal)",
+   "a": {
+    "quote": "25-30 Cycles (thermocycler table header)",
+    "url": "https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273"
+   },
+   "b": {
+    "quote": "Generally, 25–35 cycles yield sufficient product. Up to 45 cycles may be required to detect low-copy-number targets.",
+    "url": "https://www.neb.com/en/protocols/taq-dna-polymerase-with-standard-taq-buffer-m0273"
+   },
+   "note": "Same page; table vs text. OneTaq page similarly shows '30 Cycles' in table vs 25–35 in text."
+  },
+  {
+   "parameter": "Agarose % vs separation range",
+   "a": {
+    "quote": "0.5 1,000 to 30,000 ... 1.0 500 to 10,000 ... 1.2 400 to 7,000 (Ambion table, adapted from Ausubel 1995)",
+    "url": "https://www.thermofisher.com/us/en/home/references/ambion-tech-support/rna-electrophoresis-markers/general-articles/gel-electrophoresis-tables.html"
+   },
+   "b": {
+    "quote": "0.5 2,000–50,000 ... 1.0 400–8,000 ... 1.2 300–7,000 (Table 2. Range of efficient separation in low percentage gels)",
+    "url": "https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/na-electrophoresis-education/na-electrophoresis-workflow.html"
+   },
+   "note": "Two Thermo Fisher pages disagree at 0.5%, 1.0% and 1.2%; they agree at 0.7% (800–12,000) and 1.5% (200–3,000). Treat ranges as approximate."
+  },
+  {
+   "parameter": "TAE vs TBE for large vs small fragments",
+   "a": {
+    "quote": "TAE ... Better separation of large fragments ... >1,000 bp; TBE ... Better for shorter fragments (linear dsDNA migrates ~10% slower in TBE) ... <5,000 bp",
+    "url": "https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/na-electrophoresis-education/na-electrophoresis-workflow.html"
+   },
+   "b": {
+    "quote": "Resolution: TBE Buffer High resolution of >2KB DNA fragments; TAE Buffer High resolution of <2KB DNA fragments",
+    "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe"
+   },
+   "note": "Directly contradictory. Thermo's statement is consistent with its own run-condition table (>5 kb → TAE at 1–3 V/cm). Addgene says there is 'very little difference between the two'."
+  },
+  {
+   "parameter": "Recommended field strength",
+   "a": {
+    "quote": "Constant voltage is commonly employed in nucleic acid electrophoresis, with voltage typically set at 5–10 V/cm.",
+    "url": "https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/na-electrophoresis-education/na-electrophoresis-workflow.html"
+   },
+   "b": {
+    "quote": "Applied voltages of < 5 V/cm (the distance between the electrodes of the unit) are recommended for maximum resolution.",
+    "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe"
+   },
+   "note": "Thermo 5–10 V/cm general (1–3 V/cm for >5 kb) vs Sigma <5 V/cm for TAE at maximum resolution. Addgene gives 80–150 V absolute."
+  },
+  {
+   "parameter": "10X TBE composition",
+   "a": {
+    "quote": "Tris base 121.1 g 1 M; Boric acid 61.8 g 1 M; EDTA (disodium salt) 7.4 g 0.02 M",
+    "url": "https://cshprotocols.cshlp.org/content/2010/6/pdb.rec12231.full"
+   },
+   "b": {
+    "quote": "108 g tris base 55 g boric acid 900 ml double-distilled H2O 40 ml 0.5 M EDTA solution (pH 8.0) Adjust volume to 1 L.",
+    "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe"
+   },
+   "note": "Different 10X recipes under the same name; 1X strengths differ (CSH: 100 mM Tris/100 mM borate/2 mM EDTA by its own stated concentrations; Sigma: ≈89 mM Tris/≈89 mM borate/2 mM EDTA by arithmetic)."
+  },
+  {
+   "parameter": "1X TAE stated composition",
+   "a": {
+    "quote": "The 1X working solution is 40 mM Tris-acetate/1 mM EDTA.",
+    "url": "https://cshprotocols.cshlp.org/content/2006/1/pdb.rec8644.full"
+   },
+   "b": {
+    "quote": "1x TAE Recipe Dilute 1:10 0.4 M tris acetate (pH approximately 8.3) 0.01 M EDTA using ultrapure water.",
+    "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe"
+   },
+   "note": "Sigma's text is 10× the CSH 1X concentration and reads as the 10X strength mislabelled as 1X. Use 40 mM Tris-acetate/1 mM EDTA."
+  },
+  {
+   "parameter": "1X TBE stated composition vs recipe (Sigma internal)",
+   "a": {
+    "quote": "TBE Buffer 10x Stock Recipe 108 g tris base 55 g boric acid ... 40 ml 0.5 M EDTA solution (pH 8.0)",
+    "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe"
+   },
+   "b": {
+    "quote": "The final solution should contain: 0.13 M tris (pH 7.6) 45 mM boric acid 2.5 mM EDTA",
+    "url": "https://www.sigmaaldrich.com/US/en/technical-documents/protocol/protein-biology/gel-electrophoresis/tae-and-tbe-running-buffers-recipe"
+   },
+   "note": "The stated 1X values do not follow from the 10X recipe (arithmetic gives ≈89 mM Tris, ≈89 mM boric acid, 2 mM EDTA). Unreliable page section."
+  }
+ ],
+ "notes": "NanoDrop TN52646 prints 'A very low concentration (>10 ng/µL)' — the '>' looks like a typo for '<'; recorded verbatim, flagged as context. Retrieved 2026-10-04 (UTC). NEB pages were read in a real browser (curl got HTTP 403); a later NEB page (Guidelines for PCR Optimization with Thermophilic DNA Polymerases) hit a Cloudflare bot check and was NOT read — its reported 'Q5/Phusion Ta 0–3 °C above lowest Tm' statement is therefore NOT recorded. Phusion Rev. E.0 (current) gives no 'Tm +3 °C' rule; older Phusion versions reportedly did, but no older version was fetched, so none is recorded. Thermo Agarose LE (J32802) TAE/TBE range table appeared only in a search-engine summary; the product page is JS-rendered and was not verified, so it is excluded. Thermo workflow page served the /ng/ locale (geo-redirect); the /us/ URL is recorded. Sigma page likewise redirected to /NG/. DreamTaq: the 20 µL/25 µL setup is given only as a dNTP volume table; enzyme volume 0.25 µL is derived from 1.25 U ÷ 5 U/µL. Phusion manual gives 20 µL and 50 µL setups (no 25 µL). NEB OneTaq (M0480) old /protocols/2012/... URL now 404s; current URL recorded. No Bio-Rad, Promega or protocols.io pages were used; NEB gel % table was not found in time."
+}

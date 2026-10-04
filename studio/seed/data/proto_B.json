@@ -1,0 +1,2116 @@
+{
+ "sources": [
+  {
+   "key": "sigma-l3522-lb-miller",
+   "title": "LB Broth (Miller), Sigma-Aldrich L3522",
+   "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3522",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Merck / Sigma-Aldrich",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:31:00Z",
+   "excerpt": "description | Miller′s Modification, 10 g/L NaCl | ... composition | NaCl, 10 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L | ... pH | 6.8-7.2(2.5% solution) | ... Preparation Note | 1. Suspend 25 g in 1 L of distilled water. | 2. Autoclave for 15 minutes at 121 °C."
+  },
+  {
+   "key": "sigma-l3022-lb-lennox",
+   "title": "LB Broth (Lennox), Sigma-Aldrich L3022",
+   "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3022",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Merck / Sigma-Aldrich",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:32:00Z",
+   "excerpt": "Synonym(s): | Lennox broth, Lennox broth , Luria Bertani Broth | ... composition | NaCl, 5 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L | ... Preparation Note | 1. Suspend 20 g in 1 L of distilled water. | 2. Autoclave for 15 minutes at 121 °C. | To prepare Lennox L Broth: Add 1 g glucose and proceed with preparation instructions as above."
+  },
+  {
+   "key": "sigma-l3397-lb-luria",
+   "title": "LB Broth (Luria low salt), Sigma-Aldrich L3397",
+   "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3397",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Merck / Sigma-Aldrich",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:33:00Z",
+   "excerpt": "Synonym(s): | Luria Broth (Miller’s Modification), Luria-Bertani medium (LB) | ... composition | NaCl, 0.5 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L | ... pH | 6.8-7.2(1.55% solution) | ... Preparation Note | 1. Suspend 15.5 g in 1 L of distilled water. | 2. Autoclave for 15 minutes at 121°C."
+  },
+  {
+   "key": "sigma-l3147-lb-agar-miller",
+   "title": "LB Broth with agar (Miller), Sigma-Aldrich L3147",
+   "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3147",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Merck / Sigma-Aldrich",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:34:00Z",
+   "excerpt": "composition | Agar, 15 g/L , NaCl, 10 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L | ... Preparation Note | 1. Suspend 40 g in 1L of distilled water. | 2. Heat to boiling while stirring to dissolve. | 3. Autoclave for 15 minutes at 121°C. | 4. Cool to 50°C prior to dispensing into sterile petri dishes."
+  },
+  {
+   "key": "csh-lb",
+   "title": "LB (Luria-Bertani) liquid medium",
+   "url": "https://cshprotocols.cshlp.org/content/2006/1/pdb.rec8141",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Cold Spring Harbor Laboratory Press (Cold Spring Harb Protoc 2006, doi:10.1101/pdb.rec8141)",
+   "version": "2006",
+   "retrievedAt": "2026-10-04T18:29:00Z",
+   "excerpt": "H2O 950 mL; Tryptone 10 g; NaCl 10 g; Yeast extract 5 g. Combine the reagents and shake until the solutes have dissolved. Adjust the pH to 7.0 with 5 N NaOH (~0.2 mL). Adjust the final volume of the solution to 1 L with H2O. Sterilize by autoclaving for 20 min at 15 psi (1.05 kg/cm2) on liquid cycle."
+  },
+  {
+   "key": "addgene-lb-agar-plates",
+   "title": "Pouring LB Agar Plates (Addgene protocol)",
+   "url": "https://www.addgene.org/protocols/pouring-lb-agar-plates/",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Addgene",
+   "version": "Last Upload: September 14, 2016",
+   "retrievedAt": "2026-10-04T18:21:00Z",
+   "excerpt": "37 g pre-mixed powder consisting of: 5.0 g yeast extract; 10.0 g peptone from casein; 10.0 g sodium chloride; 12.0 g agar-agar; 1 L Sterile H2O ... Place the gel mix in the autoclave and run on a setting that gets the sample to at least 121 ℃ under 20 psi for at least 30 min."
+  },
+  {
+   "key": "asm-gram-stain",
+   "title": "Gram Stain Protocols (ASM MicrobeLibrary)",
+   "url": "https://asm.org/ASM/media/protocol-images/Gram-Stain-Protocols.pdf?ext=.pdf",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "American Society for Microbiology (Ann C. Smith, Marise A. Hussey)",
+   "version": "Created 30 September 2005; © 2016; web page dated Aug. 12, 2019 (https://asm.org/protocols/gram-stain-protocols)",
+   "retrievedAt": "2026-10-04T18:21:00Z",
+   "excerpt": "1. Flood air-dried, heat-fixed smear of cells for 1 minute with crystal violet staining reagent. ... 2. Wash slide in a gentle and indirect stream of tap water for 2 seconds. 3. Flood slide with the mordant: Gram's iodine. Wait 1 minute. 4. Wash slide in a gentle and indirect stream of tap water for 2 seconds. 5. Flood slide with decolorizing agent. Wait 15 seconds or add drop by drop to slide until decolorizing agent running from the slide runs clear ... 6. Flood slide with counterstain, safranin. Wait 30 seconds to 1 minute."
+  },
+  {
+   "key": "hardy-gram-stain",
+   "title": "Gram Stain Kits and Reagents (instructions for use)",
+   "url": "https://hardydiagnostics.com/media/assets/product/documents/GramStainKitRgnts.pdf",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Hardy Diagnostics",
+   "version": "HDQA 2207F [D]; Copyright © 2020",
+   "retrievedAt": "2026-10-04T18:35:00Z",
+   "excerpt": "Note: Do not use heat fixation. ... 1. Cover slide with Crystal Violet Reagent for one minute. 2. Rinse slide with deionized or tap water. 3. Cover slide with Iodine Reagent for one minute. 4. Gently rinse ... 5. Tilt the slide and flood with a few drops of Decolorizer until no violet color runs off. This will usually take 10 seconds or less depending on the thickness of the specimen. Do not over decolorize. 6. Rinse ... 7. Cover slide with Safranin, Advanced Counterstain™, or Basic Fuchsin counterstain for one minute."
+  },
+  {
+   "key": "cornell-gram-stain",
+   "title": "Gram Stain Protocol (Animal Health Diagnostic Center)",
+   "url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/gram-stain-protocol",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "Cornell University College of Veterinary Medicine, Animal Health Diagnostic Center",
+   "version": "VSS-WEB-049-V02 DL-954 12/23",
+   "retrievedAt": "2026-10-04T18:35:00Z",
+   "excerpt": "Flood the fixed smear with crystal violet solution (#1) and allow to remain for 1 minute. ... Flood the slide with iodine solution (#2). Allow to remain for one minute. ... Holding slide on a tilt with a clothes pin, flood the slide with decolorizer (#3) for one to five seconds. Rinse off the decolorizer with distilled or tap water. Flood the slide with safranin (#4). Allow to remain for 30 seconds."
+  },
+  {
+   "key": "vt-autoclave",
+   "title": "Procedures for Decontamination by Autoclaving",
+   "url": "https://ehs.vt.edu/content/dam/ehs_vt_edu/autoclave-documents/AutoclavingProcedures.pdf",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "Virginia Tech Environmental Health & Safety",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:30:00Z",
+   "excerpt": "a. For both DRY and LIQUID biohazardous waste materials, cycle times must be set for a minimum of 30 minutes @ 121°C, 15 psi. ... Volume of Liquid in One Container / Minimum Recommended Sterilize Time at 121º C: 75 ml 25 minutes; 250 ml 30 minutes; 500 ml 40 minutes; 1000 ml 45 minutes; 1500 ml 50 minutes; 2000 ml 55 minutes; >2000 ml 55 + 10 min. / L ... c. LIQUIDS MUST BE AUTOCLAVED WITH SLOW EXHAUST."
+  },
+  {
+   "key": "unc-autoclaves",
+   "title": "Autoclaves — Environment, Health and Safety",
+   "url": "https://ehs.unc.edu/topics/autoclaves/",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "University of North Carolina at Chapel Hill EHS",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:31:00Z",
+   "excerpt": "Biohazardous waste should be autoclaved at 121° C (250° F) for at least 60 minutes; however, larger loads may require additional time. ... Liquids 121°C (250°F) One hour ... Never autoclave live animals or any toxic, volatile, corrosive, or radioactive materials. Do not autoclave liquid wastes that contain bleach or ethanol."
+  },
+  {
+   "key": "stanford-bsm-autoclaves",
+   "title": "Biosafety Manual — Autoclaves",
+   "url": "https://ehs.stanford.edu/manual/biosafety-manual/autoclaves",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "Stanford University EH&S",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:31:00Z",
+   "excerpt": "Items of medical waste which are mixed with volatile chemical solvents or radioactive materials (this waste must be handled as either chemical waste or radioactive waste) ... Liquid media requires a shorter cycle, often 15- 20 minutes while autoclavable medical waste requires a minimum of 30 minutes in order to be effectively sterilized ... Set the cycle for 30 minutes, 121 degrees F at 20 PSI (or alternate required conditions depending on waste)"
+  },
+  {
+   "key": "stanford-autoclave-safety",
+   "title": "Autoclave Safety",
+   "url": "https://ehs.stanford.edu/reference/autoclave-safety",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "Stanford University EH&S",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:29:00Z",
+   "excerpt": "Do not autoclave items containing corrosives, solvents, volatiles or radioactive materials. ... Allow materials inside the autoclave to cool for at least 10 minutes with the door open before unloading the autoclave."
+  },
+  {
+   "key": "mit-autoclave",
+   "title": "Autoclave Validation and Calibration Program (AVCP)",
+   "url": "https://ehs.mit.edu/biological-program/autoclave-validation-and-calibration-program-avcp/",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "MIT Environment, Health & Safety",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:29:00Z",
+   "excerpt": "The cycle must include a minimum temperature of 121°C or 250°F for 30 minutes or longer, depending on size and compaction of the load. The full cycle time will take 60-90 minutes. ... Run the appropriate cycle (121°C, 15 psi, 15 – 60 minutes). ... Place waste bag in a secondary autoclave-proof container and run waste cycle (121°C, 15 psi, 60 minutes)."
+  },
+  {
+   "key": "ucsd-autoclave",
+   "title": "Autoclave (Biosafety) — UC San Diego Blink",
+   "url": "https://blink.ucsd.edu/safety/research-lab/biosafety/autoclave/index.html",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "UC San Diego Environment, Health & Safety",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:29:00Z",
+   "excerpt": "Autoclaves use saturated steam under pressure of approximately 15 pounds per square inch to achieve a chamber temperature of at least 250°F (121°C) for a prescribed time—usually 30–60 minutes. ... Liquid or \"slow exhaust\" ... This cycle prevents sterilized liquids from boiling. Steam is exhausted slowly at the end of the cycle, allowing the liquids (which will be super-heated) to cool."
+  },
+  {
+   "key": "who-lbm4-decon",
+   "title": "Laboratory biosafety manual, fourth edition and associated monographs: Decontamination and waste management",
+   "url": "https://iris.who.int/server/api/core/bitstreams/cfb8a5aa-d5c7-4113-91fe-31c1b2246845/content",
+   "kind": "regulatoryGuidance",
+   "authority": 5,
+   "publisher": "World Health Organization",
+   "version": "© WHO 2020; ISBN 978-92-4-001135-9",
+   "retrievedAt": "2026-10-04T18:40:00Z",
+   "excerpt": "Typically, a solution of sodium hypochlorite (NaOCl) containing 1000 ppm (parts per million) available chlorine will be suitable for general surface disinfection, but stronger solutions (for example, 5000 ppm or 10 000 ppm) are recommended when dealing with heavy contamination, the presence of organic matter or disinfectant-resistant biological agents. ... Diluted hypochlorite solutions have a limited shelf-life, about one day ... 15 min holding time at 121 °C ... Hazardous chemicals (for example, bleach, mercury or radioactive material) must never be treated in an autoclave."
+  },
+  {
+   "key": "who-lbm4",
+   "title": "Laboratory biosafety manual, fourth edition",
+   "url": "https://iris.who.int/server/api/core/bitstreams/41034b03-94b4-4fd6-9c6b-7662117127ac/content",
+   "kind": "regulatoryGuidance",
+   "authority": 5,
+   "publisher": "World Health Organization",
+   "version": "4th edition, 2020 (ISBN 9789240011311)",
+   "retrievedAt": "2026-10-04T18:39:00Z",
+   "excerpt": "In choosing the disinfectant, three important factors must be considered ... application conditions (contact time, concentration of the disinfectant, temperature of the application and other important influencing factors such as the presence of an organic load, for example, serum or blood). ... Hazardous chemical waste (for example, bleach), mercury or radioactive waste must not be treated in an autoclave."
+  },
+  {
+   "key": "cdc-chemical-disinfectants",
+   "title": "Chemical Disinfectants — Guideline for Disinfection and Sterilization in Healthcare Facilities",
+   "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html",
+   "kind": "regulatoryGuidance",
+   "authority": 5,
+   "publisher": "U.S. Centers for Disease Control and Prevention",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:36:00Z",
+   "excerpt": "A 1:10–1:100 dilution of 5.25%–6.15% sodium hypochlorite (i.e., household bleach) or an EPA-registered tuberculocidal disinfectant has been recommended for decontaminating blood spills. For small spills of blood (i.e., drops of blood) on noncritical surfaces, the area can be disinfected with a 1:100 dilution ... large spills of blood require that the surface be cleaned before an EPA-registered disinfectant or a 1:10 (final concentration) solution of household bleach is applied ... a 1:10 dilution of household bleach provides about 5250–6150 ppm."
+  },
+  {
+   "key": "uw-biohazardous-spills",
+   "title": "Biohazardous Spills (EH&S Biosafety)",
+   "url": "https://www.ehs.washington.edu/system/files/resources/biohazardous-spills.pdf",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "University of Washington Environmental Health & Safety",
+   "version": "Revised 04/2025",
+   "retrievedAt": "2026-10-04T18:32:00Z",
+   "excerpt": "Slowly pour an appropriate decontaminant solution around the spill and allow to flow into the spill. A freshly prepared 1:10 dilution of household bleach (~0.5% sodium hypochlorite) is suitable for most biological spills. 5. Allow 30 minutes of contact time. The contact time may vary depending on the decontaminant used. Follow manufacturer's directions. ... If using bleach, follow with a water rinse to protect metal surfaces from corrosion."
+  },
+  {
+   "key": "ucsb-bio-spill",
+   "title": "Biological Spill Response Step-By-Step",
+   "url": "https://www.emergency.ucsb.edu/emergency-response-procedures/biological-spill-response-step-step",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "UC Santa Barbara Office of Emergency Management / EH&S",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:33:00Z",
+   "excerpt": "Allow for the contact time specified for the disinfectant; 20 minutes' contact time for freshly diluted 10% bleach (final vol/vol). ... Obtain or make a fresh dilution of 10% household bleach (final vol/vol). Cover the area with paper towels. Pour (do not spray) 10% bleach on absorbent material in a spiral motion from the outside to the inside."
+  },
+  {
+   "key": "wvu-biosafety-ch8",
+   "title": "Biosafety Manual Chapter 8: Decontamination, Disinfection and Spill Response",
+   "url": "https://www.ehs.wvu.edu/biosafety/biosafety-manual/chapter-8-decontamination-disinfection-and-spill-response",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "West Virginia University EHS",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:33:00Z",
+   "excerpt": "Pour appropriate disinfectant (10% bleach) on the absorbent material. Allow 20 minutes of contact time with bleach. Place absorbent material in biohazard bag for disposal. Wipe surface with water to remove residual bleach, working from the edges towards"
+  },
+  {
+   "key": "case-bio-spill",
+   "title": "Biological Spill and Exposure Response",
+   "url": "https://case.edu/ehs/biological-safety/biological-spill-and-exposure-response",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "Case Western Reserve University EHS",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:33:00Z",
+   "excerpt": "Pour an appropriate decontamination agent (for example: fresh 1:10 dilution of bleach) into the absorbent materials and leave for 15-20 minutes."
+  },
+  {
+   "key": "usu-bio-spill",
+   "title": "Biological Spill Guidelines & Procedures",
+   "url": "https://research.usu.edu/ehs/training-and-resources/biological-spill-guidelines-procedures",
+   "kind": "institutionalSOP",
+   "authority": 3,
+   "publisher": "Utah State University EHS",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:33:00Z",
+   "excerpt": "Spray or wipe cabinet walls, work surfaces, and equipment with disinfectant equivalent to a 1:10 bleach solution. ... Wait at least 20 minutes. ... Spills of infectious agents will be handled by copiously spraying 10 percent bleach (no more than one-day old) on the contaminated area. After five minutes, the liquid will be blotted up and the waste paper discarded in the biohazard container."
+  },
+  {
+   "key": "neb-c2987-transformation",
+   "title": "High Efficiency Transformation Protocol (NEB #C2987H/#C2987I)",
+   "url": "https://www.neb.com/en/protocols/high-efficiency-transformation-protocol-c2987",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "New England Biolabs",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:27:00Z",
+   "excerpt": "Place the mixture on ice for 30 minutes. Do not mix.\nHeat shock at exactly 42°C for exactly 30 seconds. Do not mix.\nPlace on ice for 5 minutes. Do not mix.\nPipette 950 µl of room temperature SOC outgrowth media into the mixture.\nPlace at 37°C for 60 minutes. Shake vigorously (250 rpm) or rotate."
+  },
+  {
+   "key": "addgene-transformation",
+   "title": "Bacterial Transformation (Addgene protocol)",
+   "url": "https://www.addgene.org/protocols/bacterial-transformation/",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Addgene",
+   "version": "Last Update: Nov. 13, 2017",
+   "retrievedAt": "2026-10-04T18:21:00Z",
+   "excerpt": "Incubate the competent cell/DNA mixture on ice for 20-30 mins.\nHeat shock each transformation tube by placing the bottom 1/2 to 2/3 of the tube into a 42°C water bath for 30-60 secs (45 secs is usually ideal, but this varies depending on the competent cells you are using).\nPut the tubes back on ice for 2 min.\nAdd 250-1,000 μl LB or SOC media (without antibiotic) to the bacteria and grow in 37°C shaking incubator for 45 min."
+  },
+  {
+   "key": "thermo-transformation-workflow",
+   "title": "Bacterial Transformation Workflow (Invitrogen School of Molecular Biology)",
+   "url": "https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/molecular-cloning/transformation/bacterial-transformation-workflow.html",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Thermo Fisher Scientific (Invitrogen)",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:40:00Z",
+   "excerpt": "The initial incubation of cells and plasmid is carried out in a polypropylene tube on ice for durations ranging from 5–30 minutes. ... Heat shock is performed at 42°C for 30 seconds as appropriate for the bacterial strain and DNA used. For smaller volumes of cells in smaller tubes, the heat shock interval, which depends on the surface-to-volume ratio of the cell suspension, should be reduced. Heat shocked cells are then returned to ice for ≥2 minutes before the next step"
+  },
+  {
+   "key": "sigma-e7637-etbr",
+   "title": "Ethidium bromide BioReagent, for molecular biology, powder (Sigma-Aldrich E7637) — product page Safety Information",
+   "url": "https://www.sigmaaldrich.com/US/en/product/sigma/e7637",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Merck / Sigma-Aldrich",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:27:00Z",
+   "excerpt": "Pictograms | GHS06,GHS08 | Signal Word | Danger | Hazard Codes | H302,H330,H341 | Precautionary Statements | P202 - P260 - P264 - P271 - P301 + P312 - P304 + P340 + P310 | Hazard Classifications | Acute Tox. 1 Inhalation - Acute Tox. 4 Oral - Muta. 2 | Storage Class | 6.1A - Combustible acute toxic Cat. 1 and 2 / very toxic hazardous materials | ... PPE | Eyeshields, Faceshields, Gloves, type P3 (EN 143) respirator cartridges"
+  },
+  {
+   "key": "thermo-15585011-etbr-sds",
+   "title": "Safety Data Sheet — ETHIDIUM BROMIDE, product code 15585011 (Invitrogen UltraPure, 0.5-1.5% solution)",
+   "url": "https://assets.thermofisher.com/TFS-Assets/LSG/SDS/15585011_MTR-NALT_EN.pdf",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Life Technologies Corporation (Thermo Fisher Scientific)",
+   "version": "Revision date 08-Apr-2024",
+   "retrievedAt": "2026-10-04T18:28:00Z",
+   "excerpt": "SECTION 2: Hazards identification ... Signal Word WARNING ... Germ cell mutagenicity Mutagenic category 2 ... Hazard Statements H341 - Suspected of causing genetic defects ... P201 - Obtain special instructions before use P280 - Wear protective gloves/protective clothing/eye protection/face protection P202 - Do not handle until all safety precautions have been read and understood ... P501 - Dispose of contents/ container to an approved waste disposal plant ... 1239-45-8 ... Weight-% 0.5-1.5"
+  },
+  {
+   "key": "fisher-bp1302-etbr-sds",
+   "title": "Safety Data Sheet — Ethidium bromide, 1% Solution/Molecular Biology (Fisher BP1302-10)",
+   "url": "https://www.fishersci.com/store/msds?partNumber=BP1302-10&productDescription=ETHIDIUM+BROMIDE+10ML&vendorId=VN00033897&countryCode=US&language=en",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Fisher Scientific Company (Thermo Fisher Scientific)",
+   "version": "Revision Date 18-Dec-2025, Revision Number 6",
+   "retrievedAt": "2026-10-04T18:28:00Z",
+   "excerpt": "Signal Word Danger Hazard Statements Toxic if inhaled Suspected of causing genetic defects ... Acute Inhalation Toxicity - Dusts and Mists Category 3 Germ Cell Mutagenicity Category 2 ... Storage Store locked up Store in a well-ventilated place. Keep container tightly closed ... Incompatible Materials Strong oxidizing agents ... Water 7732-18-5 99; 3,8-Diamino-1-ethyl-6-phenylphenantridinium bromide 1239-45-8 1"
+  },
+  {
+   "key": "thermo-sybr-safe",
+   "title": "SYBR Safe DNA Gel Stain—A Less Hazardous Alternative to EtBr (Invitrogen product/FAQ page)",
+   "url": "https://www.thermofisher.com/us/en/home/life-science/dna-rna-purification-analysis/nucleic-acid-gel-electrophoresis/dna-stains/sybr-safe.html",
+   "kind": "manufacturerManual",
+   "authority": 5,
+   "publisher": "Thermo Fisher Scientific (Invitrogen)",
+   "version": null,
+   "retrievedAt": "2026-10-04T18:20:00Z",
+   "excerpt": "Q: How should I dispose of SYBR Safe DNA Gel Stain? Some institutions and municipalities have approved the disposal of Invitrogen SYBR Safe DNA Gel Stain directly into their wastewater systems. However, disposal regulations vary. Please contact your safety office or local municipality for disposal guidelines. ... This stain is not classified as hazardous waste under US federal regulations. Nevertheless, please exercise common safe laboratory practices when using this reagent."
+  },
+  {
+   "key": "csh-pbs",
+   "title": "Phosphate-buffered saline (PBS)",
+   "url": "https://cshprotocols.cshlp.org/content/2006/1/pdb.rec8247",
+   "kind": "publishedProtocol",
+   "authority": 4,
+   "publisher": "Cold Spring Harbor Laboratory Press (Cold Spring Harb Protoc 2006, doi:10.1101/pdb.rec8247)",
+   "version": "© 2006",
+   "retrievedAt": "2026-10-04T18:30:00Z",
+   "excerpt": "NaCl 8 g 137 mM; KCl 0.2 g 2.7 mM; Na2HPO4 1.44 g 10 mM; KH2PO4 0.24 g 1.8 mM ... To prepare 1 L of either 1× or 10× PBS, dissolve the reagents listed above in 800 mL of H2O. Adjust the pH to 7.4 (or 7.2, if required) with HCl, and then add H2O to 1 L. Dispense the solution into aliquots and sterilize them by autoclaving for 20 min at 15 psi (1.05 kg/cm2) on liquid cycle or by filter sterilization. Store PBS at room temperature."
+  }
+ ],
+ "protocols": [
+  {
+   "key": "asm-gram-stain",
+   "title": "Gram stain (ASM protocol, Gephardt et al. 1981 / ASMCUE 2005)",
+   "technique": "gram-stain",
+   "appliesTo": "general (air-dried, heat-fixed bacterial smears)",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Flood air-dried, heat-fixed smear of cells for 1 minute with crystal violet staining reagent.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [
+      {
+       "name": "reagent",
+       "value": "crystal violet staining reagent (2 g crystal violet in 20 ml 95% ethanol + 0.8 g ammonium oxalate in 80 ml distilled water)",
+       "unit": ""
+      }
+     ],
+     "caution": "Please note that the quality of the smear (too heavy or too light cell concentration) will affect the Gram Stain results."
+    },
+    {
+     "order": 2,
+     "action": "Wash slide in a gentle and indirect stream of tap water for 2 seconds.",
+     "tempC": null,
+     "seconds": 2,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 3,
+     "action": "Flood slide with the mordant: Gram's iodine. Wait 1 minute.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [
+      {
+       "name": "reagent",
+       "value": "Gram's iodine (1.0 g iodine, 2.0 g potassium iodide, 300 ml distilled water)",
+       "unit": ""
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 4,
+     "action": "Wash slide in a gentle and indirect stream of tap water for 2 seconds.",
+     "tempC": null,
+     "seconds": 2,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 5,
+     "action": "Flood slide with decolorizing agent. Wait 15 seconds or add drop by drop to slide until decolorizing agent running from the slide runs clear.",
+     "tempC": null,
+     "seconds": 15,
+     "parameters": [
+      {
+       "name": "decolorizer",
+       "value": "Ethanol, 95% (vol/vol); alternate: acetone 50 ml + ethanol (95%) 50 ml",
+       "unit": ""
+      }
+     ],
+     "caution": "The step that is most crucial in effecting the outcome of the stain is the decolorizing step. Over-decolorizing ... gram-positive cells may stain pink to red ... under-decolorizing ... gram-negative cells may appear blue to purple."
+    },
+    {
+     "order": 6,
+     "action": "Flood slide with counterstain, safranin. Wait 30 seconds to 1 minute.",
+     "tempC": null,
+     "seconds": 30,
+     "parameters": [
+      {
+       "name": "time range",
+       "value": "30-60",
+       "unit": "s"
+      },
+      {
+       "name": "reagent",
+       "value": "safranin working solution (10 ml stock [2.5 g safranin O in 100 ml 95% ethanol] + 90 ml distilled water)",
+       "unit": ""
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 7,
+     "action": "Wash slide in a gentle and indirect stream of tap water until no color appears in the effluent and then blot dry with absorbent paper.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 8,
+     "action": "Observe the results of the staining procedure under oil immersion using a Brightfield microscope. Gram-negative bacteria will stain pink/red and gram-positive bacteria will stain blue/purple.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "It is recommended that young, actively growing cultures be used for gram staining."
+    }
+   ],
+   "sourceKey": "asm-gram-stain"
+  },
+  {
+   "key": "hardy-gram-stain",
+   "title": "Gram stain (Hardy Diagnostics kit IFU)",
+   "technique": "gram-stain",
+   "appliesTo": "Hardy Diagnostics Gram stain kits/reagents (methanol-fixed smears; decolorizers 25/50/75% acetone)",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Fix smear: methanol fix slide by flooding with absolute methanol (95%) for 1-2 minutes, then tilt the slide to drain off methanol and allow to air dry.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [
+      {
+       "name": "fix time",
+       "value": "1-2",
+       "unit": "min"
+      }
+     ],
+     "caution": "Note: Do not use heat fixation."
+    },
+    {
+     "order": 2,
+     "action": "Cover slide with Crystal Violet Reagent for one minute.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 3,
+     "action": "Rinse slide with deionized or tap water.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 4,
+     "action": "Cover slide with Iodine Reagent for one minute.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 5,
+     "action": "Gently rinse the slide with deionized or tap water and allow to drain.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 6,
+     "action": "Tilt the slide and flood with a few drops of Decolorizer until no violet color runs off. This will usually take 10 seconds or less depending on the thickness of the specimen.",
+     "tempC": null,
+     "seconds": 10,
+     "parameters": [
+      {
+       "name": "recommended decolorizer",
+       "value": "Intermediate (50% Acetone) or Fast (75% Acetone)",
+       "unit": ""
+      }
+     ],
+     "caution": "Do not over decolorize."
+    },
+    {
+     "order": 7,
+     "action": "Rinse slide gently with deionized or tap water.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 8,
+     "action": "Cover slide with Safranin, Advanced Counterstain™, or Basic Fuchsin counterstain for one minute.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 9,
+     "action": "Rinse slide gently with deionized or tap water. The rinse water in this step should be slightly pink. Do not wash excessively. Allow slide to drain and air dry, or blot.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 10,
+     "action": "Examine slide under lens (1,000X magnification) using immersion oil.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    }
+   ],
+   "sourceKey": "hardy-gram-stain"
+  },
+  {
+   "key": "cornell-gram-stain",
+   "title": "Gram stain (Cornell AHDC)",
+   "technique": "gram-stain",
+   "appliesTo": "diagnostic smears (e.g., fecal smear), heat-fixed",
+   "steps": [
+    {
+     "order": 1,
+     "action": "\"Heat-fix\" the slide with the specimen by passing it over a heat source, such as a flame, several times. The slide should be passed very quickly through the flame and not be heated excessively.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 2,
+     "action": "Flood the fixed smear with crystal violet solution (#1) and allow to remain for 1 minute. Rinse with distilled or tap water.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 3,
+     "action": "Flood the slide with iodine solution (#2). Allow to remain for one minute. Rinse.",
+     "tempC": null,
+     "seconds": 60,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 4,
+     "action": "Holding slide on a tilt with a clothes pin, flood the slide with decolorizer (#3) for one to five seconds. Rinse.",
+     "tempC": null,
+     "seconds": 5,
+     "parameters": [
+      {
+       "name": "decolorizer time",
+       "value": "1-5",
+       "unit": "s"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 5,
+     "action": "Flood the slide with safranin (#4). Allow to remain for 30 seconds. Rinse.",
+     "tempC": null,
+     "seconds": 30,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 6,
+     "action": "Dry the slide on bibulous paper and examine under a 100X objective.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    }
+   ],
+   "sourceKey": "cornell-gram-stain"
+  },
+  {
+   "key": "vt-autoclave-liquids",
+   "title": "Autoclaving biohazardous liquids and waste (Virginia Tech EHS)",
+   "technique": "autoclave",
+   "appliesTo": "general (biohazardous liquids and dry waste in laboratory autoclaves)",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Collect liquid in glassware or plasticware that is suitable for autoclaving. Never autoclave plastic materials of uncertain heat stability.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Never autoclave plastic materials of uncertain heat stability."
+    },
+    {
+     "order": 2,
+     "action": "Do not fill containers more than 2/3 full.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "max fill",
+       "value": "2/3",
+       "unit": "container volume"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 3,
+     "action": "Make sure that caps are loose or use vented closures.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Never put sealed containers in an autoclave. They can explode."
+    },
+    {
+     "order": 4,
+     "action": "Never put materials containing solvents, corrosives or radioactive materials in the autoclave (e.g., phenol, chloroform, pyridine, or bleach).",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Prohibited: solvents, corrosives, radioactive materials, phenol, chloroform, pyridine, bleach."
+    },
+    {
+     "order": 5,
+     "action": "Set cycle: for both DRY and LIQUID biohazardous waste materials, cycle times must be set for a minimum of 30 minutes @ 121°C, 15 psi. Larger volumes of liquids and larger loads of solids require longer sterilization times (75 ml 25 min; 250 ml 30 min; 500 ml 40 min; 1000 ml 45 min; 1500 ml 50 min; 2000 ml 55 min; >2000 ml 55 + 10 min/L).",
+     "tempC": 121,
+     "seconds": 1800,
+     "parameters": [
+      {
+       "name": "pressure",
+       "value": "15",
+       "unit": "psi"
+      },
+      {
+       "name": "minimum time (biohazardous waste)",
+       "value": "30",
+       "unit": "min"
+      }
+     ],
+     "caution": "LIQUIDS MUST BE AUTOCLAVED WITH SLOW EXHAUST."
+    },
+    {
+     "order": 6,
+     "action": "After the cycle, slowly crack the door open no more than ½\" and allow all steam to escape by waiting at least 10 minutes before unloading the material.",
+     "tempC": null,
+     "seconds": 600,
+     "parameters": [],
+     "caution": "Material will still be HOT!"
+    },
+    {
+     "order": 7,
+     "action": "Let liquids stand 10–20 minutes after the autoclave is opened.",
+     "tempC": null,
+     "seconds": 600,
+     "parameters": [
+      {
+       "name": "stand time",
+       "value": "10-20",
+       "unit": "min"
+      }
+     ],
+     "caution": "Superheated liquids can boil over and damage the autoclave and cause personal injury."
+    }
+   ],
+   "sourceKey": "vt-autoclave"
+  },
+  {
+   "key": "uw-bleach-spill-bsc",
+   "title": "Biohazardous spill inside a biological safety cabinet (UW EH&S)",
+   "technique": "disinfection",
+   "appliesTo": "general biological spills; 1:10 household bleach",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Do not turn off the BSC during spill clean-up. Do not place your head inside the cabinet or under the sash at any time.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 2,
+     "action": "Remove any contaminated sharp items from the spill using tongs or forceps. Do not use your hands. Place contaminated items in appropriate sharps container.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Do not use your hands."
+    },
+    {
+     "order": 3,
+     "action": "Cover spill with paper towels or absorbent material.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 4,
+     "action": "Slowly pour an appropriate decontaminant solution around the spill and allow to flow into the spill. A freshly prepared 1:10 dilution of household bleach (~0.5% sodium hypochlorite) is suitable for most biological spills.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "bleach dilution",
+       "value": "1:10 (~0.5% NaOCl)",
+       "unit": "v/v"
+      }
+     ],
+     "caution": "Freshly prepared."
+    },
+    {
+     "order": 5,
+     "action": "Allow 30 minutes of contact time. The contact time may vary depending on the decontaminant used. Follow manufacturer's directions.",
+     "tempC": null,
+     "seconds": 1800,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 6,
+     "action": "Wipe up spill, work surfaces, walls, and any equipment in the BSC with paper towels dampened with decontaminant. If using bleach, follow with a water rinse to protect metal surfaces from corrosion.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Bleach corrodes metal surfaces."
+    },
+    {
+     "order": 7,
+     "action": "Place contaminated paper towels and other clean-up materials in a biohazard bag.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": "Bleach may be incompatible with some radioactive materials, especially if they contain radioiodine."
+    }
+   ],
+   "sourceKey": "uw-biohazardous-spills"
+  },
+  {
+   "key": "neb-c2987-transformation",
+   "title": "High Efficiency Transformation Protocol (NEB 5-alpha, #C2987H/#C2987I)",
+   "technique": "transformation",
+   "appliesTo": "NEB 5-alpha Competent E. coli (High Efficiency), NEB #C2987H (50 µl single-use vials) / #C2987I (200 µl format); the heat-shock timing is specific to NEB's transformation tube",
+   "steps": [
+    {
+     "order": 1,
+     "action": "For C2987H, thaw a tube of NEB 5-alpha Competent E. coli cells on ice for 10 minutes. (For C2987I, thaw on ice until the last ice crystals disappear, mix gently and pipette 50 µl of cells into a transformation tube on ice.)",
+     "tempC": 0,
+     "seconds": 600,
+     "parameters": [
+      {
+       "name": "cell volume (C2987I aliquot)",
+       "value": "50",
+       "unit": "µl"
+      }
+     ],
+     "caution": "Store competent cells at -80°C. Storage at -20°C will result in a significant decrease in transformation efficiency."
+    },
+    {
+     "order": 2,
+     "action": "Add 1-5 µl containing 1 pg-100 ng of plasmid DNA to the cell mixture. Carefully flick the tube 4-5 times to mix cells and DNA. Do not vortex.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "DNA volume",
+       "value": "1-5",
+       "unit": "µl"
+      },
+      {
+       "name": "DNA amount",
+       "value": "1 pg-100 ng",
+       "unit": ""
+      }
+     ],
+     "caution": "Do not vortex."
+    },
+    {
+     "order": 3,
+     "action": "Place the mixture on ice for 30 minutes. Do not mix.",
+     "tempC": 0,
+     "seconds": 1800,
+     "parameters": [],
+     "caution": "Expect a 2-fold loss in transformation efficiency for every 10 minutes this step is shortened."
+    },
+    {
+     "order": 4,
+     "action": "Heat shock at exactly 42°C for exactly 30 seconds. Do not mix.",
+     "tempC": 42,
+     "seconds": 30,
+     "parameters": [],
+     "caution": "Both the temperature and the timing of the heat shock step are important and specific to the transformation volume and vessel. Using the transformation tube provided, 30 seconds at 42°C is optimal."
+    },
+    {
+     "order": 5,
+     "action": "Place on ice for 5 minutes. Do not mix.",
+     "tempC": 0,
+     "seconds": 300,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 6,
+     "action": "Pipette 950 µl of room temperature SOC outgrowth media into the mixture.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "SOC volume",
+       "value": "950",
+       "unit": "µl"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 7,
+     "action": "Place at 37°C for 60 minutes. Shake vigorously (250 rpm) or rotate.",
+     "tempC": 37,
+     "seconds": 3600,
+     "parameters": [
+      {
+       "name": "shaking",
+       "value": "250",
+       "unit": "rpm"
+      }
+     ],
+     "caution": "Expect a 2-fold loss in transformation efficiency for every 15 minutes this step is shortened."
+    },
+    {
+     "order": 8,
+     "action": "Warm selection plates to 37°C.",
+     "tempC": 37,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 9,
+     "action": "Mix the cells thoroughly by flicking the tube and inverting, then perform several 10-fold serial dilutions in SOC.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 10,
+     "action": "Spread 50-100 µl of each dilution onto a selection plate and incubate overnight at 37°C. Alternatively, incubate at 30°C for 24-36 hours or 25°C for 48 hours.",
+     "tempC": 37,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "plating volume",
+       "value": "50-100",
+       "unit": "µl"
+      }
+     ],
+     "caution": null
+    }
+   ],
+   "sourceKey": "neb-c2987-transformation"
+  },
+  {
+   "key": "addgene-transformation",
+   "title": "Bacterial Transformation (Addgene)",
+   "technique": "transformation",
+   "appliesTo": "general chemically competent E. coli; Addgene notes 'For the highest transformation efficiency, we recommend that you follow the instructions that came with your competent cells.'",
+   "steps": [
+    {
+     "order": 1,
+     "action": "Take competent cells out of -80°C and thaw on ice (approximately 20-30 mins).",
+     "tempC": 0,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "thaw time",
+       "value": "20-30",
+       "unit": "min"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 2,
+     "action": "Remove agar plates (containing the appropriate antibiotic) from storage at 4°C and let warm up to room temperature and then (optional) incubate in 37°C incubator.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 3,
+     "action": "Mix 1 - 5 μl of DNA (usually 10 pg - 100 ng) into 20-50 μL of competent cells in a microcentrifuge or falcon tube. GENTLY mix by flicking the bottom of the tube with your finger a few times.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "DNA volume",
+       "value": "1-5",
+       "unit": "µl"
+      },
+      {
+       "name": "cell volume",
+       "value": "20-50",
+       "unit": "µl"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 4,
+     "action": "Incubate the competent cell/DNA mixture on ice for 20-30 mins.",
+     "tempC": 0,
+     "seconds": null,
+     "parameters": [
+      {
+       "name": "ice incubation",
+       "value": "20-30",
+       "unit": "min"
+      }
+     ],
+     "caution": null
+    },
+    {
+     "order": 5,
+     "action": "Heat shock each transformation tube by placing the bottom 1/2 to 2/3 of the tube into a 42°C water bath for 30-60 secs (45 secs is usually ideal, but this varies depending on the competent cells you are using).",
+     "tempC": 42,
+     "seconds": 45,
+     "parameters": [
+      {
+       "name": "heat shock range",
+       "value": "30-60",
+       "unit": "s"
+      }
+     ],
+     "caution": "Varies depending on the competent cells you are using."
+    },
+    {
+     "order": 6,
+     "action": "Put the tubes back on ice for 2 min.",
+     "tempC": 0,
+     "seconds": 120,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 7,
+     "action": "Add 250-1,000 μl LB or SOC media (without antibiotic) to the bacteria and grow in 37°C shaking incubator for 45 min.",
+     "tempC": 37,
+     "seconds": 2700,
+     "parameters": [
+      {
+       "name": "recovery medium volume",
+       "value": "250-1000",
+       "unit": "µl"
+      }
+     ],
+     "caution": "This step is not critical for Ampicillin resistance but is much more important for other antibiotic resistances."
+    },
+    {
+     "order": 8,
+     "action": "Plate some or all of the transformation onto a 10 cm LB agar plate containing the appropriate antibiotic.",
+     "tempC": null,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    },
+    {
+     "order": 9,
+     "action": "Incubate plates at 37°C overnight.",
+     "tempC": 37,
+     "seconds": null,
+     "parameters": [],
+     "caution": null
+    }
+   ],
+   "sourceKey": "addgene-transformation"
+  }
+ ],
+ "recipes": [
+  {
+   "key": "lb-miller",
+   "name": "LB broth (Miller)",
+   "aliases": [
+    "LB",
+    "Luria Broth",
+    "Miller's LB Broth",
+    "Luria-Bertani"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   },
+   "components": [
+    {
+     "name": "Tryptone",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Yeast extract",
+     "amount": 5,
+     "unit": "g"
+    },
+    {
+     "name": "NaCl",
+     "amount": 10,
+     "unit": "g"
+    }
+   ],
+   "steps": "Sigma L3522 (premixed powder): 1. Suspend 25 g in 1 L of distilled water. 2. Autoclave for 15 minutes at 121 °C. Allow to cool before making additions, such as antibiotics (if desired). From scratch (CSH Protocols, same composition, labelled only 'LB'): combine reagents in 950 mL H2O, shake to dissolve, adjust pH to 7.0 with 5 N NaOH (~0.2 mL), adjust volume to 1 L with H2O.",
+   "sterilization": "Sigma: autoclave for 15 minutes at 121 °C. CSH: autoclaving for 20 min at 15 psi (1.05 kg/cm2) on liquid cycle.",
+   "notes": "Sigma pH spec: 6.8-7.2 (2.5% solution). CSH Protocols' 'LB (Luria-Bertani) liquid medium' does not say Miller, but its 10 g/L NaCl matches Miller. Sigma variant for LC broth: 'Aseptically add 25 ml of sterile 0.1 M calcium chloride after autoclaving.'",
+   "sourceKey": "sigma-l3522-lb-miller"
+  },
+  {
+   "key": "lb-lennox",
+   "name": "LB broth (Lennox)",
+   "aliases": [
+    "Lennox broth",
+    "Luria Bertani Broth",
+    "LB"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   },
+   "components": [
+    {
+     "name": "Tryptone",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Yeast extract",
+     "amount": 5,
+     "unit": "g"
+    },
+    {
+     "name": "NaCl",
+     "amount": 5,
+     "unit": "g"
+    }
+   ],
+   "steps": "1. Suspend 20 g in 1 L of distilled water. 2. Autoclave for 15 minutes at 121 °C. To prepare Lennox L Broth: Add 1 g glucose and proceed with preparation instructions as above.",
+   "sterilization": "Autoclave for 15 minutes at 121 °C.",
+   "notes": "Sigma: 'This nutrient-rich microbial broth contains peptides, amino acids and carbohydrates in a low-salt formulation.' Variant (Enquist and Sternberg): 'Aseptically add 10 ml of sterile 1 M magnesium sulfate after autoclaving.'",
+   "sourceKey": "sigma-l3022-lb-lennox"
+  },
+  {
+   "key": "lb-luria-low-salt",
+   "name": "LB broth (Luria, low salt)",
+   "aliases": [
+    "Luria Broth",
+    "Luria-Bertani medium (LB)",
+    "Luria Broth (Miller's Modification) [Sigma-listed synonym; conflicts with Miller = 10 g/L NaCl]"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   },
+   "components": [
+    {
+     "name": "Tryptone",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Yeast extract",
+     "amount": 5,
+     "unit": "g"
+    },
+    {
+     "name": "NaCl",
+     "amount": 0.5,
+     "unit": "g"
+    }
+   ],
+   "steps": "1. Suspend 15.5 g in 1 L of distilled water. 2. Autoclave for 15 minutes at 121°C. Allow to cool before making additions, such as antibiotics (if desired).",
+   "sterilization": "Autoclave for 15 minutes at 121°C.",
+   "notes": "Sigma pH spec 6.8-7.2 (1.55% solution); 'very low-salt formulation'. CAUTION: Sigma's own synonym list for this 0.5 g/L NaCl product includes 'Luria Broth (Miller's Modification)', while Sigma's Miller product (L3522) is 10 g/L NaCl — never resolve a recipe by name alone; check NaCl g/L.",
+   "sourceKey": "sigma-l3397-lb-luria"
+  },
+  {
+   "key": "lb-agar-miller",
+   "name": "LB agar (Miller)",
+   "aliases": [
+    "Luria Agar",
+    "Luria Bertani agar",
+    "Miller's LB agar",
+    "lysogeny broth agar",
+    "LB Broth with agar (Miller)"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   },
+   "components": [
+    {
+     "name": "Tryptone",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Yeast extract",
+     "amount": 5,
+     "unit": "g"
+    },
+    {
+     "name": "NaCl",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Agar",
+     "amount": 15,
+     "unit": "g"
+    }
+   ],
+   "steps": "1. Suspend 40 g in 1L of distilled water. 2. Heat to boiling while stirring to dissolve. 3. Autoclave for 15 minutes at 121°C. 4. Cool to 50°C prior to dispensing into sterile petri dishes.",
+   "sterilization": "Autoclave for 15 minutes at 121°C.",
+   "notes": "Addgene's LB agar premix uses 12.0 g agar-agar per litre (37 g premix: 10 g peptone from casein, 5 g yeast extract, 10 g NaCl, 12 g agar) and autoclaves at least 121 ℃ under 20 psi for at least 30 min; Addgene cools molten agar to 60 ℃ before adding antibiotic.",
+   "sourceKey": "sigma-l3147-lb-agar-miller"
+  },
+  {
+   "key": "addgene-lb-agar",
+   "name": "LB agar (Addgene premix; salt level = Miller, not named)",
+   "aliases": [
+    "LB-agar",
+    "Luria broth (LB) agar"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   },
+   "components": [
+    {
+     "name": "Peptone from casein",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Yeast extract",
+     "amount": 5,
+     "unit": "g"
+    },
+    {
+     "name": "Sodium chloride",
+     "amount": 10,
+     "unit": "g"
+    },
+    {
+     "name": "Agar-agar",
+     "amount": 12,
+     "unit": "g"
+    },
+    {
+     "name": "Sterile H2O",
+     "amount": 1,
+     "unit": "L"
+    }
+   ],
+   "steps": "Measure 37g of pre-mixed LB-agar powder per L of molten agar you'd like to make. Transfer powder into a bottle (400 mL agar in 1 L bottles; 200 mL in 500 mL bottles), add sterile water, swirl. Cover loosely (no air-tight seal), autoclave tape. Autoclave; cool in 60 ℃ water bath at least 5 min; add antibiotic (1000x stock); swirl; pour.",
+   "sterilization": "Place the gel mix in the autoclave and run on a setting that gets the sample to at least 121 ℃ under 20 psi for at least 30 min.",
+   "notes": "Addgene calls it 'Luria broth (LB)' without saying Miller/Lennox; NaCl 10 g/L corresponds to Miller. Agar 12 g/L differs from Sigma L3147's 15 g/L.",
+   "sourceKey": "addgene-lb-agar-plates"
+  },
+  {
+   "key": "pbs-1x",
+   "name": "Phosphate-buffered saline (PBS), 1X",
+   "aliases": [
+    "PBS",
+    "1× PBS"
+   ],
+   "yield": {
+    "value": 1,
+    "unit": "L"
+   },
+   "components": [
+    {
+     "name": "NaCl",
+     "amount": 8,
+     "unit": "g"
+    },
+    {
+     "name": "KCl",
+     "amount": 0.2,
+     "unit": "g"
+    },
+    {
+     "name": "Na2HPO4",
+     "amount": 1.44,
+     "unit": "g"
+    },
+    {
+     "name": "KH2PO4",
+     "amount": 0.24,
+     "unit": "g"
+    }
+   ],
+   "steps": "Dissolve the reagents listed above in 800 mL of H2O. Adjust the pH to 7.4 (or 7.2, if required) with HCl, and then add H2O to 1 L. Dispense the solution into aliquots.",
+   "sterilization": "Sterilize them by autoclaving for 20 min at 15 psi (1.05 kg/cm2) on liquid cycle or by filter sterilization. Store PBS at room temperature.",
+   "notes": "Final 1×: 137 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, 1.8 mM KH2PO4. 10× stock: 80 g NaCl, 2 g KCl, 14.4 g Na2HPO4, 2.4 g KH2PO4 per L. Optional supplements (1×): CaCl2•2H2O 0.133 g (1 mM), MgCl2•6H2O 0.10 g (0.5 mM). The page does not state the hydration form of Na2HPO4; 1.44 g = 10 mM corresponds to the anhydrous salt (inferred from the stated molarity, not stated by the source) — a hydrate would need a different mass.",
+   "sourceKey": "csh-pbs"
+  }
+ ],
+ "reagents": [
+  {
+   "key": "ethidium-bromide",
+   "name": "Ethidium bromide (powder, Sigma E7637)",
+   "aliases": [
+    "EtBr",
+    "Homidium bromide",
+    "3,8-Diamino-5-ethyl-6-phenylphenanthridinium bromide"
+   ],
+   "cas": "1239-45-8",
+   "hazards": [
+    "H302 (Acute Tox. 4 Oral)",
+    "H330 (Acute Tox. 1 Inhalation)",
+    "H341 (Muta. 2)"
+   ],
+   "signalWord": "Danger",
+   "storage": "Storage Class | 6.1A - Combustible acute toxic Cat. 1 and 2 / very toxic hazardous materials",
+   "incompatibilities": [],
+   "disposal": "Not stated on the product page; see SDS. Thermo SDS for EtBr solution: 'P501 - Dispose of contents/ container to an approved waste disposal plant'.",
+   "sourceKey": "sigma-e7637-etbr"
+  },
+  {
+   "key": "ethidium-bromide-1pct-solution",
+   "name": "Ethidium bromide, 1% solution (Fisher BP1302-10)",
+   "aliases": [
+    "EtBr 10 mg/mL",
+    "Ethidium bromide solution"
+   ],
+   "cas": "1239-45-8",
+   "hazards": [
+    "Toxic if inhaled [Acute Inhalation Toxicity - Dusts and Mists Category 3; SDS prints text only, no H-code]",
+    "Suspected of causing genetic defects [Germ Cell Mutagenicity Category 2]"
+   ],
+   "signalWord": "Danger",
+   "storage": "Store locked up. Store in a well-ventilated place. Keep container tightly closed. Keep containers tightly closed in a cool, well-ventilated place.",
+   "incompatibilities": [
+    "Strong oxidizing agents"
+   ],
+   "disposal": "Dispose of contents/container to an approved waste disposal plant. Chemical waste generators must determine whether a discarded chemical is classified as a hazardous waste. Chemical waste generators must also consult local, regional, and national hazardous waste regulations to ensure complete and accurate classification.",
+   "sourceKey": "fisher-bp1302-etbr-sds"
+  },
+  {
+   "key": "ethidium-bromide-invitrogen-15585011",
+   "name": "Ethidium bromide solution (Invitrogen 15585011, 0.5-1.5%)",
+   "aliases": [
+    "UltraPure Ethidium Bromide, 10 mg/mL"
+   ],
+   "cas": "1239-45-8",
+   "hazards": [
+    "H341 - Suspected of causing genetic defects"
+   ],
+   "signalWord": "Warning",
+   "storage": "Keep in a dry, cool and well-ventilated place. Keep in properly labeled containers.",
+   "incompatibilities": [
+    "No dangerous reaction known under conditions of normal use."
+   ],
+   "disposal": "P501 - Dispose of contents/ container to an approved waste disposal plant. Disposal of this product, its solutions or of any by-products, shall comply with the requirements of all applicable local, regional or national/federal regulations.",
+   "sourceKey": "thermo-15585011-etbr-sds"
+  },
+  {
+   "key": "sybr-safe",
+   "name": "SYBR Safe DNA Gel Stain",
+   "aliases": [
+    "SYBR Safe"
+   ],
+   "cas": null,
+   "hazards": [],
+   "signalWord": null,
+   "storage": null,
+   "incompatibilities": [],
+   "disposal": "Some institutions and municipalities have approved the disposal of Invitrogen SYBR Safe DNA Gel Stain directly into their wastewater systems. However, disposal regulations vary. Please contact your safety office or local municipality for disposal guidelines. (Spills: 'Water and 70% ethanol should get rid of most stains from spills. For persistent stains, bleach may be used.')",
+   "sourceKey": "thermo-sybr-safe"
+  }
+ ],
+ "claims": [
+  {
+   "subjectKey": "lb-miller",
+   "parameter": "NaCl concentration",
+   "statement": "description | Miller′s Modification, 10 g/L NaCl | ... composition | NaCl, 10 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L",
+   "value": "10",
+   "unit": "g/L",
+   "sourceKey": "sigma-l3522-lb-miller",
+   "standing": "current",
+   "appliesWhen": "LB Miller",
+   "ruling": "Manufacturer spec; CSH 'LB' recipe gives the same 10 g NaCl per litre."
+  },
+  {
+   "subjectKey": "lb-lennox",
+   "parameter": "NaCl concentration",
+   "statement": "composition | NaCl, 5 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L",
+   "value": "5",
+   "unit": "g/L",
+   "sourceKey": "sigma-l3022-lb-lennox",
+   "standing": "current",
+   "appliesWhen": "LB Lennox",
+   "ruling": "Manufacturer spec for the Lennox variant."
+  },
+  {
+   "subjectKey": "lb-luria-low-salt",
+   "parameter": "NaCl concentration",
+   "statement": "composition | NaCl, 0.5 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L",
+   "value": "0.5",
+   "unit": "g/L",
+   "sourceKey": "sigma-l3397-lb-luria",
+   "standing": "current",
+   "appliesWhen": "LB Luria (low salt)",
+   "ruling": "Manufacturer spec; note Sigma lists the synonym 'Luria Broth (Miller's Modification)' for this product, which contradicts its Miller product."
+  },
+  {
+   "subjectKey": "lb-miller",
+   "parameter": "recipe identity when source says only 'LB'",
+   "statement": "LB (Luria-Bertani) liquid medium ... Tryptone 10 g NaCl 10 g Yeast extract 5 g",
+   "value": "10",
+   "unit": "g/L NaCl",
+   "sourceKey": "csh-lb",
+   "standing": "context",
+   "appliesWhen": "a protocol says 'LB' without a variant",
+   "ruling": "CSH Protocols and Addgene both say just 'LB' but use 10 g/L NaCl (Miller composition); 'LB' alone is ambiguous across Sigma's Miller/Lennox/Luria products, so confirm NaCl g/L."
+  },
+  {
+   "subjectKey": "lb-miller",
+   "parameter": "autoclave time for LB broth",
+   "statement": "Sterilize by autoclaving for 20 min at 15 psi (1.05 kg/cm2) on liquid cycle.",
+   "value": "20",
+   "unit": "min",
+   "sourceKey": "csh-lb",
+   "standing": "context",
+   "appliesWhen": "1 L LB per CSH Protocols",
+   "ruling": "Sigma L3522 says 15 minutes at 121 °C; both are holding times for the medium, and volume-dependent cycle extension (EHS guidance) applies for larger loads."
+  },
+  {
+   "subjectKey": "lb-miller",
+   "parameter": "autoclave time for LB broth",
+   "statement": "1. Suspend 25 g in 1 L of distilled water. | 2. Autoclave for 15 minutes at 121 °C.",
+   "value": "15",
+   "unit": "min",
+   "sourceKey": "sigma-l3522-lb-miller",
+   "standing": "context",
+   "appliesWhen": "Sigma L3522 premix",
+   "ruling": "Manufacturer instruction; CSH uses 20 min and Addgene 'at least 30 min' for LB agar."
+  },
+  {
+   "subjectKey": "lb-agar-miller",
+   "parameter": "agar concentration",
+   "statement": "composition | Agar, 15 g/L , NaCl, 10 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L",
+   "value": "15",
+   "unit": "g/L",
+   "sourceKey": "sigma-l3147-lb-agar-miller",
+   "standing": "current",
+   "appliesWhen": "Sigma L3147 LB agar (Miller)",
+   "ruling": "Manufacturer spec; Addgene's premix uses 12.0 g agar-agar per L."
+  },
+  {
+   "subjectKey": "addgene-lb-agar",
+   "parameter": "agar concentration",
+   "statement": "37 g pre-mixed powder consisting of: 5.0 g yeast extract 10.0 g peptone from casein 10.0 g sodium chloride 12.0 g agar-agar",
+   "value": "12",
+   "unit": "g/L",
+   "sourceKey": "addgene-lb-agar-plates",
+   "standing": "disputed",
+   "appliesWhen": "Addgene's premixed LB-agar powder",
+   "ruling": "Differs from Sigma L3147 (15 g/L); both are valid product formulations—follow the premix you actually use."
+  },
+  {
+   "subjectKey": "addgene-lb-agar",
+   "parameter": "autoclave cycle for LB agar",
+   "statement": "run on a setting that gets the sample to at least 121 ℃ under 20 psi for at least 30 min.",
+   "value": "30",
+   "unit": "min",
+   "sourceKey": "addgene-lb-agar-plates",
+   "standing": "disputed",
+   "appliesWhen": "200-400 mL LB agar in 500 mL-1 L bottles (Addgene)",
+   "ruling": "Sigma says 15 min at 121°C and CSH 20 min at 15 psi; Addgene's 20 psi differs from the 15 psi used by CSH."
+  },
+  {
+   "subjectKey": "asm-gram-stain",
+   "parameter": "crystal violet time",
+   "statement": "Flood air-dried, heat-fixed smear of cells for 1 minute with crystal violet staining reagent.",
+   "value": "60",
+   "unit": "s",
+   "sourceKey": "asm-gram-stain",
+   "standing": "current",
+   "appliesWhen": "general",
+   "ruling": "ASM, Hardy and Cornell all agree on 1 minute."
+  },
+  {
+   "subjectKey": "asm-gram-stain",
+   "parameter": "Gram's iodine time",
+   "statement": "Flood slide with the mordant: Gram's iodine. Wait 1 minute.",
+   "value": "60",
+   "unit": "s",
+   "sourceKey": "asm-gram-stain",
+   "standing": "current",
+   "appliesWhen": "general",
+   "ruling": "ASM, Hardy and Cornell all agree on 1 minute."
+  },
+  {
+   "subjectKey": "asm-gram-stain",
+   "parameter": "decolorizer time",
+   "statement": "Flood slide with decolorizing agent. Wait 15 seconds or add drop by drop to slide until decolorizing agent running from the slide runs clear",
+   "value": "15",
+   "unit": "s",
+   "sourceKey": "asm-gram-stain",
+   "standing": "disputed",
+   "appliesWhen": "95% ethanol (or 1:1 acetone-ethanol), thin smear",
+   "ruling": "Hardy says ≤10 s with acetone-containing decolorizer and Cornell says 1-5 s; time depends on decolorizer strength and smear thickness — end-point 'runs clear' is the common criterion."
+  },
+  {
+   "subjectKey": "asm-gram-stain",
+   "parameter": "decolorizer time (ASMCUE comments)",
+   "statement": "Some individuals will flood the slide for 15 seconds or less with decolorzing agent, while others recommend adding decolorizing agent drop wise for 5- 15 seconds or until the color of the decolorizing agent running from the slide no longer shows any color.",
+   "value": "5-15",
+   "unit": "s",
+   "sourceKey": "asm-gram-stain",
+   "standing": "context",
+   "appliesWhen": "thin smear",
+   "ruling": "ASM itself presents a range; consistent with Hardy (≤10 s) at the short end."
+  },
+  {
+   "subjectKey": "hardy-gram-stain",
+   "parameter": "decolorizer time",
+   "statement": "Tilt the slide and flood with a few drops of Decolorizer until no violet color runs off. This will usually take 10 seconds or less depending on the thickness of the specimen. Do not over decolorize.",
+   "value": "≤10",
+   "unit": "s",
+   "sourceKey": "hardy-gram-stain",
+   "standing": "disputed",
+   "appliesWhen": "Hardy acetone-alcohol decolorizers (50% or 75% acetone)",
+   "ruling": "Faster acetone decolorizers need shorter times than ASM's 95% ethanol 15 s."
+  },
+  {
+   "subjectKey": "cornell-gram-stain",
+   "parameter": "decolorizer time",
+   "statement": "Holding slide on a tilt with a clothes pin, flood the slide with decolorizer (#3) for one to five seconds.",
+   "value": "1-5",
+   "unit": "s",
+   "sourceKey": "cornell-gram-stain",
+   "standing": "disputed",
+   "appliesWhen": "Cornell AHDC diagnostic smears (decolorizer composition not stated on page)",
+   "ruling": "Shortest of the three sources; ASM's 15 s with this decolorizer could over-decolorize."
+  },
+  {
+   "subjectKey": "asm-gram-stain",
+   "parameter": "safranin counterstain time",
+   "statement": "Flood slide with counterstain, safranin. Wait 30 seconds to 1 minute.",
+   "value": "30-60",
+   "unit": "s",
+   "sourceKey": "asm-gram-stain",
+   "standing": "current",
+   "appliesWhen": "general",
+   "ruling": "Hardy says one minute and Cornell 30 seconds; both inside ASM's range."
+  },
+  {
+   "subjectKey": "hardy-gram-stain",
+   "parameter": "smear fixation method",
+   "statement": "Methanol fix slide by flooding with absolute methanol (95%) for 1-2 minutes ... Note: Do not use heat fixation.",
+   "value": "methanol 1-2 min",
+   "unit": null,
+   "sourceKey": "hardy-gram-stain",
+   "standing": "disputed",
+   "appliesWhen": "Hardy kits, especially clinical/bloody specimens",
+   "ruling": "ASM and Cornell use heat-fixed smears; Hardy argues methanol gives 'greater control over the decolorization process'. Both are in use; follow the kit IFU."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "standard cycle temperature and pressure",
+   "statement": "For both DRY and LIQUID biohazardous waste materials, cycle times must be set for a minimum of 30 minutes @ 121°C, 15 psi.",
+   "value": "121",
+   "unit": "°C",
+   "sourceKey": "vt-autoclave",
+   "standing": "current",
+   "appliesWhen": "biohazardous waste and liquids",
+   "ruling": "121 °C / ~15 psi agrees with UCSD ('approximately 15 pounds per square inch ... at least 250°F (121°C)'), MIT and CSH; Addgene and Stanford use 20 psi."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "liquid cycle time vs volume per container",
+   "statement": "75 ml 25 minutes; 250 ml 30 minutes; 500 ml 40 minutes; 1000 ml 45 minutes; 1500 ml 50 minutes; 2000 ml 55 minutes; >2000 ml 55 + 10 min. / L",
+   "value": "25-55 (+10 per L above 2 L)",
+   "unit": "min",
+   "sourceKey": "vt-autoclave",
+   "standing": "current",
+   "appliesWhen": "volume of liquid in one container, liquid (slow exhaust) cycle at 121 °C",
+   "ruling": "Only reachable EHS volume table found; consistent with UCSD's general 30–60 min range."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "minimum time for biohazardous waste",
+   "statement": "cycle times must be set for a minimum of 30 minutes @ 121°C, 15 psi.",
+   "value": "30",
+   "unit": "min",
+   "sourceKey": "vt-autoclave",
+   "standing": "disputed",
+   "appliesWhen": "biohazardous waste at Virginia Tech",
+   "ruling": "UNC requires 'at least 60 minutes' for biohazardous waste and MIT runs a 60-minute waste cycle; follow the local institution and verify with biological indicators."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "minimum time for biohazardous waste",
+   "statement": "Biohazardous waste should be autoclaved at 121° C (250° F) for at least 60 minutes; however, larger loads may require additional time.",
+   "value": "60",
+   "unit": "min",
+   "sourceKey": "unc-autoclaves",
+   "standing": "disputed",
+   "appliesWhen": "UNC (NC Medical Waste Rules require weekly biological-indicator testing)",
+   "ruling": "Stricter than VT/Stanford 30 min; 60 min is the conservative choice for bagged waste."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "items not to autoclave",
+   "statement": "Never put materials containing solvents, corrosives or radioactive materials in the autoclave (e.g., phenol, chloroform, pyridine, or bleach).",
+   "value": "solvents, corrosives, radioactive materials, phenol, chloroform, pyridine, bleach",
+   "unit": null,
+   "sourceKey": "vt-autoclave",
+   "standing": "current",
+   "appliesWhen": "all autoclave use",
+   "ruling": "Agrees with UNC ('Do not autoclave liquid wastes that contain bleach or ethanol'; 'Never autoclave live animals or any toxic, volatile, corrosive, or radioactive materials') and Stanford ('Do not autoclave items containing corrosives, solvents, volatiles or radioactive materials')."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "items not to autoclave",
+   "statement": "Never autoclave live animals or any toxic, volatile, corrosive, or radioactive materials. Do not autoclave liquid wastes that contain bleach or ethanol.",
+   "value": "live animals, toxic, volatile, corrosive, radioactive materials; liquid waste with bleach or ethanol",
+   "unit": null,
+   "sourceKey": "unc-autoclaves",
+   "standing": "current",
+   "appliesWhen": "all autoclave use",
+   "ruling": "Consistent with VT and Stanford lists."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "sealed containers",
+   "statement": "Never put sealed containers in an autoclave. They can explode. Large bottles with narrow necks may also explode or boil over if filled too full of liquid.",
+   "value": "loose caps / vented closures; ≤2/3 full",
+   "unit": null,
+   "sourceKey": "vt-autoclave",
+   "standing": "current",
+   "appliesWhen": "liquids",
+   "ruling": "Stanford likewise: 'Never seal a container of liquid with a cork that may cause a pressurized explosion inside the autoclave.'"
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "waste cycle settings (Stanford)",
+   "statement": "Set the cycle for 30 minutes, 121 degrees F at 20 PSI (or alternate required conditions depending on waste)",
+   "value": "121 (printed as °F; almost certainly means °C)",
+   "unit": "°C",
+   "sourceKey": "stanford-bsm-autoclaves",
+   "standing": "disputed",
+   "appliesWhen": "Stanford red-bag waste",
+   "ruling": "Source text says '121 degrees F', which is not a sterilizing temperature; every other source (and Stanford's own context) uses 121 °C — treat as a typo, and note 20 psi vs the 15 psi used by VT/MIT/UCSD/CSH."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "liquid media cycle length",
+   "statement": "Liquid media requires a shorter cycle, often 15- 20 minutes while autoclavable medical waste requires a minimum of 30 minutes in order to be effectively sterilized",
+   "value": "15-20",
+   "unit": "min",
+   "sourceKey": "stanford-bsm-autoclaves",
+   "standing": "context",
+   "appliesWhen": "(small volumes of) liquid media vs bagged waste",
+   "ruling": "Matches Sigma (15 min) and CSH (20 min) for media; VT's volume table shows larger containers need 40–55+ min."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "bleach dilution for biological spills",
+   "statement": "A freshly prepared 1:10 dilution of household bleach (~0.5% sodium hypochlorite) is suitable for most biological spills.",
+   "value": "1:10",
+   "unit": "v/v",
+   "sourceKey": "uw-biohazardous-spills",
+   "standing": "current",
+   "appliesWhen": "biological spills (household bleach ~5-6% NaOCl)",
+   "ruling": "Agrees with CDC (1:10 final for large blood spills), UCSB, WVU, Case, USU, and WHO's 5000 ppm 'dirty conditions' level."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "available chlorine for surface disinfection",
+   "statement": "Typically, a solution of sodium hypochlorite (NaOCl) containing 1000 ppm (parts per million) available chlorine will be suitable for general surface disinfection, but stronger solutions (for example, 5000 ppm or 10 000 ppm) are recommended when dealing with heavy contamination",
+   "value": "1000 (clean) / 5000-10000 (heavy contamination)",
+   "unit": "ppm av Cl",
+   "sourceKey": "who-lbm4-decon",
+   "standing": "current",
+   "appliesWhen": "WHO; clean vs dirty conditions",
+   "ruling": "WHO Table 2.2: 5% available-chlorine NaOCl solution 20 mL (clean, 1000 ppm) vs 100 mL (dirty, 5000 ppm); 1:10 household bleach ≈ 5000 ppm per CDC."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "ppm of 1:10 household bleach",
+   "statement": "a 1:10 dilution of household bleach provides about 5250–6150 ppm.",
+   "value": "5250-6150",
+   "unit": "ppm",
+   "sourceKey": "cdc-chemical-disinfectants",
+   "standing": "current",
+   "appliesWhen": "household bleach 5.25%–6.15% NaOCl",
+   "ruling": "Bridges CDC/university '1:10' with WHO's ppm-based guidance."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "bleach dilution for small blood spills",
+   "statement": "For small spills of blood (i.e., drops of blood) on noncritical surfaces, the area can be disinfected with a 1:100 dilution of 5.25%-6.15% sodium hypochlorite or an EPA-registered tuberculocidal disinfectant.",
+   "value": "1:100",
+   "unit": "v/v",
+   "sourceKey": "cdc-chemical-disinfectants",
+   "standing": "context",
+   "appliesWhen": "drops of blood on noncritical healthcare surfaces",
+   "ruling": "Large spills: clean first, then 1:10 final; lab biological spills use 1:10."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "bleach contact time",
+   "statement": "Allow 30 minutes of contact time. The contact time may vary depending on the decontaminant used. Follow manufacturer's directions.",
+   "value": "30",
+   "unit": "min",
+   "sourceKey": "uw-biohazardous-spills",
+   "standing": "disputed",
+   "appliesWhen": "UW EH&S biological spills",
+   "ruling": "UCSB/WVU/USU say 20 min and Case 15-20 min; WHO and CDC give no single contact time (agent-dependent). 30 min is the most conservative."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "bleach contact time",
+   "statement": "Allow for the contact time specified for the disinfectant; 20 minutes' contact time for freshly diluted 10% bleach (final vol/vol).",
+   "value": "20",
+   "unit": "min",
+   "sourceKey": "ucsb-bio-spill",
+   "standing": "disputed",
+   "appliesWhen": "UCSB biological spills",
+   "ruling": "Matches WVU and USU (20 min); UW requires 30 min."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "bleach contact time",
+   "statement": "Pour an appropriate decontamination agent (for example: fresh 1:10 dilution of bleach) into the absorbent materials and leave for 15-20 minutes.",
+   "value": "15-20",
+   "unit": "min",
+   "sourceKey": "case-bio-spill",
+   "standing": "disputed",
+   "appliesWhen": "Case Western biological spills",
+   "ruling": "Lower bound (15 min) is shorter than UCSB/WVU (20) and UW (30)."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "bleach contact time (internal inconsistency)",
+   "statement": "Spills of infectious agents will be handled by copiously spraying 10 percent bleach (no more than one-day old) on the contaminated area. After five minutes, the liquid will be blotted up",
+   "value": "5",
+   "unit": "min",
+   "sourceKey": "usu-bio-spill",
+   "standing": "disputed",
+   "appliesWhen": "USU page (same page also says 'Wait at least 20 minutes' for BSC surfaces)",
+   "ruling": "Outlier; contradicts USU's own 20-min instruction and all other sources — do not use 5 min."
+  },
+  {
+   "subjectKey": "uw-bleach-spill-bsc",
+   "parameter": "diluted bleach shelf life",
+   "statement": "Diluted hypochlorite solutions have a limited shelf-life, about one day, depending on exposure to heat and/or sunlight.",
+   "value": "1",
+   "unit": "day",
+   "sourceKey": "who-lbm4-decon",
+   "standing": "current",
+   "appliesWhen": "working bleach dilutions",
+   "ruling": "Consistent with 'freshly prepared' (UW, UCSB, Case) and USU's 'no more than one-day old'."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "autoclave holding time at 121 °C (WHO)",
+   "statement": "After a thorough risk assessment and validation, the following cycle will usually provide sterilization of correctly loaded autoclaves: ... 15 min holding time at 121 °C",
+   "value": "15",
+   "unit": "min",
+   "sourceKey": "who-lbm4-decon",
+   "standing": "context",
+   "appliesWhen": "holding time once the load reaches 121 °C, correctly loaded and validated autoclave",
+   "ruling": "WHO's 15 min is holding time at temperature; university 30-60 min figures are total cycle settings for waste loads that need time to heat through (VT volume table)."
+  },
+  {
+   "subjectKey": "vt-autoclave-liquids",
+   "parameter": "bleach must not be autoclaved (WHO)",
+   "statement": "Hazardous chemicals (for example, bleach, mercury or radioactive material) must never be treated in an autoclave.",
+   "value": "never autoclave bleach",
+   "unit": null,
+   "sourceKey": "who-lbm4-decon",
+   "standing": "current",
+   "appliesWhen": "all autoclave use",
+   "ruling": "WHO, VT, UNC and Stanford agree."
+  },
+  {
+   "subjectKey": "neb-c2987-transformation",
+   "parameter": "heat shock duration",
+   "statement": "Heat shock at exactly 42°C for exactly 30 seconds. Do not mix.",
+   "value": "30",
+   "unit": "s",
+   "sourceKey": "neb-c2987-transformation",
+   "standing": "current",
+   "appliesWhen": "NEB 5-alpha Competent E. coli (High Efficiency, #C2987H/#C2987I) in the NEB-supplied transformation tube",
+   "ruling": "Manufacturer's own protocol for this product; Addgene's generic 45 s (30-60 s range) applies to unspecified cells, and Addgene itself defers to the cell vendor's instructions."
+  },
+  {
+   "subjectKey": "neb-c2987-transformation",
+   "parameter": "heat shock temperature",
+   "statement": "Heat shock at exactly 42°C for exactly 30 seconds. Do not mix.",
+   "value": "42",
+   "unit": "°C",
+   "sourceKey": "neb-c2987-transformation",
+   "standing": "current",
+   "appliesWhen": "NEB 5-alpha (#C2987)",
+   "ruling": "NEB and Addgene agree on 42°C."
+  },
+  {
+   "subjectKey": "neb-c2987-transformation",
+   "parameter": "ice incubation of cells + DNA before heat shock",
+   "statement": "Place the mixture on ice for 30 minutes. Do not mix.",
+   "value": "30",
+   "unit": "min",
+   "sourceKey": "neb-c2987-transformation",
+   "standing": "current",
+   "appliesWhen": "NEB 5-alpha (#C2987); NEB: 'Expect a 2-fold loss in transformation efficiency for every 10 minutes this step is shortened.'",
+   "ruling": "Consistent with Addgene's 20-30 min window; NEB's 30 min is the maximum-efficiency setting."
+  },
+  {
+   "subjectKey": "neb-c2987-transformation",
+   "parameter": "recovery (outgrowth) medium and time",
+   "statement": "Pipette 950 µl of room temperature SOC outgrowth media into the mixture. Place at 37°C for 60 minutes. Shake vigorously (250 rpm) or rotate.",
+   "value": "60",
+   "unit": "min",
+   "sourceKey": "neb-c2987-transformation",
+   "standing": "current",
+   "appliesWhen": "NEB 5-alpha (#C2987)",
+   "ruling": "Addgene uses 45 min in LB or SOC; NEB states SOC gives 2-fold higher efficiency than LB and each 15 min of shortening costs ~2-fold, so NEB's 60 min SOC applies for NEB cells."
+  },
+  {
+   "subjectKey": "addgene-transformation",
+   "parameter": "heat shock duration",
+   "statement": "Heat shock each transformation tube by placing the bottom 1/2 to 2/3 of the tube into a 42°C water bath for 30-60 secs (45 secs is usually ideal, but this varies depending on the competent cells you are using).",
+   "value": "45",
+   "unit": "s",
+   "sourceKey": "addgene-transformation",
+   "standing": "disputed",
+   "appliesWhen": "generic chemically competent E. coli when the vendor gives no protocol",
+   "ruling": "NEB specifies exactly 30 s for its 5-alpha cells; use the competent-cell vendor's time when available (Addgene says so itself)."
+  },
+  {
+   "subjectKey": "addgene-transformation",
+   "parameter": "recovery (outgrowth) medium and time",
+   "statement": "Add 250-1,000 μl LB or SOC media (without antibiotic) to the bacteria and grow in 37°C shaking incubator for 45 min.",
+   "value": "45",
+   "unit": "min",
+   "sourceKey": "addgene-transformation",
+   "standing": "disputed",
+   "appliesWhen": "generic protocol",
+   "ruling": "NEB recommends 60 min in SOC for its cells; Addgene's 45 min in LB or SOC is a generic setting."
+  },
+  {
+   "subjectKey": "addgene-transformation",
+   "parameter": "post-heat-shock ice time",
+   "statement": "Put the tubes back on ice for 2 min.",
+   "value": "2",
+   "unit": "min",
+   "sourceKey": "addgene-transformation",
+   "standing": "disputed",
+   "appliesWhen": "generic protocol",
+   "ruling": "NEB specifies 5 minutes on ice after heat shock for NEB 5-alpha."
+  },
+  {
+   "subjectKey": "neb-c2987-transformation",
+   "parameter": "heat shock duration (general guidance)",
+   "statement": "Heat shock is performed at 42°C for 30 seconds as appropriate for the bacterial strain and DNA used. For smaller volumes of cells in smaller tubes, the heat shock interval, which depends on the surface-to-volume ratio of the cell suspension, should be reduced.",
+   "value": "30",
+   "unit": "s",
+   "sourceKey": "thermo-transformation-workflow",
+   "standing": "context",
+   "appliesWhen": "general chemically competent cells, 50–100 µL in polypropylene tube",
+   "ruling": "Agrees with NEB's 30 s; both stress that the optimum depends on tube/volume (surface-to-volume ratio), which explains Addgene's broader 30-60 s range."
+  },
+  {
+   "subjectKey": "neb-c2987-transformation",
+   "parameter": "ice incubation before heat shock (general)",
+   "statement": "The initial incubation of cells and plasmid is carried out in a polypropylene tube on ice for durations ranging from 5–30 minutes.",
+   "value": "5-30",
+   "unit": "min",
+   "sourceKey": "thermo-transformation-workflow",
+   "standing": "context",
+   "appliesWhen": "general",
+   "ruling": "NEB quantifies the cost: ~2-fold efficiency loss per 10 min shortened from 30 min."
+  },
+  {
+   "subjectKey": "ethidium-bromide",
+   "parameter": "GHS signal word (powder)",
+   "statement": "Pictograms | GHS06,GHS08 | Signal Word | Danger | Hazard Codes | H302,H330,H341",
+   "value": "Danger",
+   "unit": null,
+   "sourceKey": "sigma-e7637-etbr",
+   "standing": "current",
+   "appliesWhen": "solid EtBr powder",
+   "ruling": "Powder is classified Acute Tox. 1 Inhalation; dilute solutions carry lower classifications (see conflicts)."
+  },
+  {
+   "subjectKey": "ethidium-bromide-1pct-solution",
+   "parameter": "GHS signal word (1% solution)",
+   "statement": "Signal Word Danger Hazard Statements Toxic if inhaled Suspected of causing genetic defects",
+   "value": "Danger",
+   "unit": null,
+   "sourceKey": "fisher-bp1302-etbr-sds",
+   "standing": "disputed",
+   "appliesWhen": "Fisher BP1302-10, 1% aqueous solution",
+   "ruling": "Invitrogen 15585011 (0.5-1.5%) SDS classifies a similar-strength solution as WARNING with H341 only; treat as the more hazardous classification for safety."
+  },
+  {
+   "subjectKey": "ethidium-bromide-invitrogen-15585011",
+   "parameter": "GHS signal word (0.5-1.5% solution)",
+   "statement": "Signal Word WARNING ... Hazard Statements H341 - Suspected of causing genetic defects",
+   "value": "Warning",
+   "unit": null,
+   "sourceKey": "thermo-15585011-etbr-sds",
+   "standing": "disputed",
+   "appliesWhen": "Invitrogen 15585011 solution",
+   "ruling": "Fisher's 1% solution SDS adds 'Toxic if inhaled' and signal word Danger; both agree on germ cell mutagenicity category 2."
+  },
+  {
+   "subjectKey": "ethidium-bromide",
+   "parameter": "mutagenicity hazard",
+   "statement": "H341 - Suspected of causing genetic defects",
+   "value": "H341",
+   "unit": null,
+   "sourceKey": "thermo-15585011-etbr-sds",
+   "standing": "current",
+   "appliesWhen": "all forms",
+   "ruling": "All three SDS/product sources (Sigma powder, Fisher 1%, Invitrogen 0.5-1.5%) list germ cell mutagenicity category 2."
+  },
+  {
+   "subjectKey": "sybr-safe",
+   "parameter": "disposal",
+   "statement": "Some institutions and municipalities have approved the disposal of Invitrogen SYBR Safe DNA Gel Stain directly into their wastewater systems. However, disposal regulations vary. Please contact your safety office or local municipality for disposal guidelines.",
+   "value": "local rules",
+   "unit": null,
+   "sourceKey": "thermo-sybr-safe",
+   "standing": "current",
+   "appliesWhen": "SYBR Safe stain/gel waste",
+   "ruling": "Manufacturer defers to local safety office; drain disposal is not a universal default."
+  },
+  {
+   "subjectKey": "sybr-safe",
+   "parameter": "hazardous waste status (US)",
+   "statement": "SYBR Safe DNA Gel Stain is not classified as hazardous waste under U.S. Federal regulations (Resource Conservation and Recovery Act (RCRA)).",
+   "value": "not RCRA hazardous",
+   "unit": null,
+   "sourceKey": "thermo-sybr-safe",
+   "standing": "context",
+   "appliesWhen": "USA federal regulations only",
+   "ruling": "US federal status per manufacturer testing; local/institutional rules may be stricter."
+  },
+  {
+   "subjectKey": "pbs-1x",
+   "parameter": "pH",
+   "statement": "Adjust the pH to 7.4 (or 7.2, if required) with HCl, and then add H2O to 1 L.",
+   "value": "7.4",
+   "unit": "pH",
+   "sourceKey": "csh-pbs",
+   "standing": "current",
+   "appliesWhen": "1× or 10× PBS per CSH",
+   "ruling": "Single named source; 7.2 is allowed by the same source when required."
+  },
+  {
+   "subjectKey": "pbs-1x",
+   "parameter": "NaCl per litre (1×)",
+   "statement": "NaCl 8 g 137 mM",
+   "value": "8",
+   "unit": "g",
+   "sourceKey": "csh-pbs",
+   "standing": "current",
+   "appliesWhen": "1× PBS",
+   "ruling": "CSH Protocols recipe."
+  }
+ ],
+ "conflicts": [
+  {
+   "parameter": "agar g/L in LB agar",
+   "a": {
+    "quote": "composition | Agar, 15 g/L , NaCl, 10 g/L , Tryptone, 10 g/L , Yeast Extract, 5 g/L",
+    "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3147"
+   },
+   "b": {
+    "quote": "10.0 g sodium chloride 12.0 g agar-agar",
+    "url": "https://www.addgene.org/protocols/pouring-lb-agar-plates/"
+   },
+   "note": "15 vs 12 g/L agar; both are vendor premix formulations."
+  },
+  {
+   "parameter": "'LB' naming ambiguity / Miller synonym",
+   "a": {
+    "quote": "description | Miller′s Modification, 10 g/L NaCl",
+    "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3522"
+   },
+   "b": {
+    "quote": "Synonym(s): | Luria Broth (Miller’s Modification), Luria-Bertani medium (LB) ... composition | NaCl, 0.5 g/L",
+    "url": "https://www.sigmaaldrich.com/US/en/product/sigma/l3397"
+   },
+   "note": "Same manufacturer attaches 'Miller's Modification' to both a 10 g/L and a 0.5 g/L NaCl product; CSH and Addgene say just 'LB' (both 10 g/L NaCl). Resolve by NaCl g/L, not by name."
+  },
+  {
+   "parameter": "autoclave time/pressure for LB media",
+   "a": {
+    "quote": "Sterilize by autoclaving for 20 min at 15 psi (1.05 kg/cm2) on liquid cycle.",
+    "url": "https://cshprotocols.cshlp.org/content/2006/1/pdb.rec8141"
+   },
+   "b": {
+    "quote": "run on a setting that gets the sample to at least 121 ℃ under 20 psi for at least 30 min.",
+    "url": "https://www.addgene.org/protocols/pouring-lb-agar-plates/"
+   },
+   "note": "Sigma L3522/L3022/L3397/L3147 all say 15 minutes at 121 °C. Three different times (15/20/30 min) and two pressures (15/20 psi) for the same class of medium."
+  },
+  {
+   "parameter": "Gram stain decolorizer time",
+   "a": {
+    "quote": "Flood slide with decolorizing agent. Wait 15 seconds or add drop by drop to slide until decolorizing agent running from the slide runs clear",
+    "url": "https://asm.org/ASM/media/protocol-images/Gram-Stain-Protocols.pdf?ext=.pdf"
+   },
+   "b": {
+    "quote": "flood the slide with decolorizer (#3) for one to five seconds.",
+    "url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/gram-stain-protocol"
+   },
+   "note": "Hardy: 'This will usually take 10 seconds or less depending on the thickness of the specimen.' Decolorizer strength (95% ethanol vs 25-75% acetone) and smear thickness drive the time; use the 'runs clear' end-point."
+  },
+  {
+   "parameter": "smear fixation (heat vs methanol)",
+   "a": {
+    "quote": "Flood air-dried, heat-fixed smear of cells for 1 minute with crystal violet staining reagent.",
+    "url": "https://asm.org/ASM/media/protocol-images/Gram-Stain-Protocols.pdf?ext=.pdf"
+   },
+   "b": {
+    "quote": "Note: Do not use heat fixation.",
+    "url": "https://hardydiagnostics.com/media/assets/product/documents/GramStainKitRgnts.pdf"
+   },
+   "note": "Hardy recommends methanol fixation 1-2 min; ASM and Cornell heat-fix."
+  },
+  {
+   "parameter": "safranin time",
+   "a": {
+    "quote": "Cover slide with Safranin, Advanced Counterstain™, or Basic Fuchsin counterstain for one minute.",
+    "url": "https://hardydiagnostics.com/media/assets/product/documents/GramStainKitRgnts.pdf"
+   },
+   "b": {
+    "quote": "Flood the slide with safranin (#4). Allow to remain for 30 seconds.",
+    "url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/gram-stain-protocol"
+   },
+   "note": "Minor; ASM gives 30 seconds to 1 minute, covering both."
+  },
+  {
+   "parameter": "minimum autoclave time for biohazardous waste at 121 °C",
+   "a": {
+    "quote": "For both DRY and LIQUID biohazardous waste materials, cycle times must be set for a minimum of 30 minutes @ 121°C, 15 psi.",
+    "url": "https://ehs.vt.edu/content/dam/ehs_vt_edu/autoclave-documents/AutoclavingProcedures.pdf"
+   },
+   "b": {
+    "quote": "Biohazardous waste should be autoclaved at 121° C (250° F) for at least 60 minutes; however, larger loads may require additional time.",
+    "url": "https://ehs.unc.edu/topics/autoclaves/"
+   },
+   "note": "MIT: 'minimum temperature of 121°C ... for 30 minutes or longer' yet its own waste cycle is '121°C, 15 psi, 60 minutes'. UNC also lists Liquids: one hour. Load size/compaction drives the difference; validate with biological indicators."
+  },
+  {
+   "parameter": "autoclave pressure",
+   "a": {
+    "quote": "Autoclaves use saturated steam under pressure of approximately 15 pounds per square inch to achieve a chamber temperature of at least 250°F (121°C)",
+    "url": "https://blink.ucsd.edu/safety/research-lab/biosafety/autoclave/index.html"
+   },
+   "b": {
+    "quote": "Set the cycle for 30 minutes, 121 degrees F at 20 PSI (or alternate required conditions depending on waste)",
+    "url": "https://ehs.stanford.edu/manual/biosafety-manual/autoclaves"
+   },
+   "note": "Addgene also says 'at least 121 ℃ under 20 psi for at least 30 min'. Saturated steam at 121 °C is ~15 psi gauge; 20 psi entries are likely approximate/local. Stanford's '121 degrees F' is an evident typo for °C."
+  },
+  {
+   "parameter": "liquid cycle time (small volumes / media)",
+   "a": {
+    "quote": "Liquid media requires a shorter cycle, often 15- 20 minutes",
+    "url": "https://ehs.stanford.edu/manual/biosafety-manual/autoclaves"
+   },
+   "b": {
+    "quote": "Liquids 121°C (250°F) One hour",
+    "url": "https://ehs.unc.edu/topics/autoclaves/"
+   },
+   "note": "Stanford's 15-20 min refers to culture media; UNC's one hour is a blanket recommendation (likely liquid waste). VT's volume table (25 min @75 mL to 55 min @2 L) reconciles both: time scales with volume per container."
+  },
+  {
+   "parameter": "bleach (1:10) contact time for biological spills",
+   "a": {
+    "quote": "Allow 30 minutes of contact time. The contact time may vary depending on the decontaminant used.",
+    "url": "https://www.ehs.washington.edu/system/files/resources/biohazardous-spills.pdf"
+   },
+   "b": {
+    "quote": "20 minutes' contact time for freshly diluted 10% bleach (final vol/vol).",
+    "url": "https://www.emergency.ucsb.edu/emergency-response-procedures/biological-spill-response-step-step"
+   },
+   "note": "Also: WVU 20 min; Case 15-20 min; USU 'at least 20 minutes' and elsewhere on the same page 'After five minutes'. WHO LBM4 and CDC give no fixed contact time (agent/organic-load dependent)."
+  },
+  {
+   "parameter": "bleach dilution for blood spills (healthcare) vs lab spills",
+   "a": {
+    "quote": "For small spills of blood (i.e., drops of blood) on noncritical surfaces, the area can be disinfected with a 1:100 dilution of 5.25%-6.15% sodium hypochlorite",
+    "url": "https://www.cdc.gov/infection-control/hcp/disinfection-sterilization/chemical-disinfectants.html"
+   },
+   "b": {
+    "quote": "A freshly prepared 1:10 dilution of household bleach (~0.5% sodium hypochlorite) is suitable for most biological spills.",
+    "url": "https://www.ehs.washington.edu/system/files/resources/biohazardous-spills.pdf"
+   },
+   "note": "Context, not contradiction: CDC also requires 1:10 final for large blood spills; WHO: 1000 ppm clean vs 5000-10000 ppm dirty."
+  },
+  {
+   "parameter": "autoclave time at 121 °C (holding vs cycle)",
+   "a": {
+    "quote": "15 min holding time at 121 °C",
+    "url": "https://iris.who.int/server/api/core/bitstreams/cfb8a5aa-d5c7-4113-91fe-31c1b2246845/content"
+   },
+   "b": {
+    "quote": "Biohazardous waste should be autoclaved at 121° C (250° F) for at least 60 minutes",
+    "url": "https://ehs.unc.edu/topics/autoclaves/"
+   },
+   "note": "WHO figure is holding time after the load reaches temperature, after validation; UNC/VT/MIT figures are cycle settings for real loads."
+  },
+  {
+   "parameter": "USU internal inconsistency on bleach contact time",
+   "a": {
+    "quote": "Wait at least 20 minutes.",
+    "url": "https://research.usu.edu/ehs/training-and-resources/biological-spill-guidelines-procedures"
+   },
+   "b": {
+    "quote": "After five minutes, the liquid will be blotted up and the waste paper discarded in the biohazard container.",
+    "url": "https://research.usu.edu/ehs/training-and-resources/biological-spill-guidelines-procedures"
+   },
+   "note": "Same page gives 20 min and 5 min; flag as unreliable."
+  },
+  {
+   "parameter": "heat shock duration at 42°C (chemically competent E. coli)",
+   "a": {
+    "quote": "Heat shock at exactly 42°C for exactly 30 seconds. Do not mix.",
+    "url": "https://www.neb.com/en/protocols/high-efficiency-transformation-protocol-c2987"
+   },
+   "b": {
+    "quote": "42°C water bath for 30-60 secs (45 secs is usually ideal, but this varies depending on the competent cells you are using).",
+    "url": "https://www.addgene.org/protocols/bacterial-transformation/"
+   },
+   "note": "NEB's 30 s is specific to NEB 5-alpha in the supplied tube ('specific to the transformation volume and vessel'); Addgene's 45 s is generic. Follow the cell manufacturer's protocol."
+  },
+  {
+   "parameter": "post-heat-shock ice time",
+   "a": {
+    "quote": "Place on ice for 5 minutes. Do not mix.",
+    "url": "https://www.neb.com/en/protocols/high-efficiency-transformation-protocol-c2987"
+   },
+   "b": {
+    "quote": "Put the tubes back on ice for 2 min.",
+    "url": "https://www.addgene.org/protocols/bacterial-transformation/"
+   },
+   "note": "Minor difference; NEB value applies to NEB cells."
+  },
+  {
+   "parameter": "outgrowth time and medium",
+   "a": {
+    "quote": "Pipette 950 µl of room temperature SOC outgrowth media into the mixture. Place at 37°C for 60 minutes.",
+    "url": "https://www.neb.com/en/protocols/high-efficiency-transformation-protocol-c2987"
+   },
+   "b": {
+    "quote": "Add 250-1,000 μl LB or SOC media (without antibiotic) to the bacteria and grow in 37°C shaking incubator for 45 min.",
+    "url": "https://www.addgene.org/protocols/bacterial-transformation/"
+   },
+   "note": "NEB: 'SOC gives 2-fold higher transformation efficiency than LB medium' and each 15 min shortened costs ~2-fold."
+  },
+  {
+   "parameter": "GHS classification of ~1% ethidium bromide solution",
+   "a": {
+    "quote": "Signal Word Danger Hazard Statements Toxic if inhaled Suspected of causing genetic defects",
+    "url": "https://www.fishersci.com/store/msds?partNumber=BP1302-10&productDescription=ETHIDIUM+BROMIDE+10ML&vendorId=VN00033897&countryCode=US&language=en"
+   },
+   "b": {
+    "quote": "Signal Word WARNING ... Hazard Statements H341 - Suspected of causing genetic defects",
+    "url": "https://assets.thermofisher.com/TFS-Assets/LSG/SDS/15585011_MTR-NALT_EN.pdf"
+   },
+   "note": "Two Thermo Fisher-family SDSs for ~1% EtBr solution (Fisher 1%; Invitrogen 0.5-1.5%) disagree on signal word and inhalation toxicity. Sigma's powder (E7637) is Danger with H302/H330/H341. Agent should present the stricter classification."
+  }
+ ],
+ "notes": "All values were copied from live pages/PDFs retrieved 2026-10-04 (UTC); nothing was filled in from memory. Unreachable / limitations: (1) CSH Protocols' 'Media containing agar or agarose' recipe and the CSH CaCl2 transformation protocol (pdb.prot3932, the usual 90 s heat-shock source) are behind a sign-in wall, so no 90 s heat-shock claim from a reputable source is recorded — only NEB 30 s, Thermo 30 s and Addgene 45 s (30-60 s). (2) WHO LBM4 core manual and its Decontamination monograph give ppm-based hypochlorite strengths (1000 ppm clean / 5000-10000 ppm dirty) but NO fixed bleach contact time; CDC's chemical-disinfectants page likewise gives dilutions (1:10 / 1:100) but no contact time for spills — contact times come only from university SOPs (15-20, 20, 30 min; USU also says 5 min). (3) WHO Table 2.2 lists '20 mL' / '100 mL' of 5% NaOCl for clean/dirty conditions without printing the per-litre unit for that row (other rows are g/L). (4) Sigma product pages and the Thermo SYBR Safe page redirected to regional (/NG/, /ng/) versions; the US URLs are recorded. (5) The Fisher BP1302 SDS prints hazard statements as text without H-codes ('Toxic if inhaled' = Acute Inhal. Tox. Cat. 3); no H-codes were inferred. Thermo's SYBR Safe page gives no GHS classification, CAS or storage condition, so those fields are null. (6) CSH PBS does not state the hydration form of Na2HPO4; 1.44 g for 10 mM implies anhydrous (inference, flagged in recipe notes). (7) Stanford's biosafety manual literally says '121 degrees F' for its waste cycle — an evident typo for °C, recorded as disputed. (8) 'LB' ambiguity: CSH and Addgene both say just 'LB'/'Luria broth' with 10 g/L NaCl (Miller composition); Sigma lists 'Luria Broth (Miller's Modification)' as a synonym of its 0.5 g/L NaCl low-salt product L3397. Always resolve LB variant by NaCl g/L. (9) A University of Wisconsin-La Crosse autoclave table surfaced in search (different minutes per volume) but its PDF returned 404, so it was not used."
+}

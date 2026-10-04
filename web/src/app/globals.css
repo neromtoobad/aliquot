@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+:root {
+  --paper: #fbfaf6;
+  --card: #ffffff;
+  --ink: #1c1b18;
+  --muted: #6e6a60;
+  --faint: #9a958a;
+  --line: #e8e4d9;
+  --line-strong: #d8d2c3;
+  --marker: #ffe36e;
+  --marker-soft: #fff6c7;
+  --yes: #1d7a46;
+  --yes-soft: #e6f4ec;
+  --no: #b4321f;
+  --no-soft: #fbe9e5;
+  --risk: #a65b06;
+  --risk-soft: #fdf0dc;
+  --info: #2c4f8a;
+  --info-soft: #e8eef8;
+}
+
+@theme inline {
+  --color-paper: var(--paper);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-marker: var(--marker);
+  --color-marker-soft: var(--marker-soft);
+  --color-yes: var(--yes);
+  --color-yes-soft: var(--yes-soft);
+  --color-no: var(--no);
+  --color-no-soft: var(--no-soft);
+  --color-risk: var(--risk);
+  --color-risk-soft: var(--risk-soft);
+  --color-info: var(--info);
+  --color-info-soft: var(--info-soft);
+  --font-serif: var(--font-serif);
+  --font-sans: var(--font-sans-ui);
+  --font-mono: var(--font-mono-ui);
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-sans-ui), ui-sans-serif, system-ui, sans-serif;
+}
+
+/* a highlighter stroke, slightly uneven like a real one */
+.marker {
+  background: linear-gradient(104deg, transparent 0.6%, var(--marker) 2.4%, var(--marker) 96%, transparent 99%);
+  background-size: 100% 62%;
+  background-position: 0 78%;
+  background-repeat: no-repeat;
+  padding: 0 0.12em;
+}
+
+.prose-fp p { margin: 0.35rem 0; line-height: 1.6; }
+.prose-fp ul { list-style: disc; padding-left: 1.2rem; margin: 0.35rem 0; }
+.prose-fp ol { list-style: decimal; padding-left: 1.2rem; margin: 0.35rem 0; }
+.prose-fp strong { font-weight: 600; }
+.prose-fp code { font-family: var(--font-mono-ui); font-size: 0.85em; background: #f3f0e7; padding: 0.05em 0.3em; border-radius: 4px; }
+.prose-fp a { text-decoration: underline; text-underline-offset: 2px; }
+
+@keyframes pulse-dot { 0%, 100% { opacity: 0.25 } 50% { opacity: 1 } }
+.dot-pulse span { animation: pulse-dot 1.2s infinite; }
+.dot-pulse span:nth-child(2) { animation-delay: 0.2s; }
+.dot-pulse span:nth-child(3) { animation-delay: 0.4s; }
+
+/* faint lab-notebook grid on the page */
+body {
+  background-image:
+    linear-gradient(to right, rgba(120, 140, 120, 0.06) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(120, 140, 120, 0.06) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
