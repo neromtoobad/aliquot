@@ -279,7 +279,15 @@ function Case({engine, instanceId}: {engine: Engine; instanceId: string}) {
       ) : (
         <section className={`decided ${verdict ?? ''}`}>
           <div className="stamp">{verdict === 'dismissed' ? 'DISMISSED' : verdict ? verdict.replace('-', ' ').toUpperCase() : STAGE_LABEL[stage]}</div>
-          {ruled && <p className="ruling-text">“{ruled}”</p>}
+          {/* The lab rule is what governs; the workflow keeps the ruling exactly as first entered. */}
+          {evidence?.law?.rule ? (
+            <p className="ruling-text">“{evidence.law.rule}”</p>
+          ) : (
+            ruled && <p className="ruling-text">“{ruled}”</p>
+          )}
+          {evidence?.law?.rule && ruled && ruled.trim() !== evidence.law.rule.trim() && (
+            <p className="law">As first entered in the case record: “{ruled}” — the judge corrected the wording in the lab rule afterwards.</p>
+          )}
           {(entered || evidence?.law) && verdict !== 'dismissed' && (
             <p className="law">
               Entered into the lab SOP as <b>{evidence?.law?.title ?? 'a lab rule'}</b>. Aliquot now applies it before any outside source.

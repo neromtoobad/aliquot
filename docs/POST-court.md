@@ -36,7 +36,13 @@ The agent can move a case forward, but only a person can decide it, and both go 
 
 ![The clerk's brief and the four gavels. "The clerk recommends, but only a person can rule."](https://raw.githubusercontent.com/neromtoobad/aliquot/main/docs/img/court-brief.jpg)
 
-<!-- RULING SCREENSHOT: the stamped verdict + "Entered into the lab SOP" -->
+The first ruling:
+
+![The ruled case: a BOTH APPLY stamp, the ruling, and a note that it was entered into the lab SOP](https://raw.githubusercontent.com/neromtoobad/aliquot/main/docs/img/court-ruled.jpg)
+
+The same ruling, a moment later, inside the agent it governs:
+
+![Aliquot answering a bleach question: "Your lab's SOP overrides" quotes the Bench Court ruling, and the answer is 30 minutes inside the biosafety cabinet](https://raw.githubusercontent.com/neromtoobad/aliquot/main/docs/img/aliquot-obeys-ruling.jpg)
 
 ## Code
 
@@ -120,7 +126,9 @@ The first version named cases after page titles and produced *"Biological Spill 
 
 **7. Something I'm glad we noticed.** While debugging the frame, Claude read the iframe's `src` and found the Dashboard passes a **session token in the URL fragment**. It didn't open or reuse it, and it flagged it so I'd redact it from the transcript below.
 
-**8. What I'd do differently.** The ruling writes the `labRule` from the browser after `fireAction` succeeds. The right shape is a Workflows **effect** on entering `ruled`, drained by a Sanity Function, so the rule exists even if the tab closes mid-ruling. I ran out of day.
+**8. My first ruling was gibberish, and the record says so.** I ruled the bleach case **Both apply**, but the ruling text I typed while poking at the gavel was literally `nnm,,`. The workflow did exactly what it should: the case moved to `ruled`, and a `labRule` appeared with `origin: "court"`, the verdict, the brief, links to the 3 overridden claims and the workflow instance id. That also means the "law" read `nnm,,`. I supplied the wording I meant, and we patched it into the lab rule with `sanity exec`. We left the workflow instance alone (the docs say not to edit instances as content), so the case history still shows the original entry. The courtroom now shows the corrected rule with a line underneath: *"As first entered in the case record: "nnm,," — the judge corrected the wording in the lab rule afterwards."* Then I asked [Aliquot](https://aliquot-five.vercel.app) *"How long should I leave 1:10 bleach on a culture spill inside the biosafety cabinet?"* It answered **30 minutes**, quoting my ruling under "Your lab's SOP overrides".
+
+**9. What I'd do differently.** The ruling writes the `labRule` from the browser after `fireAction` succeeds. The right shape is a Workflows **effect** on entering `ruled`, drained by a Sanity Function, so the rule exists even if the tab closes mid-ruling. I ran out of day.
 
 **Prompts that worked:**
 - "Survey the existing entries and tell me which domains are taken." I wish I'd asked it first.
