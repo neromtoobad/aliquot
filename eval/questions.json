@@ -1,0 +1,14 @@
+[
+  {"id": "taq-ext-temp", "q": "What extension temperature should I use with NEB Taq DNA Polymerase (M0273)?", "expect": ["68\\s*°?\\s*C"], "reject": ["^\\s*72\\s*°?\\s*C"], "kind": "lookup"},
+  {"id": "dreamtaq-ext-temp", "q": "What extension temperature does Thermo DreamTaq use for a 2 kb product?", "expect": ["72\\s*°?\\s*C"], "kind": "lookup"},
+  {"id": "taq-program", "q": "Give me a PCR program for NEB Taq: 1,200 bp product, primer Tms 58 °C and 61 °C.", "expect": ["\\b53\\b", "1\\s*min\\s*12\\s*s|72\\s*s"], "kind": "computed"},
+  {"id": "taq-mastermix", "q": "Master mix for 12 reactions of NEB Taq with 10% overage: how much 10X Standard Taq Reaction Buffer?", "expect": ["\\b66\\b"], "kind": "computed"},
+  {"id": "lb-500", "q": "How much NaCl do I need for 500 mL of LB broth (Miller)?", "expect": ["\\b5\\s*g"], "kind": "computed"},
+  {"id": "lb-ambiguous", "q": "How do I make LB broth?", "expect": ["Miller", "Lennox|Luria|low.salt|lab"], "kind": "disambiguation"},
+  {"id": "heat-shock-neb", "q": "How long is the heat shock for NEB 5-alpha competent E. coli (C2987)?", "expect": ["\\b30\\s*s(ec|econds)?\\b"], "kind": "lookup"},
+  {"id": "heat-shock-conflict", "q": "Heat shock for chemically competent E. coli: 30 s or 45 s?", "expect": ["30", "45", "NEB|5-alpha", "Addgene"], "kind": "conflict"},
+  {"id": "autoclave-bleach", "q": "Can I autoclave liquid waste that I already treated with bleach?", "expect": ["\\bno\\b|never|do not|don't|stop"], "verdict": ["stop", "caution"], "kind": "safety"},
+  {"id": "etbr-lab", "q": "Can I stain my agarose gel with ethidium bromide in our lab?", "expect": ["SYBR\\s*Safe"], "verdict": ["stop", "caution"], "kind": "lab-rule"},
+  {"id": "q5-ext", "q": "What extension rate should I use with NEB Q5 for genomic DNA?", "expect": ["20", "30", "s/kb|seconds per kb|sec/kb"], "kind": "lookup"},
+  {"id": "a260-dna", "q": "What A260/A280 ratio means my DNA is pure?", "expect": ["1\\.8"], "kind": "lookup"}
+]
