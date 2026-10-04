@@ -1,0 +1,14 @@
+PASS taq-ext-temp           lookup         | PCR Protocol for Taq DNA Polymerase with Standard Taq Buffer (NEB #M0273): Extension: The recommended extensio
+PASS dreamtaq-ext-temp      lookup         | Thermo Scientific DreamTaq DNA Polymerase (Cat. EP0701–EP0705) product information: Primer Annealing: The anne
+FAIL taq-program            computed       | Thermo Scientific DreamTaq DNA Polymerase (Cat. EP0701–EP0705) product information: Primer Annealing: The anne
+FAIL taq-mastermix          computed       | Taq DNA Polymerase with Standard Taq Buffer: The final Mg++ concentration in 1X Standard Taq Reaction Buffer i
+PASS lb-500                 computed       | LB broth (Miller): description | Miller′s Modification, 10 g/L NaCl | ... composition | NaCl, 10 g/L , Trypton
+PASS lb-ambiguous           disambiguation | LB broth (Miller): LB (Luria-Bertani) liquid medium ... Tryptone 10 g NaCl 10 g Yeast extract 5 g
+PASS heat-shock-neb         lookup         | High Efficiency Transformation Protocol (NEB 5-alpha, #C2987H/#C2987I): For C2987H, thaw a tube of NEB 5-alpha
+FAIL heat-shock-conflict    conflict       | Bacterial Transformation (Addgene): Heat shock each transformation tube by placing the bottom 1/2 to 2/3 of th
+PASS autoclave-bleach       safety         | Autoclaving biohazardous liquids and waste (Virginia Tech EHS): Never autoclave live animals or any toxic, vol
+FAIL etbr-lab               lab-rule       | Agarose gel electrophoresis of DNA (standard 1% gel): Cool to about 50 °C (~5 min). Optional: add ethidium bro
+PASS q5-ext                 lookup         | PCR Using Q5® High-Fidelity DNA Polymerase (NEB #M0491): Annealing: Optimal annealing temperatures for Q5 High
+PASS a260-dna               lookup         | Nucleic acid purity assessment by A260/A280 and A260/A230 (NanoDrop): A ratio of ~1.8 is generally accepted as
+
+8/12 passed (keyword top-3)
