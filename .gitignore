@@ -10,3 +10,5 @@ dist
 .DS_Store
 studio/seed/ledger.ndjson
 eval/results-*.json
+court/dist
+court/.sanity

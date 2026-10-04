@@ -1,0 +1,46 @@
+{
+  "name": "bench-court",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "package.json",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "sanity build",
+    "deploy": "sanity deploy",
+    "dev": "sanity dev",
+    "start": "sanity start"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/sdk": "^3.7.0",
+    "@sanity/sdk-react": "^3.7.0",
+    "@sanity/ui": "^4.3.0",
+    "@sanity/workflow-components": "0.36.0",
+    "@sanity/workflow-diagram": "0.36.0",
+    "@sanity/workflow-engine": "0.36.0",
+    "@sanity/workflow-react": "0.36.0",
+    "@sanity/workflow-sdk": "0.36.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "styled-components": "^6.5.3"
+  },
+  "devDependencies": {
+    "@sanity/eslint-config-studio": "^7",
+    "@sanity/workflow-blueprint": "0.36.0",
+    "@sanity/workflow-cli": "0.36.0",
+    "@types/react": "^19.2.14",
+    "ai": "^7.0.127",
+    "eslint": "^10.8.1",
+    "prettier": "^3.5",
+    "sanity": "^6.17.0",
+    "typescript": "^5.8"
+  },
+  "overrides": {
+    "@sanity/sdk": {
+      "@sanity/mutate": "0.18.2"
+    }
+  }
+}

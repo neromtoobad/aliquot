@@ -22,6 +22,7 @@ export default async function Home() {
         </a>
         <nav className="flex items-center gap-4 text-sm text-muted">
           <a href="/how" className="hover:text-ink">How it works</a>
+          <a href="/court" className="hover:text-ink">Bench Court</a>
           {projectId && (
             <a
               href={`https://${projectId}.api.sanity.io/v2026-10-01/data/query/${dataset}?query=${LEDGER_QUERY}`}
