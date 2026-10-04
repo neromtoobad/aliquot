@@ -36,7 +36,12 @@ export async function getDisputes(): Promise<Dispute[]> {
       g.values.push({value: `${r.value}${r.unit ? ` ${r.unit}` : ''}`, source: r.source, authority: r.authority, standing: r.standing})
       groups.set(k, g)
     }
-    return [...groups.values()].filter((g) => new Set(g.values.map((v) => v.value)).size > 1).slice(0, 10)
+    // Numbers people actually set on a machine, not long lists of exceptions.
+    return [...groups.values()]
+      .map((g) => ({...g, values: g.values.filter((v) => v.value.length <= 32)}))
+      .filter((g) => new Set(g.values.map((v) => v.value)).size > 1)
+      .sort((a, b) => new Set(b.values.map((v) => v.value)).size - new Set(a.values.map((v) => v.value)).size)
+      .slice(0, 9)
   } catch {
     return []
   }
